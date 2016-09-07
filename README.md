@@ -29,12 +29,13 @@ Some suggestions:
   + Your last day/half a day should be for polish and bug fixing from the merges, not for functionality
 + Breathe - this can be nerve wracking and taking some deep breaths will help slow you down!
 + Before the demo, set the expectation of how long you think the demo will be. This includes the demo itself + any questions you think the clients (or anyone else) might have. This shows that you’re organised and it prevents any inadvertent time wasting by time boxing it. It gives you a reference point that you can point to if you notice that you’re running over time. (_a passionate client can talk for hours if you let them!_)
++ Decide who will be driving the demo. The demo will usually be introduced by the scrum master or the product owner (_the person with the most demo experience on the team_). The demo will then be handed over to the developers who have been working on it as they begin to go through the user flow. At any given time, the person with the most experience on a certain aspect of the application should be talking about it. This should be pre-decided before the demo so that everyone knows their responsibilities.
 + Start the demo by providing some context such as what the aim of the sprint was and what you'll be demonstrating
   + Be calm and deliberate
   + The purpose here is two-fold; it sets up the demo but more importantly it allows attendees time to gently have a little time to switch their attention away from their previous tasks (or meeting they have just come from), slow down and focus on the task at hand
   + Know your audience! Be sympathetic to who you're delivering your demo to. If they aren't technical then they won't appreciate any of the technical detail that you could go into. Your job is to be prepared for any technical questions that may be asked but it shouldn't be the focus of the demo. Don't describe what it is, describe how what you've done adds value to their application.
 + TO ADD:
   + [x] Timing of demo
-  + [ ] Who drives? Definitely you!
+  + [x] Who drives? Definitely you!
   + [ ] How to wrap up
   + [ ] Release notes
