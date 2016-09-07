@@ -34,7 +34,7 @@ Some suggestions:
   + The purpose here is two-fold; it sets up the demo but more importantly it allows attendees time to gently have a little time to switch their attention away from their previous tasks (or meeting they have just come from), slow down and focus on the task at hand
   + Know your audience! Be sympathetic to who you're delivering your demo to. If they aren't technical then they won't appreciate any of the technical detail that you could go into. Your job is to be prepared for any technical questions that may be asked but it shouldn't be the focus of the demo. Don't describe what it is, describe how what you've done adds value to their application.
 + TO ADD:
-  + [ ] Timing of demo
+  + [x] Timing of demo
   + [ ] Who drives? Definitely you!
   + [ ] How to wrap up
   + [ ] Release notes
