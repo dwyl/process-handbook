@@ -14,16 +14,21 @@ These notes have been written in the context of a client meeting where you are d
 
 Creating structure to a call is both helpful for the client and you. It helps ensure that you both understand what to expect and as a result, hopefully if there's any confusion about this it can be caught before anyone becomes disappointed or confused.
 
-Key points to punctuate the structure of the call are:
+Key times when you should outline the structure of the call are:
 
 - The beginning
 - If you are approaching the time at which the meeting is due to end but can foresee it over-running
 - The actual end/ conclusion of the meeting
 
-### Beginning
+### Beginning Outline
 
 You may tell the client that your call will address the following:
 - What stage the project is at so far? (Not just as a team but also in more detail technically)
 - Trying to answer whether dwyl has the skills required to tackle the client's project
 - Ensuring that promises/expectations are clear and can be met, and in the case where client 2 may already be involved, what client 2's expectations are and whether they're currently being (or are on target to be) met.
 - The call will end with clear next steps for action.
+
+### Time Deadline Warning
+
+- If you're meeting is due to end shortly (in the next 5/10 mins) politely make the client aware of this.
+- You may at this point wish to revise the structure of the meeting depending on whether you and the client are able to overrun your allotted time and depending on how much content you still have to cover. If in doubt, discuss this with them.
