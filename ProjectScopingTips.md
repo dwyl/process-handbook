@@ -101,3 +101,6 @@ What are client 2's priorities:
 
 #### Never bad mouth any of the team
 - If ever the client is under pressure (deadlines etc.) and they bad mouth a teammate or dwyl member who is collaborating on the project, do not condone this. You can empathise that time may be short or that there is a lot to do but bad mouthing any individual is not professional or advised.
+
+#### Do not Give Budget Estimates Before Having Sufficient Information
+- Giving an estimate on the fly and later realising that it did not reflect the parameters of the situation fully will have negative consequences. Even if the client pushes you for an immediate quote simply explain that you don't want to mislead them and that creating a proper estimate requires a full picture and consideration of the task. If possible you can tell them when you will be able to give them a full quote by.
