@@ -32,3 +32,7 @@ You may tell the client that your call will address the following:
 
 - If you're meeting is due to end shortly (in the next 5/10 mins) politely make the client aware of this.
 - You may at this point wish to revise the structure of the meeting depending on whether you and the client are able to overrun your allotted time and depending on how much content you still have to cover. If in doubt, discuss this with them.
+
+### Meeting End with next steps
+
+- Outline what actions each party needs to take in order to progress the next steps. Where possible ensure you outline timings/deadlines for these things.
