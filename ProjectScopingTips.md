@@ -38,7 +38,7 @@ You may tell the client that your call will address the following:
 
 - Outline what actions each party needs to take in order to progress the next steps. Where possible ensure you outline timings/deadlines for these things.
 
-## Early steps
+## Early Steps
 
 #### Ask the Client to Describe the Project in their Own Words
 - This is a great way to begin the conversation. It helps you understand the project from the perspective of who you're meeting with (bear in mind that this person may not be the person who wrote the brief). It helps refresh your memory of the brief or inform you if you haven't yet read the brief. It gives you the latest picture of the project which may have changed somewhat since the original brief was issued to you.
