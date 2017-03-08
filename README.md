@@ -68,10 +68,10 @@ In both instances ensure you mention what was learnt along the way.
 Once the previous sprint's stories have been reviewed and moved to the relevant places your milestone should now be 100% complete. At this point you should **close** the **milestone** on GitHub:
 ![please-close-completed-sprints](https://cloud.githubusercontent.com/assets/194400/11141396/dd7dcafa-89dc-11e5-9b08-014af837a38a.png)
 
-#### Step 4 - Wrap Up the Demo
+#### Step 5 - Wrap Up the Demo
 Once you've completed your run-through of the demo, recap on what you've talked about and then ask if there are any questions (_from either side_). Discuss your plans for the next sprint in terms of deciding on a date to confirm a new scope of work.
 
-#### Step 5 - Invoice the Client
+#### Step 6 - Invoice the Client
 As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
 
 ### Sprint Planning
