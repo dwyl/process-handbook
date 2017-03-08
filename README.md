@@ -6,10 +6,11 @@ This is very much a work in progress. Please [add an issue](https://github.com/d
 
 All of this is predicated on the assumption that you care about your clients and you care about delivering quality code. Go into this with a positive attitude!
 
-## End of sprint process
+## End of Sprint Process
 
-### Sprint demo
-In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint. [Note: we can probably cut out this paragraph to make things a little leaner when the context is provided in the end document]
+At the end of every sprint there is a sprint demo with the client. In essence this involves showing the client which of the stories outlined in the sprint milestone have been successfully achieved and how you achieved them. As well as discussing which stories were not completed, why and what the next steps for dealing with these should be.
+
+In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint.
 
 Some suggestions:
 + **Prep beforehand**
