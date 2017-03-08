@@ -16,8 +16,8 @@ All of this is predicated on the assumption that you care about your clients and
 + **Invoice** the client (*ASAP*)
 
 #### Step 1
-Ensure that you're holding your sprint review/demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on github.
-Unless you are *constantly* referring to the project board (*in our case the github issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
+Ensure that you're holding your sprint review/demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on GitHub.
+Unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
 
 #### Step 2
 This part of the process will be repeated for each of the stories listed under the sprint milestone. Start with one story. For each story you have a couple of possible actions to take:
@@ -30,18 +30,19 @@ Estimating and tracking time is the ***single*** most important factor to manage
 
 #### Step 3
 
-Once the previous Sprint's *Stories* have been reviewed you should ***Close*** the **Milestone** on GitHub:
+Once the previous sprint's *stories* have been reviewed and moved to the relevant places your Milestone should now be 100% complete. At this point you should ***close*** the **milestone** on GitHub:
 ![please-close-completed-sprints](https://cloud.githubusercontent.com/assets/194400/11141396/dd7dcafa-89dc-11e5-9b08-014af837a38a.png)
 
-As soon as the Product Owner (Client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
+#### Step 4
+As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
+
 ### Sprint demo
-In our experience to date, this is delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint. [Note: we can probably cut out this paragraph to make things a little leaner when the context is provided in the end document]
+In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint. [Note: we can probably cut out this paragraph to make things a little leaner when the context is provided in the end document]
 
 Some suggestions:
 + **Prep beforehand**
   + **Previous Experience**  
   Recap on lessons learnt from previous demos. It's always good to reflect on what worked well in the past and also what didn't. This can help you avoid mistakes you may have made before and also leverage the things that went particularly smoothly. Make sure you have someone taking notes for you during the demo so that you can focus on delivering it at the time, and then you can review your performance afterwards.
-  +
   + **Project Backlog**
   Review your backlog and take note of all the work you have done in the sprint
   + **Walkthrough**  
