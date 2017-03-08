@@ -8,46 +8,8 @@ All of this is predicated on the assumption that you care about your clients and
 
 ## End of sprint process
 
-### Overview of Steps
-+ **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
-+ Compare to original **time estimates** for each story
-+ What did we **learn**?
-+ Close sprint *milestone** on GitHub
-+ **Invoice** the client (*ASAP*)
-
-#### Step 1
-Ensure that you're holding your sprint review/demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on GitHub.
-Unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
-
-#### Step 2
-This part of the process will be repeated for each of the stories listed under the sprint milestone. Start with one story. For each story you have a couple of possible actions to take:
-- **If the issue is already closed:** talk through how the delivering the story has gone and
-confirm whether the original time estimates were met (*or why the task took more time than originally predicted*).
-
-Estimating and tracking time is the ***single*** most important factor to manage in a software project, it's how we show the Product Owner / client that we are providing value-for-money and helps us to plan future sprints with *any* degree of accuracy. This is where other teams fall down.
-
-- **If the issue is still open:** discuss why it is still open, how long it's been taking to complete and what still needs to be done (and how long that will take). If the issue is still relevant and in need of imminent completion remove it from the current sprint milestone and label it for the next sprint milestone. When you move the issue make sure you leave a comment within it which explains the current progress on the issue and why it's being moved to the next sprint. If the issue is now no longer a priority or something is blocking it and will be for a considerable period consider placing it in the backlog milestone.
-
-#### Step 3
-
-Once the previous sprint's *stories* have been reviewed and moved to the relevant places your Milestone should now be 100% complete. At this point you should ***close*** the **milestone** on GitHub:
-![please-close-completed-sprints](https://cloud.githubusercontent.com/assets/194400/11141396/dd7dcafa-89dc-11e5-9b08-014af837a38a.png)
-
-#### Step 4
-As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
-
-### Sprint Planning
-- Discuss upcoming deadlines and agree on the next sprint duration. Generally we work in 2 week sprints however from time to time if a deadline dictates that this is no possible, we may work in a shorter sprint ie. a week. Be cautious when considering running longer sprints, sprints are called sprints for a reason and are not designed to be extremely long periods!
-- Review how many/ what kinds of issues you may already have added to the milestone that were unfinished from the previous sprint.
-- According to the size of your team/ length of your sprint, review your repo's issues paying attention to the priority labels. Alter the priority labels so that last sprint's priority 2 are now this sprint's priority 1 (and so on). Only assign a realistic number of issues to the sprint. If there are too many of the same priority to assign to the next sprint, discuss what can be delivered and ask the client to clarify in order to dictate what goes ahead.
-- Assign time estimate labels to the issues getting input from relevant team members to improve accuracy.
-
 ### Sprint demo
 In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint. [Note: we can probably cut out this paragraph to make things a little leaner when the context is provided in the end document]
-
-
-
-
 
 Some suggestions:
 + **Prep beforehand**
@@ -83,8 +45,45 @@ Decide who will be driving the demo. The demo will usually be introduced by the 
   The purpose here is two-fold; it sets up the demo but ***more importantly*** it allows attendees time to gently have a little time to switch their attention away from their previous tasks (or meeting they have just come from), slow down and focus on the task at hand
   + **Know your audience!**
   Be sympathetic to who you're delivering your demo to. If they aren't technical then they won't appreciate any of the technical detail that you could go into. Your job is to be prepared for any technical questions that may be asked but it shouldn't be the focus of the demo. Don't describe what it is, describe how what you've done adds value to their application.
-+ **Wrap Up the Demo**
+
+### Overview of Steps
++ **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
++ Compare to original **time estimates** for each story
++ What did we **learn**?
++ Close sprint *milestone** on GitHub
++ **Invoice** the client (*ASAP*)
+
+#### Step 1
+Ensure that you're holding your sprint review/demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on GitHub.
+Unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
+
+#### Step 2
+This part of the process will be repeated for each of the stories listed under the sprint milestone. Start with one story. For each story you have a couple of possible actions to take:
+- **If the issue is already closed:** talk through how the delivering the story has gone and
+confirm whether the original time estimates were met (*or why the task took more time than originally predicted*).
+
+Estimating and tracking time is the ***single*** most important factor to manage in a software project, it's how we show the Product Owner / client that we are providing value-for-money and helps us to plan future sprints with *any* degree of accuracy. This is where other teams fall down.
+
+- **If the issue is still open:** discuss why it is still open, how long it's been taking to complete and what still needs to be done (and how long that will take). If the issue is still relevant and in need of imminent completion remove it from the current sprint milestone and label it for the next sprint milestone. When you move the issue make sure you leave a comment within it which explains the current progress on the issue and why it's being moved to the next sprint. If the issue is now no longer a priority or something is blocking it and will be for a considerable period consider placing it in the backlog milestone.
+
+#### Step 3
+
+Once the previous sprint's *stories* have been reviewed and moved to the relevant places your Milestone should now be 100% complete. At this point you should ***close*** the **milestone** on GitHub:
+![please-close-completed-sprints](https://cloud.githubusercontent.com/assets/194400/11141396/dd7dcafa-89dc-11e5-9b08-014af837a38a.png)
+
+#### Step 4
+**Wrap Up the Demo**
 Once you've completed your run-through of the demo, recap on what you've talked about and then ask if there are any questions (_from either side_). Discuss your plans for the next sprint in terms of deciding on a date to confirm a new scope of work.
+
+#### Step 5
+As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
+
+### Sprint Planning
+This may done immediately after a sprint demo or otherwise on a time/date agreed at the end of the sprint demo.
+- Discuss upcoming deadlines and agree on the next sprint duration. Generally we work in 2 week sprints however from time to time if a deadline dictates that this is no possible, we may work in a shorter sprint ie. a week. Be cautious when considering running longer sprints, sprints are called sprints for a reason and are not designed to be extremely long periods!
+- Review how many/ what kinds of issues you may already have added to the milestone that were unfinished from the previous sprint.
+- According to the size of your team/ length of your sprint, review your repo's issues paying attention to the priority labels. Alter the priority labels so that last sprint's priority 2 are now this sprint's priority 1 (and so on). Only assign a realistic number of issues to the sprint. If there are too many of the same priority to assign to the next sprint, discuss what can be delivered and ask the client to clarify in order to dictate what goes ahead.
+- Assign time estimate labels to the issues getting input from relevant team members to improve accuracy.
 
 + TO ADD:
   + [x] Timing of demo
