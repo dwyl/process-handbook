@@ -36,8 +36,18 @@ Once the previous sprint's *stories* have been reviewed and moved to the relevan
 #### Step 4
 As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
 
+### Sprint Planning
+- Discuss upcoming deadlines and agree on the next sprint duration. Generally we work in 2 week sprints however from time to time if a deadline dictates that this is no possible, we may work in a shorter sprint ie. a week. Be cautious when considering running longer sprints, sprints are called sprints for a reason and are not designed to be extremely long periods!
+- Review how many/ what kinds of issues you may already have added to the milestone that were unfinished from the previous sprint.
+- According to the size of your team/ length of your sprint, review your repo's issues paying attention to the priority labels. Alter the priority labels so that last sprint's priority 2 are now this sprint's priority 1 (and so on). Only assign a realistic number of issues to the sprint. If there are too many of the same priority to assign to the next sprint, discuss what can be delivered and ask the client to clarify in order to dictate what goes ahead.
+- Assign time estimate labels to the issues getting input from relevant team members to improve accuracy.
+
 ### Sprint demo
 In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint. [Note: we can probably cut out this paragraph to make things a little leaner when the context is provided in the end document]
+
+
+
+
 
 Some suggestions:
 + **Prep beforehand**
