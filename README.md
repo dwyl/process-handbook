@@ -32,6 +32,8 @@ This can be nerve wracking and taking some deep breaths will help slow you down!
 Be sympathetic to who you're delivering your demo to. If they aren't technical then they won't appreciate any of the technical detail that you could go into. Your job is to be prepared for any technical questions that may be asked but it shouldn't be the focus of the demo. Don't describe what it is, describe how what you've done adds value to their application.
 + **Link Your Scope**    
 In your walkthrough try and tie all of the work you've done to the proposed scope (milestone). If you haven't completed all of the deliverables that you've agreed upon make sure that you have a think beforehand about what needs doing, and how you're going to solve this moving forward.
++ **Have prepared notes/script**
+Prepare notes/ a script which details what you're going to cover during the demo to help you feel prepared and calm during the demo and to ensure that nothing is left out.
 
 ### Overview of Steps
 1. **Context**
