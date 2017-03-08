@@ -7,6 +7,7 @@ This is very much a work in progress. Please [add an issue](https://github.com/d
 All of this is predicated on the assumption that you care about your clients and you care about delivering quality code. Go into this with a positive attitude!
 
 ## End of sprint process
+
 ### Overview of Steps
 + **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
 + Compare to original **time estimates** for each story
@@ -15,14 +16,19 @@ All of this is predicated on the assumption that you care about your clients and
 + **Invoice** the client (*ASAP*)
 
 #### Step 1
-This process will be repeated for each of the stories listed under the sprint milestone. Start with one story. Talk through how the delivering the story has gone and
+Ensure that you're holding your sprint review/demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on github.
+Unless you are *constantly* referring to the project board (*in our case the github issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
+
+#### Step 2
+This part of the process will be repeated for each of the stories listed under the sprint milestone. Start with one story. For each story you have a couple of possible actions to take:
+- **If the issue is already closed:** talk through how the delivering the story has gone and
 confirm whether the original time estimates were met (*or why the task took more time than originally predicted*).
 
 Estimating and tracking time is the ***single*** most important factor to manage in a software project, it's how we show the Product Owner / client that we are providing value-for-money and helps us to plan future sprints with *any* degree of accuracy. This is where other teams fall down.
 
+- **If the issue is still open:** discuss why it is still open, how long it's been taking to complete and what still needs to be done (and how long that will take). If the issue is still relevant and in need of imminent completion remove it from the current sprint milestone and label it for the next sprint milestone. When you move the issue make sure you leave a comment within it which explains the current progress on the issue and why it's being moved to the next sprint. If the issue is now no longer a priority or something is blocking it and will be for a considerable period consider placing it in the backlog milestone.
 
------
-Which is why having a sprint review meeting in a *park* is not the *best* idea ... unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) its *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
+#### Step 3
 
 Once the previous Sprint's *Stories* have been reviewed you should ***Close*** the **Milestone** on GitHub:
 ![please-close-completed-sprints](https://cloud.githubusercontent.com/assets/194400/11141396/dd7dcafa-89dc-11e5-9b08-014af837a38a.png)
