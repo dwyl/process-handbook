@@ -13,31 +13,31 @@ At the end of every sprint there is a **sprint demo** with the client. In essenc
 In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint.
 
 **Guidelines for conducting a sprint demo:**
-+ **Time Boxing**
++ **Time Boxing**   
 Before the demo, set the expectation of how long you think the demo will be through a calendar invite. The demo duration includes the demo itself + any questions you think the clients (or anyone else) might have. This shows that you’re organised and it prevents any inadvertent time wasting by time boxing it. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
-+ **Location**
++ **Location**  
 Ensure that you're holding your sprint review/demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on GitHub.
 Unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
-+ **Decide who will be driving the demo**
++ **Decide who will be driving the demo**  
 The demo will usually be introduced by the scrum master or the product owner (_the person with the most demo experience on the team_). The demo will then be handed over to the developers who have been working on it as they begin to go through the user flow. At any given time, the person with the most experience on a certain aspect of the application should be talking about it. This should be pre-decided before the demo so that everyone knows their responsibilities.
-+ **Recap on lessons learnt from previous demos.**
++ **Recap on lessons learnt from previous demos.**  
 It's always good to reflect on what worked well in the past and also what didn't. This can help you avoid mistakes you may have made before and also leverage the things that went particularly smoothly. Make sure you have someone taking notes for you during the demo so that you can focus on delivering it at the time, and then you can review your performance afterwards.
-+ **Remind yourself of the project status**
++ **Remind yourself of the project status**  
 Review your backlog and take note of all the work you have done in the sprint
 + **Merge**  
 Have all changes merged into `master` at least half a day before the demo. The rushed changes you make in the last half a day are usually the changes that break everything and cause stress during the demo. Your last day/half a day should be for polish and bug fixing from the merges, not for functionality.
 + **Breathe**  
 This can be nerve wracking and taking some deep breaths will help slow you down!  
-+ **Know your audience!**
++ **Know your audience!**  
 Be sympathetic to who you're delivering your demo to. If they aren't technical then they won't appreciate any of the technical detail that you could go into. Your job is to be prepared for any technical questions that may be asked but it shouldn't be the focus of the demo. Don't describe what it is, describe how what you've done adds value to their application.
-+ **Link Your Scope**  
++ **Link Your Scope**    
 In your walkthrough try and tie all of the work you've done to the proposed scope (milestone). If you haven't completed all of the deliverables that you've agreed upon make sure that you have a think beforehand about what needs doing, and how you're going to solve this moving forward.
 
 ### Overview of Steps
 1. **Context**
 2. **Walkthrough**
 3. **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
-4. Close sprint *milestone** on GitHub
+4. **Close** the sprint **milestone** on GitHub
 5. **Invoice** the client (*ASAP*)
 
 #### Step 1 - Context
