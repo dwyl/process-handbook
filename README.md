@@ -15,6 +15,9 @@ In our experience to date, this is a delicate point for teams where it is relati
 **Guidelines for conducting a sprint demo:**
 + **Time Boxing**
 Before the demo, set the expectation of how long you think the demo will be through a calendar invite. The demo duration includes the demo itself + any questions you think the clients (or anyone else) might have. This shows that you’re organised and it prevents any inadvertent time wasting by time boxing it. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
++ **Location**
+Ensure that you're holding your sprint review/demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on GitHub.
+Unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
 + **Decide who will be driving the demo**
 The demo will usually be introduced by the scrum master or the product owner (_the person with the most demo experience on the team_). The demo will then be handed over to the developers who have been working on it as they begin to go through the user flow. At any given time, the person with the most experience on a certain aspect of the application should be talking about it. This should be pre-decided before the demo so that everyone knows their responsibilities.
 + **Recap on lessons learnt from previous demos.**
@@ -31,26 +34,22 @@ Be sympathetic to who you're delivering your demo to. If they aren't technical t
 In your walkthrough try and tie all of the work you've done to the proposed scope (milestone). If you haven't completed all of the deliverables that you've agreed upon make sure that you have a think beforehand about what needs doing, and how you're going to solve this moving forward.
 
 ### Overview of Steps
-+ **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
-+ Compare to original **time estimates** for each story
-+ What did we **learn**?
-+ Close sprint *milestone** on GitHub
-+ **Invoice** the client (*ASAP*)
+1. **Context**
+2. **Walkthrough**
+3. **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
+4. Close sprint *milestone** on GitHub
+5. **Invoice** the client (*ASAP*)
 
-<!-- **Context**
-Start the demo by providing some context such as what the aim of the sprint was and what you'll be demonstrating. The purpose here is two-fold; it sets up the demo but ***more importantly*** it allows attendees time to gently have a little time to switch their attention away from their previous tasks (or meeting they have just come from), slow down and focus on the task at hand. If the demo isn't going to look like what the client was expecting, ensure that you explain this before you start so that they have a bit of time to digest why this is the case (***reduce the shock factor***) and what you're going to do about it.
-+ **Walkthrough**  
+#### Step 1 - Context
+Start the demo by providing some introductory context such as what the aim of the sprint was and what you'll be demonstrating. The purpose here is two-fold; it sets up the demo but ***more importantly*** it allows attendees time to gently have a little time to switch their attention away from their previous tasks (or meeting they have just come from), slow down and focus on the task at hand. If the demo isn't going to look like what the client was expecting, ensure that you explain this before you start so that they have a bit of time to digest why this is the case (***reduce the shock factor***) and what you're going to do about it.
+
+#### Step 2 - Walkthrough
 Walk through the proposed demo, paying close attention to:
-+ Picking up on any small niggles the client may notice
-+ Can you preempt the client bringing it up by proposing a solution as you're doing the demo?
++ Picking up on any small niggles the client may notice, can you pre-empt the client bringing it up by proposing a solution as you're doing the demo?
 + Are there things you're actually still not 100% sure are working the way the client intends? Ask the questions during the demo so they know you're looking out for their needs
-+ All of the work that has been done so that you can point it out during the demo (especially if additional work has been done that wasn't originally expected) -->
++ Mention all of the work that has been done (especially if additional work has been done that wasn't originally expected)
 
-#### Step 1
-Ensure that you're holding your sprint review/demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on GitHub.
-Unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
-
-#### Step 2
+#### Step 3 - Review the Stories
 This part of the process will be repeated for each of the stories listed under the sprint milestone. Start with one story. For each story you have a couple of possible actions to take:
 - **If the issue is already closed:** talk through how the delivering the story has gone and
 confirm whether the original time estimates were met (*or why the task took more time than originally predicted*).
@@ -58,6 +57,8 @@ confirm whether the original time estimates were met (*or why the task took more
 Estimating and tracking time is the ***single*** most important factor to manage in a software project, it's how we show the Product Owner / client that we are providing value-for-money and helps us to plan future sprints with *any* degree of accuracy. This is where other teams fall down.
 
 - **If the issue is still open:** discuss why it is still open, how long it's been taking to complete and what still needs to be done (and how long that will take). If the issue is still relevant and in need of imminent completion remove it from the current sprint milestone and label it for the next sprint milestone. When you move the issue make sure you leave a comment within it which explains the current progress on the issue and why it's being moved to the next sprint. If the issue is now no longer a priority or something is blocking it and will be for a considerable period consider placing it in the backlog milestone.
+
+In both instances ensure you mention what was learnt along the way.
 
 #### Step 3
 
