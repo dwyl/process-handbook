@@ -6,18 +6,22 @@ This is very much a work in progress. Please [add an issue](https://github.com/d
 
 All of this is predicated on the assumption that you care about your clients and you care about delivering quality code. Go into this with a positive attitude!
 
-### End of sprint process
-## Steps
-+ **Review** The Stories Completed in the Sprint (*let the person who did the* ***work*** *do the talking*)
-+ Compare to original ***Time Estimates*** for each Story
-+ What Did We ***Learn***?
-+ Close Sprint **Milestone** on GitHub
-+ ***Invoice*** the Client (*ASAP*)
+## End of sprint process
+### Overview of Steps
++ **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
++ Compare to original **time estimates** for each story
++ What did we **learn**?
++ Close sprint *milestone** on GitHub
++ **Invoice** the client (*ASAP*)
 
-Part of the process of sprint review should be to talk through the stories that were *delivered* and confirm the original time estimates were met (*or why the task took more time than originally predicted*).
+#### Step 1
+This process will be repeated for each of the stories listed under the sprint milestone. Start with one story. Talk through how the delivering the story has gone and
+confirm whether the original time estimates were met (*or why the task took more time than originally predicted*).
 
-Estimating and Tracking Time is the ***Single*** most important factor to manage in a software project, its how we show the Product Owner / Client that we are providing value-for-money and helps us plan future sprints with *any* degree of accuracy. This is where other teams fall down.
+Estimating and tracking time is the ***single*** most important factor to manage in a software project, it's how we show the Product Owner / client that we are providing value-for-money and helps us to plan future sprints with *any* degree of accuracy. This is where other teams fall down.
 
+
+-----
 Which is why having a sprint review meeting in a *park* is not the *best* idea ... unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) its *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly...
 
 Once the previous Sprint's *Stories* have been reviewed you should ***Close*** the **Milestone** on GitHub:
