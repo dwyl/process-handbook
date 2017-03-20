@@ -12,7 +12,7 @@ At the end of every sprint there is a **sprint demo** with the client. During th
 
 In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint.
 
-**Guidelines for conducting a sprint demo:**
+## Guidelines for conducting a Sprint Demo:## 
 + **Time Boxing**   
 Before the demo, set the expectation of how long you think the demo will be through a calendar invite. The demo duration includes the demo itself + any questions you think the clients (or anyone else) might have. This shows that you’re organised and it prevents any inadvertent time wasting by time boxing it. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
 + **Location**  
