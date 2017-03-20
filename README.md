@@ -6,13 +6,13 @@ This is very much a work in progress. Please [add an issue](https://github.com/d
 
 All of this is predicated on the assumption that you care about your clients and you care about delivering quality code. Go into this with a positive attitude!
 
-## End of Sprint Process
+### End of Sprint Process
 
 At the end of every sprint there is a **sprint demo** with the client. During the demo the client is shown the completed user stories for the milestone. Explain how the process of implementing the stories went ie. were there any unforeseen issues? Then you should explain and discuss any stories that are still unresolved. Why were the stories not finished? What are the next steps for completing them?
 
 In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint.
 
-## Sprint Demo Prep ##
+### Sprint Demo Prep
 + **Time Boxing**   
 Before the demo, set the expectation of how long you think the demo will be through a calendar invite. The demo duration includes the demo itself + any questions you think the clients (or anyone else) might have. This shows that you’re organised and it prevents any inadvertent time wasting by time boxing it. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
 + **Location**  
@@ -21,8 +21,9 @@ Unless you are *constantly* referring to the project board (*in our case the Git
 + **Decide who will be driving the demo**  
 The demo will usually be introduced by the scrum master or the product owner (_the person with the most demo experience on the team_). The demo will then be handed over to the developers who have been working on it as they begin to go through the user flow. At any given time, the person with the most experience on a certain aspect of the application should be talking about it.
 
-We recommend that the person who is talking is a different person to the one driving (performing the actions in the application). When using the application it can be easy to stop interacting with the people you are demo-ing to and speed up the pace of the demo as you click through an application you personally know well. This will need to be prepared and practiced in advance.
-
+  We recommend that the person who is talking is a different person to the one driving (performing the actions in the application). When using the application it can be easy to stop interacting with the people you are demo-ing to and speed up the pace of the demo as you click through an application you personally know well. This will need to be prepared and practiced in advance.
++ **Do a run-through of the demo**  
+Once you've decided who is driving/ speaking you should do a run-through. This is where you'll pick up all of your problems around flow and most importantly, unexpected bugs that you don't want showing up in the actual demo.
 + **Recap on lessons learnt from previous demos**  
 It's always good to reflect on what worked well in the past and also what didn't. This can help you avoid mistakes you may have made before and also leverage the things that went particularly smoothly. Make sure you have someone taking notes for you during the demo so that you can focus on delivering it at the time, and then you can review your performance afterwards.
 + **Remind yourself of the project status**  
@@ -33,20 +34,21 @@ The rushed changes you make in the last half a day are usually the changes that 
 Be sympathetic to who you're delivering your demo to. If they aren't technical then they won't appreciate any of the technical detail that you could go into. Your job is to be prepared for any technical questions that may be asked but it shouldn't be the focus of the demo. Don't describe what it is, describe how what you've done adds value to their application.
 + **Have prepared notes/script**   
 Prepare notes/ a script which details what you're going to cover during the demo to help you feel prepared and calm during the demo and to ensure that nothing is left out.
++ **Determine who'll take notes**   
+Determine who, how and where your team will be taking notes throughout the demo so there is no confusion at the time as to where feedback you receive should be captured (we recommend GitHub issues).  
 
-
-## During the Demo:##
+### Guidelines during the Demo:
 + **Link Your Scope**    
 In your walkthrough try and tie all of the work you've done to the proposed scope (milestone). If you haven't completed all of the deliverables that you've agreed upon make sure that you have a think beforehand about what needs doing, and how you're going to solve this moving forward.
 + **Breathe**  
-This can be nerve wracking and taking some deep breaths will help slow you down!  
+This can be nerve wracking and taking some deep breaths will help slow you down!
 
-### Overview of Steps
+## The Demo
 1. Begin **screen & audio recording**
 2. **Context** of the sprint/demo
 3. **Walkthrough** of the product
 4. **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
-5. **Close** the sprint **milestone** on GitHub
+5. **Close** the sprint **milestone** on GitHub (once all of the stories on the milestone are marked as complete)
 6. **Wrap up** the demo
 7. **Invoice** the client (*ASAP*)
 
