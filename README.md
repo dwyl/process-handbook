@@ -8,7 +8,7 @@ All of this is predicated on the assumption that you care about your clients and
 
 ## End of Sprint Process
 
-At the end of every sprint there is a **sprint demo** with the client. During the demo the client is shown the completed user stories from the milestone. The client is also told how achieving the stories went. Stories that were not closed should be covered too. For these stories you should discuss why they weren't finished and what should be done next.
+At the end of every sprint there is a **sprint demo** with the client. During the demo the client is shown the completed user stories for the milestone. Explain how the process of implementing the stories went ie. were there any unforeseen issues? Then you should explain and discuss any stories that are still unresolved. Why were the stories not finished? What are the next steps for completing them?
 
 In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint.
 
