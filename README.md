@@ -56,7 +56,7 @@ This can be nerve wracking and taking some deep breaths will help slow you down!
 Before you start the demo start a screen & audio recording. It's useful in case you don't get the chance to write notes or if you need to share the session with an absent team member. Recordings can also help you review and improve your sprint demos for future instances.
 
 #### Step 2 - Context
-Start the demo by providing some introductory context such as what the aim of the sprint was and what you'll be demonstrating. The purpose here is two-fold; it sets up the demo but ***more importantly*** it allows attendees time to gently have a little time to switch their attention away from their previous tasks (or meeting they have just come from), slow down and focus on the task at hand. If the demo isn't going to look like what the client was expecting, ensure that you explain this before you start so that they have a bit of time to digest why this is the case (***reduce the shock factor***) and what you're going to do about it.
+Start the demo by providing some introductory context such as what the aim of the sprint was and what you'll be demonstrating. The purpose here is two-fold; it sets up the demo but ***more importantly*** it allows attendees time to gently switch their attention away from their previous tasks (or meeting they have just come from), slow down and focus on the task at hand. If the demo isn't going to look like what the client was expecting (minimal styling for example), ensure that you explain this before you start so that they have a bit of time to digest why this is the case (***reduce the shock factor***) and what you're going to do about it.
 
 #### Step 3 - Walkthrough
 Walk through the proposed demo, paying close attention to:
@@ -66,10 +66,12 @@ Walk through the proposed demo, paying close attention to:
 
 #### Step 4 - Review the Stories
 This part of the process will be repeated for each of the stories listed under the sprint milestone. Start with one story. For each story you have a couple of possible actions to take:
-- **If the issue is already closed:** talk through how the delivering the story has gone and
+- **If the issue is already closed:** quickly talk through how the delivering the story has gone and
 confirm whether the original time estimates were met (*or why the task took more time than originally predicted*).
 
 Estimating and tracking time is the ***single*** most important factor to manage in a software project, it's how we show the Product Owner / client that we are providing value-for-money and helps us to plan future sprints with *any* degree of accuracy. This is where other teams fall down.
+
+Don't spend too long on each issue, whilst it's important to let the client know what progress has been made, make sure there's enough time left to cover the things that need their input and discussion.
 
 - **If the issue is still open:** discuss why it is still open, how long it's been taking to complete and what still needs to be done (and how long that will take). If the issue is still relevant and in need of imminent completion remove it from the current sprint milestone and label it for the next sprint milestone. When you move the issue make sure you leave a comment within it which explains the current progress on the issue and why it's being moved to the next sprint. If the issue is now no longer a priority or something is blocking it and will be for a considerable period consider placing it in the backlog milestone.
 
