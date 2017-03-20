@@ -40,8 +40,8 @@ Determine who, how and where your team will be taking notes throughout the demo 
 ### Guidelines during the Demo:
 + **Link Your Scope**    
 In your walkthrough try and tie all of the work you've done to the proposed scope (milestone). If you haven't completed all of the deliverables that you've agreed upon make sure that you have a think beforehand about what needs doing, and how you're going to solve this moving forward.
-+ **Breathe**  
-This can be nerve wracking and taking some deep breaths will help slow you down!
++ **Breathe, be Calm and Deliberate**  
+This can be nerve wracking and taking some deep breaths will help slow you down! You're likely to have lots of nervous energy and excitement (particularly when a project has incurred a problem). If you're calm, you will calm down your client and portray confidence that you can handle the issues. A great way to help you remain calm is to ensure you're well prepared (see the guidelines above) for the demo.
 
 ## The Demo
 1. Begin **screen & audio recording**
