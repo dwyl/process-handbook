@@ -36,23 +36,27 @@ Prepare notes/ a script which details what you're going to cover during the demo
 This can be nerve wracking and taking some deep breaths will help slow you down!  
 
 ### Overview of Steps
-1. **Context** of the sprint/demo
-2. **Walkthrough** of the product
-3. **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
-4. **Close** the sprint **milestone** on GitHub
-5. **Wrap up** the demo
-6. **Invoice** the client (*ASAP*)
+1. Begin **screen & audio recording**
+2. **Context** of the sprint/demo
+3. **Walkthrough** of the product
+4. **Review** the stories completed in the sprint (*let the person who did the* ***work*** *do the talking*)
+5. **Close** the sprint **milestone** on GitHub
+6. **Wrap up** the demo
+7. **Invoice** the client (*ASAP*)
 
-#### Step 1 - Context
+#### Step 1 - Screen & Audio Recording
+Before you start the demo start a screen & audio recording. It's useful in case you don't get the chance to write notes or if you need to share the session with an absent team member. Recordings can also help you review and improve your sprint demos for future instances.
+
+#### Step 2 - Context
 Start the demo by providing some introductory context such as what the aim of the sprint was and what you'll be demonstrating. The purpose here is two-fold; it sets up the demo but ***more importantly*** it allows attendees time to gently have a little time to switch their attention away from their previous tasks (or meeting they have just come from), slow down and focus on the task at hand. If the demo isn't going to look like what the client was expecting, ensure that you explain this before you start so that they have a bit of time to digest why this is the case (***reduce the shock factor***) and what you're going to do about it.
 
-#### Step 2 - Walkthrough
+#### Step 3 - Walkthrough
 Walk through the proposed demo, paying close attention to:
 + Picking up on any small niggles the client may notice, can you pre-empt the client bringing it up by proposing a solution as you're doing the demo?
 + Are there things you're actually still not 100% sure are working the way the client intends? Ask the questions during the demo so they know you're looking out for their needs
 + Mention all of the work that has been done (especially if additional work has been done that wasn't originally expected)
 
-#### Step 3 - Review the Stories
+#### Step 4 - Review the Stories
 This part of the process will be repeated for each of the stories listed under the sprint milestone. Start with one story. For each story you have a couple of possible actions to take:
 - **If the issue is already closed:** talk through how the delivering the story has gone and
 confirm whether the original time estimates were met (*or why the task took more time than originally predicted*).
@@ -63,15 +67,15 @@ Estimating and tracking time is the ***single*** most important factor to manage
 
 In both instances ensure you mention what was learnt along the way.
 
-#### Step 4 - Close the Sprint Milestone on GitHub
+#### Step 5 - Close the Sprint Milestone on GitHub
 
 Once the previous sprint's stories have been reviewed and moved to the relevant places your milestone should now be 100% complete. At this point you should **close** the **milestone** on GitHub:
 ![please-close-completed-sprints](https://cloud.githubusercontent.com/assets/194400/11141396/dd7dcafa-89dc-11e5-9b08-014af837a38a.png)
 
-#### Step 5 - Wrap Up the Demo
-Once you've completed your run-through of the demo, recap on what you've talked about and then ask if there are any questions (_from either side_). Discuss your plans for the next sprint in terms of deciding on a date to confirm a new scope of work.
+#### Step 6 - Wrap Up the Demo
+Once you've completed your run-through of the demo, recap on what you've talked about and then ask if there are any questions (_from either side_). Discuss your plans for the next sprint in terms of deciding on a date to confirm a new scope of work. When you're finished don't forget to stop your screen & audio recording session.
 
-#### Step 6 - Invoice the Client
+#### Step 7 - Invoice the Client
 As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
 
 ### Sprint Planning
