@@ -6,15 +6,26 @@ This is very much a work in progress. Please [add an issue](https://github.com/d
 
 All of this is predicated on the assumption that you care about your clients and you care about delivering quality code. Go into this with a positive attitude!
 
-### End of Sprint Process
+## Contents
+
+- [Stand-ups](#stand-ups)
+- [Sprint demo](#sprint-demo)
+   - [Sprint demo prep](#sprint-demo-prep)
+- [Retrospective](#retrospective)
+- [Sprint planning](#sprint-planning)
+   - [Sprint planning prep](#sprint-planning-prep)
+
+## Stand-ups
+
+## Sprint Demo
 
 At the end of every sprint there is a **sprint demo** with the client. During the demo the client is shown the completed user stories for the milestone. Explain how the process of implementing the stories went ie. were there any unforeseen issues? Then you should explain and discuss any stories that are still unresolved. Why were the stories not finished? What are the next steps for completing them?
 
 In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint.
 
-### Sprint Demo Prep
+### <a name="sprint-demo-prep"></a> Sprint Demo Prep
 + **Time Boxing**   
-Before the demo, set the expectation of how long you think the demo will be through a calendar invite. The demo duration includes the demo itself + any questions you think the clients (or anyone else) might have. This shows that you’re organised and it prevents any inadvertent time wasting by time boxing it. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
+Before the demo, set the expectation of how long you think the demo will be through a calendar invite. A typical demo might last 30 minutes. The demo duration includes the demo itself + any questions you think the clients (or anyone else) might have. This shows that you’re organised and it prevents any inadvertent time wasting by time boxing it. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
 + **Location**  
 Ensure that you're holding your sprint demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on GitHub.
 Unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly.
@@ -23,7 +34,7 @@ The demo will usually be introduced by the scrum master or the product owner (_t
 
   We recommend that the person who is talking is a different person to the one driving (performing the actions in the application). When using the application it can be easy to stop interacting with the people you are demo-ing to and speed up the pace of the demo as you click through an application you personally know well. This will need to be prepared and practiced in advance.
 + **Do a run-through of the demo**  
-Once you've decided who is driving/ speaking you should do a run-through. This is where you'll pick up all of your problems around flow and most importantly, unexpected bugs that you don't want showing up in the actual demo.
+Once you've decided who is driving/ speaking you should do a run-through. This is where you'll pick up all of your problems around flow and most importantly, unexpected bugs that you don't want showing up in the actual demo. Make sure you think about including mobile/responsive views into your walkthrough.
 + **Recap on lessons learnt from previous demos**  
 It's always good to reflect on what worked well in the past and also what didn't. This can help you avoid mistakes you may have made before and also leverage the things that went particularly smoothly. Make sure you have someone taking notes for you during the demo so that you can focus on delivering it at the time, and then you can review your performance afterwards.
 + **Remind yourself of the project status**  
@@ -88,15 +99,14 @@ Once you've completed your run-through of the demo, recap on what you've talked 
 #### Step 7 - Invoice the Client
 As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
 
-### Sprint Planning
+## Retrospective
+
+## Sprint Planning
 This may be done immediately after a sprint demo or otherwise on a time/date agreed at the end of the sprint demo.
+- Time block 1 - 1.5 hours for the sprint planning session.
 - Discuss upcoming deadlines and agree on the next sprint duration. Generally we work in 2 week sprints however from time to time if a deadline dictates that this is no possible, we may work in a shorter sprint ie. a week. Be cautious when considering running longer sprints, sprints are called sprints for a reason and are not designed to be extremely long periods!
 - Review how many/ what kinds of issues you may already have added to the milestone that were unfinished from the previous sprint.
 - According to the size of your team/ length of your sprint, review your repo's issues paying attention to the priority labels. Alter the priority labels so that last sprint's priority 2 are now this sprint's priority 1 (and so on). Only assign a realistic number of issues to the sprint. If there are too many of the same priority to assign to the next sprint, discuss what can be delivered and ask the client to clarify in order to dictate what goes ahead.
 - Assign time estimate labels to the issues getting input from relevant team members to improve accuracy.
 
-TO ADD:
-+ [x] Timing of demo
-+ [x] Who drives? Definitely you!
-+ [x] How to wrap up
-+ [ ] Release notes
+### <a name="sprint-planning-prep"></a>Sprint Planning Prep
