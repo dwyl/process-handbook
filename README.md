@@ -37,6 +37,24 @@ Depending on the size of the team scrum master work is likely to occupy **2-3 da
 
 ## Stand-ups
 
+- Scheduling stand ups is the SM's responsibility
+- To be held daily
+- Either at the beginning or the end of the day
+- Should not last longer than 15mins
+- Can be done remotely via google hangouts, screensharing is recommended so people can see what everyone's been working on
+
+- Each team member briefly summarises:
+  - The issues they've been working on that day
+  - What issues they intend to work on the following day
+  - Whether they experienced any blockers or have any questions
+
+- The SM should:
+  - Update the team on their progress lifting any blockers e.g. progress getting an outstanding external dependency from the client.
+  - Ask questions as the team show the work they've done that day where relevant (ie. have you written documentation for that issue? did you update the readme to reflect those changes?)
+  - Ensure the team is on track and tackling the priorities set out in the sprint milestone on github and redirect them if they're going off track. E.g. there are 2 days of the sprint left, please can you focus on the priority 2 issues tomorrow rather than that priority 3 that you mentioned?
+  - Check whether the team has any new blockers or questions?
+  - Ensure the team stay calm and be pragmatic in times of stress or changes.
+
 ## Sprint Demo
 
 At the end of every sprint there is a **sprint demo** with the client. During the demo the client is shown the completed user stories for the milestone. Explain how the process of implementing the stories went ie. were there any unforeseen issues? Then you should explain and discuss any stories that are still unresolved. Why were the stories not finished? What are the next steps for completing them?
