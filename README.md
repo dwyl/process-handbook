@@ -4,7 +4,7 @@ Contains our processes, questions and journey to creating ateam.
 
 This is very much a work in progress. Please [add an issue](https://github.com/dwyl/ateam-master-reference/issues) for anything you would like to see discussed here!
 
-All of this is predicated on the assumption that you care about your clients and you care about delivering quality code. Go into this with a positive attitude!
+All of this is predicated on the assumption that **you care about your clients** and you **care about delivering quality code**. Go into this with a positive attitude!
 
 ## Contents
 - [Introduction](#introduction)
@@ -18,53 +18,54 @@ All of this is predicated on the assumption that you care about your clients and
       - [Sprint planning prep](#sprint-planning-prep)
 
 ## Introduction
-This README covers the responsibilities and ceremonies of a scrum master.
-
+This README covers the **responsibilities** and **ceremonies** of a scrum master.
 
 ### Time needed to Scrum Master a project
 
-Depending on the size of the team scrum master work is likely to occupy **2-3 days per 10 day sprint**.
+Depending on the size of the team, scrum master work is likely to occupy **2-3 days per 10 day sprint**.
 
 **This may consist of:**
 
-- **30mins - 1 hour a day** (stand up, backlog grooming, lifting blockers, scheduling next meetings etc)
+- **30mins - 1 hour a day** (stand-up, backlog grooming, lifting blockers, scheduling next meetings etc.)
 - **30 mins - 1 hour per sprint** doing sprint demo and sprint planning prep
 - **1/2 day per sprint** in sprint demo/ retrospectives/ sprint planning
 
 ## Responsibilities
-- Total understanding of the problem (that the product is trying to solve)
-- Lifting blockers
-   - Ie. making sure the team has everything they need to progress with their work, no outstanding external dependencies, all the designs, copy, login details, card details they need and decisions made on issues that are in discussion
-- Enabling the team to focus on coding rather than project management
+So what is a scrum master responsible for?
+
+- **Total understanding of the problem (that the product is trying to solve)**
+- **Lifting blockers**
+   - Ie. making sure the team has everything they need to progress with their work, no outstanding external dependencies, all the designs, copy, login details, card details they need and decisions made on issues that are in discussion.
+- **Enabling the team to focus on coding rather than project management**
    - Ie. the SM should be responsible for stopping scope creep or liaising with the client over wider project issues so that the team can focus on executing issues that they know are ready to go.
-- Enforcing good gitflow across both teams
+- **Enforcing good gitflow across both teams**
    - Ie. making sure the client is using github as dwyl sets out and that the team are too (correct labelling, good commit messages etc.)
-- Full knowledge of the product backlog to enable them to efficiently do backlog grooming, sprint planning and time estimating.
-- Backlog grooming
+- **Full knowledge of the product backlog to enable them to efficiently do backlog grooming, sprint planning and time estimating.**
+- **Backlog grooming**
    - Ie. making sure the backlog doesn't have duplicates, issues are correctly labelled (prioritised, time estimated etc) and have clear and full descriptions with wireframes, designs or assets where appropriate, that new issues are created rather than tagged on to old issues, asking any outstanding questions.
-- Setting up project meetings
-   - Ie. when/ where sprint demos/planning or other client meetings, stand ups take place.
-- Agrees sprint scope during sprint planning
-- Client communication, on hand to answer questions that may arise
+- **Setting up project meetings**
+   - Ie. when/ where sprint demos/planning or other client meetings, stand-ups take place.
+- **Agrees sprint scope during sprint planning**
+- **Client communication, on hand to answer questions that may arise**
 
 A SM does not have 'authority' over the team, they work collaboratively with them. When the team needs direction to keep on track with the sprint milestone or with good gitflow practices they should be guided not forced! 😊
 
 ## Ceremonies
+**Ceremonies** are the events that scrum masters take part in every sprint.
 
 ## Stand-ups
 
 - Scheduling stand ups is the SM's responsibility
-- To be held daily
-- Either at the beginning or the end of the day
+- To be held daily at the beginning or end of the day
 - Should not last longer than 15mins
-- Can be done remotely via google hangouts, screensharing is recommended so people can see what everyone's been working on
+- Can be done remotely via google hangouts, for which screensharing is recommended so people can see what everyone's been working on
 
-- Each team member briefly summarises:
+**Each team member briefly summarises:**
   - The issues they've been working on that day
   - What issues they intend to work on the following day
   - Whether they experienced any blockers or have any questions
 
-- The SM should:
+**The SM should:**
   - Update the team on their progress lifting any blockers e.g. progress getting an outstanding external dependency from the client.
   - Ask questions as the team show the work they've done that day where relevant (ie. have you written documentation for that issue? did you update the readme to reflect those changes?)
   - Ensure the team is on track and tackling the priorities set out in the sprint milestone on github and redirect them if they're going off track. E.g. there are 2 days of the sprint left, please can you focus on the priority 2 issues tomorrow rather than that priority 3 that you mentioned?
@@ -73,39 +74,37 @@ A SM does not have 'authority' over the team, they work collaboratively with the
 
 ## Sprint Demo
 
-At the end of every sprint there is a **sprint demo** with the client. During the demo the client is shown the completed user stories for the milestone. Explain how the process of implementing the stories went ie. were there any unforeseen issues? Then you should explain and discuss any stories that are still unresolved. Why were the stories not finished? What are the next steps for completing them?
-
-In our experience to date, this is a delicate point for teams where it is relatively easy to lose control of the demo and the client is left feeling unsatisfied even if you have made great progress in your sprint.
+At the end of every sprint there is a **sprint demo** with the client. During the demo the client is shown the completed user stories for the milestone.
 
 ### <a name="sprint-demo-prep"></a> Sprint Demo Prep
-+ **Time Boxing**   
-Before the demo, set the expectation of how long you think the demo will be through a calendar invite. A typical demo might last 30 minutes. The demo duration includes the demo itself + any questions you think the clients (or anyone else) might have. This shows that you’re organised and it prevents any inadvertent time wasting by time boxing it. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
-+ **Location**  
++ **Time Boxing** :clock3:
+Before the demo, set the expectation of how long you think the demo will be through a calendar invite. A typical demo might last 30 minutes. The demo duration includes the demo itself + any questions following it. Time boxing shows that you’re organised and prevents any inadvertent time wasting. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
++ **Location** :house:
 Ensure that you're holding your sprint demo somewhere where you and everyone involved has good access to a screen displaying your milestone / issues on GitHub.
 Unless you are *constantly* referring to the project board (*in our case the GitHub issues list*) it's *very* easy for people to get side-tracked. We/You need to ***constantly re-enforce*** the team looking at the project management ***system*** to ensure it gets used appropriately, otherwise chaos ensues rapidly.
-+ **Decide who will be driving the demo**  
++ **Decide who will be driving the demo** :blue_car:
 The demo will usually be introduced by the scrum master or the product owner (_the person with the most demo experience on the team_). The demo will then be handed over to the developers who have been working on it as they begin to go through the user flow. At any given time, the person with the most experience on a certain aspect of the application should be talking about it.
 
   We recommend that the person who is talking is a different person to the one driving (performing the actions in the application). When using the application it can be easy to stop interacting with the people you are demo-ing to and speed up the pace of the demo as you click through an application you personally know well. This will need to be prepared and practiced in advance.
-+ **Do a run-through of the demo**  
++ **Do a run-through of the demo** :loop:
 Once you've decided who is driving/ speaking you should do a run-through. This is where you'll pick up all of your problems around flow and most importantly, unexpected bugs that you don't want showing up in the actual demo. Make sure you think about including mobile/responsive views into your walkthrough.
-+ **Recap on lessons learnt from previous demos**  
++ **Recap on lessons learnt from previous demos** :rewind:
 It's always good to reflect on what worked well in the past and also what didn't. This can help you avoid mistakes you may have made before and also leverage the things that went particularly smoothly. Make sure you have someone taking notes for you during the demo so that you can focus on delivering it at the time, and then you can review your performance afterwards.
-+ **Remind yourself of the project status**  
++ **Remind yourself of the project status**
 Review your backlog and take note of all the work you have done in the sprint.
 + **Have all changes merged into `master` at least half a day before the demo**
 The rushed changes you make in the last half a day are usually the changes that break everything and cause stress during the demo. Your last day/half a day should be for polish and bug fixing from the merges, not for functionality.
-+ **Know your audience!**  
++ **Know your audience!** :busts_in_silhouette:
 Be sympathetic to who you're delivering your demo to. If they aren't technical then they won't appreciate any of the technical detail that you could go into. Your job is to be prepared for any technical questions that may be asked but it shouldn't be the focus of the demo. Don't describe what it is, describe how what you've done adds value to their application.
-+ **Have prepared notes/script**   
++ **Have prepared notes/script** :page_facing_up:
 Prepare notes/ a script which details what you're going to cover during the demo to help you feel prepared and calm during the demo and to ensure that nothing is left out.
-+ **Determine who'll take notes**   
++ **Determine who'll take notes** :clipboard:
 Determine who, how and where your team will be taking notes throughout the demo so there is no confusion at the time as to where feedback you receive should be captured (we recommend GitHub issues).  
 
 ### Guidelines during the Demo:
-+ **Link Your Scope**    
++ **Link your scope**    
 In your walkthrough try and tie all of the work you've done to the proposed scope (milestone). If you haven't completed all of the deliverables that you've agreed upon make sure that you have a think beforehand about what needs doing, and how you're going to solve this moving forward.
-+ **Breathe, be Calm and Deliberate**  
++ **Breathe, be calm and deliberate**  
 This can be nerve wracking and taking some deep breaths will help slow you down! You're likely to have lots of nervous energy and excitement (particularly when a project has incurred a problem). If you're calm, you will calm down your client and portray confidence that you can handle the issues. A great way to help you remain calm is to ensure you're well prepared (see the guidelines above) for the demo.
 
 ## The Demo
@@ -151,36 +150,37 @@ Once the previous sprint's stories have been reviewed and moved to the relevant 
 Once you've completed your run-through of the demo, recap on what you've talked about and then ask if there are any questions (_from either side_). Discuss your plans for the next sprint in terms of deciding on a date to confirm a new scope of work. When you're finished don't forget to stop your screen & audio recording session.
 
 #### Step 7 - Invoice the Client
-As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***.
+As soon as the Product Owner (client) is satisfied that the agreed stories for the sprint have been delivered, prepare and send the ***invoice before anything else***. NB. This may not fall as the responsibility of the SM.
 
 ## Retrospective
 
-- Retrospectives are held after the sprint demo
+- A retrospective is held after the sprint demo
 - Can be held either all-in-one with the client or in two parts, one with the client, one without depending on the client/team's preferences.
 - They should last between **7 - 30 mins**.
 The duration varies according to the size of the team and often may be longer earlier on in a project when the team is settling in.
 - During the retrospective each team member should have the opportunity to share things that they felt **went well**, **not very well** or things that could be **improved** based on the last sprint.
 
 ## Sprint Planning
-This may be done immediately after a sprint demo and retrospective or otherwise on a time/date agreed at the end of the sprint demo.
-- Time block 1 - 1.5 hours for the sprint planning session.
-- Discuss upcoming deadlines and agree on the next sprint duration. Generally we work in 2 week sprints however from time to time if a deadline dictates that this is no possible, we may work in a shorter sprint ie. a week. Be cautious when considering running longer sprints, sprints are called sprints for a reason and are not designed to be extremely long periods!
-- Review how many / any issues you may already have added to the milestone that were unfinished from the previous sprint.
-- According to the size of your team/ length of your sprint, review your repo's issues paying attention to the priority labels. Alter the priority labels so that last sprint's `priority-3` are now this sprint's `priority-2` (and so on). Only assign a realistic number of issues to the sprint. If there are too many of the same priority to assign to the next sprint, discuss what can be delivered and ask the client to clarify in order to dictate what goes ahead.
-- Assign time estimate labels to the issues getting input from relevant team members to improve accuracy.
-- Prior to sprint planning you should ask your Product Owner to prepare and prioritise the backlog with user stories and acceptance criteria for each issue.
-- The aim of sprint planning is to recognise the highest priority issues and how long it would take to complete them.
-- Once your highest priority issues have time estimates assigned, 8 days worth of highest priority issues (to forecast for a 10 day sprint) will be added to the new sprint milestone on github.
-- Timings are calculated as pairing hours and 2 days are reserved for refactoring, bug fixing and the sprint demo/ next sprint planning.
-- Estimates should be given by both developers in a team to account for potential differences in experience and for the fact that either of them may be tackling that issue.
-- On larger issues where estimating may prove difficult, help the developers estimate better by asking them to think about breaking the issue down into smaller chunks. Then estimate for each of those chunks and combine them.
-- Remind your team that estimates should always account for testing, documentation and fulfilling project specific accessibility / browser or device requirements.
-- To aid this process, we recommend spending 30 mins the day before the sprint planning to familiarise yourself with the issues that will need time estimates so that you can discuss more complex with the team in advance.
-- Ensure that sprint planning is kept on track and runs to the allocated time
-- Use the opportunity to ask the client any questions that the team would need to know in order to implement the issue
-- Ensure that issues are clearly defined so that time estimates reflect the implementation of the issue clearly. Ie. add a checkbox to user sign up so people can subscribe to the newsletter. Does this mean just add the checkbox or does this mean implement an admin dashboard to manage newsletter signs up and enable users to sign up by adding a checkbox on sign up?
-- Try to bring back product conversations that may not be relevant or may not require everyone present at the meeting to help keep to time
-- Make note of the issues and time estimates for your reference (the Product Owner should create/update the issues on github but you may need the notes before they've had a chance to do this).
-- Record any bugs/ enhancements that were discussed during the sprint demo to suggest as new issues during sprint planning. If it takes your Product Owner time to update github after your sprint planning you can set the team to work on these small issues that should be relatively straightforward to complete.
+Spring planning is when you review the backlog and client's priorities to outline what will be put into the next sprint milestone. This may be done immediately after a sprint demo and retrospective or otherwise on a time/date agreed at the end of the sprint demo.
 
 ### <a name="sprint-planning-prep"></a>Sprint Planning Prep
+- Prior to sprint planning you should ask your Product Owner to prepare and prioritise the backlog with user stories and acceptance criteria for each issue.
+- To aid the time estimating process, we recommend spending 30 mins the day before the sprint planning to familiarise yourself with the issues that will need time estimates so that you can discuss more complex with the team in advance.
+
+### During Sprint Planning
+- Time block **1 - 1.5 hours** for the sprint planning session.
+- Discuss upcoming deadlines and **agree on the next sprint duration**. Generally we work in 2 week sprints however from time to time if a deadline dictates that this is no possible, we may work in a shorter sprint ie. a week. Be cautious when considering running longer sprints, sprints are called sprints for a reason and are not designed to be extremely long periods!
+- The **aim** of sprint planning is to **recognise the highest priority issues and how long it would take to complete them**.
+- Review how many / any **issues** you may already have added to the milestone that were **unfinished from the previous sprint**.
+- Review your repo's **issues** paying attention to the **priority labels**. Alter the priority labels so that last sprint's `priority-3` are now this sprint's `priority-2` (and so on). Only assign a realistic number of issues to the sprint (according to your team size/ sprint length). If there are too many of the same priority to assign to the next sprint, discuss what can be delivered and ask the client to clarify in order to dictate what goes ahead.
+- **Assign time estimate labels** to the issues. Estimates should be given by both developers in a team to account for potential differences in experience and for the fact that either of them may be tackling that issue. Timings are calculated as pairing hours.
+- Once your highest priority issues have time estimates assigned, 8 days worth of highest priority issues (to forecast for a 10 day sprint) will be added to the new sprint milestone on github.
+- 2 days in every sprint are reserved for refactoring, bug fixing and the sprint demo/ next sprint planning.
+- On larger issues where estimating may prove difficult, help the developers estimate better by asking them to think about breaking the issue down into smaller chunks. Then estimate for each of those chunks and combine them.
+- Remind your team that estimates should always account for testing, documentation and fulfilling project specific accessibility / browser or device requirements.
+- Ensure that sprint planning is kept on track and runs to the allocated time.
+- Use the opportunity to ask the client any questions that the team would need to know in order to implement the various issues.
+- Ensure that issues are clearly defined so that time estimates reflect the implementation of the issue clearly. Ie. add a checkbox to user sign up so people can subscribe to the newsletter. Does this mean just add the checkbox or does this mean implement an admin dashboard to manage newsletter signs up and enable users to sign up by adding a checkbox on sign up?
+- Try to bring back product conversations that may not be relevant or may not require everyone present at the meeting to help keep to time.
+- Make note of the issues and time estimates for your reference (the Product Owner should create/update the issues on github but you may need the notes before they've had a chance to do this).
+- Record any bugs/ enhancements that were discussed during the sprint demo to suggest as new issues during sprint planning. If it takes your Product Owner time to update github after your sprint planning you can set the team to work on these small issues that should be relatively straightforward to complete.
