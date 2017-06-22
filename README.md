@@ -139,8 +139,14 @@ As soon as the Product Owner (client) is satisfied that the agreed stories for t
 
 ## Retrospective
 
+- Retrospectives are held after the sprint demo
+- Can be held either all-in-one with the client or in two parts, one with the client, one without depending on the client/team's preferences.
+- They should last between **7 - 30 mins**.
+The duration varies according to the size of the team and often may be longer earlier on in a project when the team is settling in.
+- During the retrospective each team member should have the opportunity to share things that they felt **went well**, **not very well** or things that could be **improved** based on the last sprint.
+
 ## Sprint Planning
-This may be done immediately after a sprint demo or otherwise on a time/date agreed at the end of the sprint demo.
+This may be done immediately after a sprint demo and retrospective or otherwise on a time/date agreed at the end of the sprint demo.
 - Time block 1 - 1.5 hours for the sprint planning session.
 - Discuss upcoming deadlines and agree on the next sprint duration. Generally we work in 2 week sprints however from time to time if a deadline dictates that this is no possible, we may work in a shorter sprint ie. a week. Be cautious when considering running longer sprints, sprints are called sprints for a reason and are not designed to be extremely long periods!
 - Review how many/ what kinds of issues you may already have added to the milestone that were unfinished from the previous sprint.
