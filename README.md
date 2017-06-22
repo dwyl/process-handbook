@@ -32,6 +32,22 @@ Depending on the size of the team scrum master work is likely to occupy **2-3 da
 - **1/2 day per sprint** in sprint demo/ retrospectives/ sprint planning
 
 ## Responsibilities
+- Total understanding of the problem (that the product is trying to solve)
+- Lifting blockers
+   - Ie. making sure the team has everything they need to progress with their work, no outstanding external dependencies, all the designs, copy, login details, card details they need and decisions made on issues that are in discussion
+- Enabling the team to focus on coding rather than project management
+   - Ie. the SM should be responsible for stopping scope creep or liaising with the client over wider project issues so that the team can focus on executing issues that they know are ready to go.
+- Enforcing good gitflow across both teams
+   - Ie. making sure the client is using github as dwyl sets out and that the team are too (correct labelling, good commit messages etc.)
+- Full knowledge of the product backlog to enable them to efficiently do backlog grooming, sprint planning and time estimating.
+- Backlog grooming
+   - Ie. making sure the backlog doesn't have duplicates, issues are correctly labelled (prioritised, time estimated etc) and have clear and full descriptions with wireframes, designs or assets where appropriate, that new issues are created rather than tagged on to old issues, asking any outstanding questions.
+- Setting up project meetings
+   - Ie. when/ where sprint demos/planning or other client meetings, stand ups take place.
+- Agrees sprint scope during sprint planning
+- Client communication, on hand to answer questions that may arise
+
+A SM does not have 'authority' over the team, they work collaboratively with them. When the team needs direction to keep on track with the sprint milestone or with good gitflow practices they should be guided not forced! 😊
 
 ## Ceremonies
 
