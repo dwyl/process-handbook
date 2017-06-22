@@ -7,13 +7,20 @@ This is very much a work in progress. Please [add an issue](https://github.com/d
 All of this is predicated on the assumption that you care about your clients and you care about delivering quality code. Go into this with a positive attitude!
 
 ## Contents
+- [Introduction](#introduction)
+- [Responsibilities](#responsibilities)
+- [Ceremonies](#ceremonies)
+   - [Stand-ups](#stand-ups)
+   - [Sprint demo](#sprint-demo)
+      - [Sprint demo prep](#sprint-demo-prep)
+   - [Retrospective](#retrospective)
+   - [Sprint planning](#sprint-planning)
+      - [Sprint planning prep](#sprint-planning-prep)
 
-- [Stand-ups](#stand-ups)
-- [Sprint demo](#sprint-demo)
-   - [Sprint demo prep](#sprint-demo-prep)
-- [Retrospective](#retrospective)
-- [Sprint planning](#sprint-planning)
-   - [Sprint planning prep](#sprint-planning-prep)
+## Introduction
+This README covers the responsibilities and ceremonies of a scrum master.
+
+
 ### Time needed to Scrum Master a project
 
 Depending on the size of the team scrum master work is likely to occupy **2-3 days per 10 day sprint**.
@@ -24,6 +31,9 @@ Depending on the size of the team scrum master work is likely to occupy **2-3 da
 - **30 mins - 1 hour per sprint** doing sprint demo and sprint planning prep
 - **1/2 day per sprint** in sprint demo/ retrospectives/ sprint planning
 
+## Responsibilities
+
+## Ceremonies
 
 ## Stand-ups
 
