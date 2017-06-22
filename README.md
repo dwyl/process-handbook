@@ -165,8 +165,22 @@ The duration varies according to the size of the team and often may be longer ea
 This may be done immediately after a sprint demo and retrospective or otherwise on a time/date agreed at the end of the sprint demo.
 - Time block 1 - 1.5 hours for the sprint planning session.
 - Discuss upcoming deadlines and agree on the next sprint duration. Generally we work in 2 week sprints however from time to time if a deadline dictates that this is no possible, we may work in a shorter sprint ie. a week. Be cautious when considering running longer sprints, sprints are called sprints for a reason and are not designed to be extremely long periods!
-- Review how many/ what kinds of issues you may already have added to the milestone that were unfinished from the previous sprint.
+- Review how many / any issues you may already have added to the milestone that were unfinished from the previous sprint.
 - According to the size of your team/ length of your sprint, review your repo's issues paying attention to the priority labels. Alter the priority labels so that last sprint's `priority-3` are now this sprint's `priority-2` (and so on). Only assign a realistic number of issues to the sprint. If there are too many of the same priority to assign to the next sprint, discuss what can be delivered and ask the client to clarify in order to dictate what goes ahead.
 - Assign time estimate labels to the issues getting input from relevant team members to improve accuracy.
+- Prior to sprint planning you should ask your Product Owner to prepare and prioritise the backlog with user stories and acceptance criteria for each issue.
+- The aim of sprint planning is to recognise the highest priority issues and how long it would take to complete them.
+- Once your highest priority issues have time estimates assigned, 8 days worth of highest priority issues (to forecast for a 10 day sprint) will be added to the new sprint milestone on github.
+- Timings are calculated as pairing hours and 2 days are reserved for refactoring, bug fixing and the sprint demo/ next sprint planning.
+- Estimates should be given by both developers in a team to account for potential differences in experience and for the fact that either of them may be tackling that issue.
+- On larger issues where estimating may prove difficult, help the developers estimate better by asking them to think about breaking the issue down into smaller chunks. Then estimate for each of those chunks and combine them.
+- Remind your team that estimates should always account for testing, documentation and fulfilling project specific accessibility / browser or device requirements.
+- To aid this process, we recommend spending 30 mins the day before the sprint planning to familiarise yourself with the issues that will need time estimates so that you can discuss more complex with the team in advance.
+- Ensure that sprint planning is kept on track and runs to the allocated time
+- Use the opportunity to ask the client any questions that the team would need to know in order to implement the issue
+- Ensure that issues are clearly defined so that time estimates reflect the implementation of the issue clearly. Ie. add a checkbox to user sign up so people can subscribe to the newsletter. Does this mean just add the checkbox or does this mean implement an admin dashboard to manage newsletter signs up and enable users to sign up by adding a checkbox on sign up?
+- Try to bring back product conversations that may not be relevant or may not require everyone present at the meeting to help keep to time
+- Make note of the issues and time estimates for your reference (the Product Owner should create/update the issues on github but you may need the notes before they've had a chance to do this).
+- Record any bugs/ enhancements that were discussed during the sprint demo to suggest as new issues during sprint planning. If it takes your Product Owner time to update github after your sprint planning you can set the team to work on these small issues that should be relatively straightforward to complete.
 
 ### <a name="sprint-planning-prep"></a>Sprint Planning Prep
