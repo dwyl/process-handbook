@@ -14,6 +14,16 @@ All of this is predicated on the assumption that you care about your clients and
 - [Retrospective](#retrospective)
 - [Sprint planning](#sprint-planning)
    - [Sprint planning prep](#sprint-planning-prep)
+### Time needed to Scrum Master a project
+
+Depending on the size of the team scrum master work is likely to occupy **2-3 days per 10 day sprint**.
+
+**This may consist of:**
+
+- **30mins - 1 hour a day** (stand up, backlog grooming, lifting blockers, scheduling next meetings etc)
+- **30 mins - 1 hour per sprint** doing sprint demo and sprint planning prep
+- **1/2 day per sprint** in sprint demo/ retrospectives/ sprint planning
+
 
 ## Stand-ups
 
