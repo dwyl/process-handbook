@@ -57,8 +57,8 @@ A SM does not have 'authority' over the team, they work collaboratively with the
 
 - Scheduling stand ups is the SM's responsibility
 - To be held daily at the beginning or end of the day
-- Should not last longer than 15mins
 - Can be done remotely via google hangouts, for which screensharing is recommended so people can see what everyone's been working on
+- Should last approx a couple of minutes per team member
 
 **Each team member briefly summarises:**
   - The issues they've been working on that day
@@ -156,7 +156,7 @@ As soon as the Product Owner (client) is satisfied that the agreed stories for t
 
 - A retrospective is held after the sprint demo
 - Can be held either all-in-one with the client or in two parts, one with the client, one without depending on the client/team's preferences.
-- They should last between **7 - 30 mins**.
+- They should last between **10 - 30 mins**.
 The duration varies according to the size of the team and often may be longer earlier on in a project when the team is settling in.
 - During the retrospective each team member should have the opportunity to share things that they felt **went well**, **not very well** or things that could be **improved** based on the last sprint.
 
