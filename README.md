@@ -34,8 +34,14 @@ Depending on the size of the team, scrum master work is likely to occupy **2-3 d
 So what is a scrum master responsible for?
 
 - **Total understanding of the problem (that the product is trying to solve)**
-- **Lifting blockers**
-   - Ie. making sure the team has everything they need to progress with their work, no outstanding external dependencies, all the designs, copy, login details, card details they need and decisions made on issues that are in discussion. Sometimes developers may only come to lower priority issues towards the end of a sprint. You need to ensure that those issues are ready to be tackled with all the required information gathered at the beginning of the sprint. This ensures that the developers don't have to waste valuable time chasing or clarifying things when they come to work on them.
+- **Lifting blockers** aka making sure the team has everything they need to progress with their work. For example, ensuring there are:
+   - no outstanding external dependencies
+   - all the designs, copy, login/card details needed
+   - decisions made on issues that are in discussion
+
+**Why?** Developers may not know the status/details of all issues at all times.
+You must ensure that issues are ready to be worked on, whenever they come to them.
+This prevents time being wasted chasing or clarifying things when the team come to work on them.
 - **Enabling the team to focus on coding rather than project management**
    - Ie. the SM should be responsible for stopping scope creep or liaising with the client over wider project issues so that the team can focus on executing issues that they know are ready to go.
 - **Enforcing good gitflow across both teams**
