@@ -76,7 +76,7 @@ A SM does not have 'authority' over the team, they work collaboratively with the
 
 At the end of every sprint there is a **sprint demo** with the client. During the demo the client is shown the completed user stories for the milestone.
 
-### <a name="sprint-demo-prep"></a> Sprint Demo Prep
+### Sprint Demo Prep
 + **Time Boxing** :clock3:
 Before the demo, set the expectation of how long you think the demo will be through a calendar invite. A typical demo might last 30 minutes. The demo duration includes the demo itself + any questions following it. Time boxing shows that you’re organised and prevents any inadvertent time wasting. It gives you a reference point that you can point to if you notice that you’re running over time (_a passionate client can talk for hours if you let them!_)
 + **Location** :house:
@@ -163,7 +163,7 @@ The duration varies according to the size of the team and often may be longer ea
 ## Sprint Planning
 Spring planning is when you review the backlog and client's priorities to outline what will be put into the next sprint milestone. This may be done immediately after a sprint demo and retrospective or otherwise on a time/date agreed at the end of the sprint demo.
 
-### <a name="sprint-planning-prep"></a>Sprint Planning Prep
+### Sprint Planning Prep
 - Prior to sprint planning you should ask your Product Owner to prepare and prioritise the backlog with user stories and acceptance criteria for each issue.
 - To aid the time estimating process, we recommend spending 30 mins the day before the sprint planning to familiarise yourself with the issues that will need time estimates so that you can discuss more complex with the team in advance.
 
