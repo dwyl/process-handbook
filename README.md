@@ -35,7 +35,7 @@ So what is a scrum master responsible for?
 
 - **Total understanding of the problem (that the product is trying to solve)**
 - **Lifting blockers**
-   - Ie. making sure the team has everything they need to progress with their work, no outstanding external dependencies, all the designs, copy, login details, card details they need and decisions made on issues that are in discussion.
+   - Ie. making sure the team has everything they need to progress with their work, no outstanding external dependencies, all the designs, copy, login details, card details they need and decisions made on issues that are in discussion. Sometimes developers may only come to lower priority issues towards the end of a sprint. You need to ensure that those issues are ready to be tackled with all the required information gathered at the beginning of the sprint. This ensures that the developers don't have to waste valuable time chasing or clarifying things when they come to work on them.
 - **Enabling the team to focus on coding rather than project management**
    - Ie. the SM should be responsible for stopping scope creep or liaising with the client over wider project issues so that the team can focus on executing issues that they know are ready to go.
 - **Enforcing good gitflow across both teams**
@@ -51,7 +51,8 @@ So what is a scrum master responsible for?
 A SM does not have 'authority' over the team, they work collaboratively with them. When the team needs direction to keep on track with the sprint milestone or with good gitflow practices they should be guided not forced! 😊
 
 ## Ceremonies
-**Ceremonies** are the events that scrum masters take part in every sprint.
+**Ceremonies** are the events that the team take part in every sprint. _Note:_ whilst valuable, ceremonies are just a portion of what it takes to run an agile project.
+Following the ceremonies in isolation does not mean you work in an _agile_ way.
 
 ## Stand-ups
 
@@ -67,7 +68,7 @@ A SM does not have 'authority' over the team, they work collaboratively with the
 
 **The SM should:**
   - Update the team on their progress lifting any blockers e.g. progress getting an outstanding external dependency from the client.
-  - Ask questions as the team show the work they've done that day where relevant (ie. have you written documentation for that issue? did you update the readme to reflect those changes?)
+  - Ask questions as the team show the work they've done that day where relevant (ie. Does that change therefore impact the timelines/effort for this other feature in the sprint? What is the result if the user chooses not to fill in all the fields of that form? Have you written documentation and updated the readme for that issue?)
   - Ensure the team is on track and tackling the priorities set out in the sprint milestone on github and redirect them if they're going off track. E.g. there are 2 days of the sprint left, please can you focus on the priority 2 issues tomorrow rather than that priority 3 that you mentioned?
   - Check whether the team has any new blockers or questions?
   - Ensure the team stay calm and be pragmatic in times of stress or changes.
