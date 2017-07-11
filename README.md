@@ -57,8 +57,8 @@ A SM does not have 'authority' over the team, they work collaboratively with the
 
 - Scheduling stand ups is the SM's responsibility
 - To be held daily at the beginning or end of the day
-- Can be done remotely via google hangouts, for which screensharing is recommended so people can see what everyone's been working on
 - Should last approx a couple of minutes per team member
+- Can be done remotely via a remote conferencing tool, such as google hangouts, for which screensharing is recommended so people can see what everyone's been working on
 
 **Each team member briefly summarises:**
   - The issues they've been working on that day
