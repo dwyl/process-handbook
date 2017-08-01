@@ -33,3 +33,9 @@ In order to pay invoices, a company director with knowledge of the work carried 
 https://docs.google.com/spreadsheets/d/1RYoaLBfHFi5KH8XoKfM55VEmlkeEyn2Mws_X4ya_PiU/edit#gid=1142431849
 
 Following approval, invoices can be paid by logging into the Santander bank interface and using a payment reference corresponding to the dwyl invoice number. The invoice is then recorded as paid in the invoicing spreadsheet and the contractor is emailed to confirm their invoice has been paid, "*I can confirm that this invoice has now been paid. You should see the payment appear in your bank account within the next 24 hours.*"
+
+# Grants & Tax Credits
+
+We have applied for the ZEN Grants Scheme for Cycling. This is a scheme that grants businesses up to £2k towards promoting sustainable travel.
+
+We are also currently looking into partnering with an organisation to claim R&D tax credits. This is still being looked into, possible partners to deliver this include Leyton, ihorizon and GrantTree.
