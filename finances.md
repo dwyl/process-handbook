@@ -52,3 +52,7 @@ We have yet to set annual / monthly budgets for activities (e.g. https://github.
 # Forecasting
 
 We have yet to develop sophisticated forecasting tools; to do our current forecasting we are using Xero and management accounts. FUTRLI is a good forecasting tool we could look into for future use.
+
+# VAT return
+
+We are currently on the quarterly VAT scheme. This means we must submit a VAT return every 3 months. This requires calculating our VAT spent on purchases and VAT received from client payments and calculating our claim total and payment required to be made. Our next return is due in early September - these instructions should be updated when this takes place.
