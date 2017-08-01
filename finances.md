@@ -39,3 +39,8 @@ Following approval, invoices can be paid by logging into the Santander bank inte
 We have applied for the ZEN Grants Scheme for Cycling. This is a scheme that grants businesses up to £2k towards promoting sustainable travel.
 
 We are also currently looking into partnering with an organisation to claim R&D tax credits. This is still being looked into, possible partners to deliver this include Leyton, ihorizon and GrantTree.
+
+# Corporation Tax Return
+
+Every year the company must file a CT600 corporation tax return. These instructions should be updated when we file the 16/17 accounts. Previous returns can be found here:
+https://drive.google.com/drive/folders/0B0XeQ2t5WSK2eFVVWkR5R3dWQ1E
