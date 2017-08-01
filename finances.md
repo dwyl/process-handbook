@@ -44,3 +44,7 @@ We are also currently looking into partnering with an organisation to claim R&D 
 
 Every year the company must file a CT600 corporation tax return. These instructions should be updated when we file the 16/17 accounts. Previous returns can be found here:
 https://drive.google.com/drive/folders/0B0XeQ2t5WSK2eFVVWkR5R3dWQ1E
+
+# Budgeting
+
+We have yet to set annual / monthly budgets for activities (e.g. https://github.com/dwyl/hq/issues/331). Budgeting is currently decided on an ad hoc basis.
