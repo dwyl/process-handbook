@@ -48,3 +48,7 @@ https://drive.google.com/drive/folders/0B0XeQ2t5WSK2eFVVWkR5R3dWQ1E
 # Budgeting
 
 We have yet to set annual / monthly budgets for activities (e.g. https://github.com/dwyl/hq/issues/331). Budgeting is currently decided on an ad hoc basis.
+
+# Forecasting
+
+We have yet to develop sophisticated forecasting tools; to do our current forecasting we are using Xero and management accounts. FUTRLI is a good forecasting tool we could look into for future use.
