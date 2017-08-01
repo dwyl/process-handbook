@@ -24,3 +24,12 @@ Our bookkeeping is kept up to date in Xero, the majority of it has been done by 
 
 The expenses policy has yet to be finalised (https://github.com/dwyl/hq/issues/123), a draft can be found here:
 https://docs.google.com/document/d/1SeXnzTD4P-Ley-RfcEpM4X5aYgjB8SN9mwywtXMPi-o/edit
+
+# Contractor Invoicing
+
+The MVP application is still being tested by @robstallion. Providing there are no issues this will become the sole method of contractors submitting invoices.
+
+In order to pay invoices, a company director with knowledge of the work carried out must approve them in the invoicing spreadsheet here:
+https://docs.google.com/spreadsheets/d/1RYoaLBfHFi5KH8XoKfM55VEmlkeEyn2Mws_X4ya_PiU/edit#gid=1142431849
+
+Following approval, invoices can be paid by logging into the Santander bank interface and using a payment reference corresponding to the dwyl invoice number. The invoice is then recorded as paid in the invoicing spreadsheet and the contractor is emailed to confirm their invoice has been paid, "*I can confirm that this invoice has now been paid. You should see the payment appear in your bank account within the next 24 hours.*"
