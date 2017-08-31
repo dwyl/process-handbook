@@ -1,4 +1,4 @@
-# Master Reference
+# dwyl Process Handbook
 
 Contains our processes, questions and journey to creating ateam.
 
@@ -60,23 +60,46 @@ A SM does not have 'authority' over the team, they work collaboratively with the
 **Ceremonies** are the events that the team take part in every sprint. _Note:_ whilst valuable, ceremonies are just a portion of what it takes to run an agile project.
 Following the ceremonies in isolation does not mean you work in an _agile_ way.
 
-## Stand-ups
+## Stand ups
 
+### What is the aim of a stand up?
+Stand ups are simple beasts, though often misunderstood. The aim of a stand up is a **quick update for the whole team
+to ensure everyone is aware of what the team is working on, can understand where support is needed
+and ensure priorities are aligned**.
+
+Remember that 15 minutes of 4 people's time is actually an hour of time the client has to pay for.
+
+> A swift and focussed stand up is the key to a team's effective collaboration.
+
+They should quickly cover what each team member has worked on since the last stand up, what they plan to be working on until the next one and crucially, whether there are any blockers.
+
+#### A stand up is _not_:
++ For the scrum master (or product owner) - a scrum master already knows what the team is working on because it's their role to stay ontop of the backlog; **this is an update _for the whole team_ to ensure everyone is on the same page**
++ A planning meeting - if new [`priority 1`](https://github.com/dwyl/labels#labels) requirements have surfaced or a feature absolutely _must_ be discussed in detail, a **short call or conversation should be organised for _after_ the stand up with the relevant developer(s)** rather than being discussed on this call
++ An opportunity for **micromanagement** - a scrum master is not a 'project manager' and our teams do not need to be 'told what to do'.
+A scrum master clarifies priorities, helps the team think through
+potential risks and solutions and ensures they are making progress towards removing blockers that keep the team from working
++ The time or place to ask lots of questions about a feature - **questions should be captured in the relevant issue and discussed with the relevant developer**
+rather than when the whole team is on the call; if there is a particularly complex issue that requires more conversation,
+a separate call should be set up with the relevant parties after the stand up
+
+### Running stand ups
 - Scheduling stand ups is the SM's responsibility
 - To be held daily at the beginning or end of the day
-- Should last approx a couple of minutes per team member
+- Should last approximately **2 - 4 minutes per team member**
 - Can be done remotely via a remote conferencing tool, such as google hangouts, for which screensharing is recommended so people can see what everyone's been working on
+- Should be done with the scrum backlog open and referring to issue numbers
 
 **Each team member briefly summarises:**
   - The issues they've been working on that day
   - What issues they intend to work on the following day
-  - Whether they experienced any blockers or have any questions
+  - Whether they experienced any blockers, know of any _risks_ with the issue they are working on or have any questions for the team
 
-**The SM should:**
+**The scrum master should:**
   - Update the team on their progress lifting any blockers e.g. progress getting an outstanding external dependency from the client.
-  - Ask questions as the team show the work they've done that day where relevant (ie. Does that change therefore impact the timelines/effort for this other feature in the sprint? What is the result if the user chooses not to fill in all the fields of that form? Have you written documentation and updated the readme for that issue?)
-  - Ensure the team is on track and tackling the priorities set out in the sprint milestone on github and redirect them if they're going off track. E.g. there are 2 days of the sprint left, please can you focus on the priority 2 issues tomorrow rather than that priority 3 that you mentioned?
-  - Check whether the team has any new blockers or questions?
+  - Ask questions as the team show the work they've done that day where relevant (ie. Does that change therefore impact the timelines/effort for this other feature in the sprint? What is the result if the user chooses not to fill in all the fields of that form? This seems like a big change that would be useful to future developers on the project, should we add that to the documentation for the project?) - notice this is *not* about 'managing people and tasks' but about helping the team to work together
+  - Ensure the team is on track and tackling the priorities set out in the sprint milestone on github and redirect them if they're going off track. E.g. there are 2 days of the sprint left, have we made sure that all the `priority-2` issues have been covered before we move to the `priority-3` ones?
+  - Check whether the team has any new blockers or questions
   - Ensure the team stay calm and be pragmatic in times of stress or changes.
 
 ## Sprint Demo
