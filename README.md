@@ -194,7 +194,9 @@ The duration varies according to the size of the team and often may be longer ea
 Spring planning is when you review the backlog and client's priorities to outline what will be put into the next sprint milestone. This may be done immediately after a sprint demo and retrospective or otherwise on a time/date agreed at the end of the sprint demo.
 
 ### Sprint Planning Prep
-- Prior to sprint planning you should ask your Product Owner to prepare and prioritise the backlog with user stories and acceptance criteria for each issue.
+- _Prior to sprint planning_ you should **ask your Product Owner to prepare and prioritise the backlog** with user stories and acceptance criteria for each issue
+  + This is **crucial** to increase the efficiency of the sprint planning session - it allows a team to come into that session fully prepared with questions and having already put some thought into the most complex issues
+  + Remember that **these priorities may change during sprint planning itself** as you discuss the issues with the PO and incorporate technical expertise into prioritisation - _sprint priorities should never be decided unilaterally, they need to be discussed as a team_
 - To aid the time estimating process, we recommend spending 30 mins the day before the sprint planning to familiarise yourself with the issues that will need time estimates so that you can discuss more complex with the team in advance.
 
 ### During Sprint Planning
