@@ -1,3 +1,18 @@
+#Finances
+
+# What?
+
+A document that summarises our current financial processes and systems.
+
+# Why?
+
+So that we have a record of our processes in case someone else other than the person who normally carries them out needs to do them.
+
+# How?
+
+By creating and writing this document and including it as part of our process handbook.
+
+
 # Payroll
 
 Payroll is currently processed on the last business day of the month, follow these steps to post a payrun:
@@ -18,16 +33,16 @@ Payroll is currently processed on the last business day of the month, follow the
 
 # Bookkeeping
 
-Our bookkeeping is kept up to date in Xero, the majority of it has been done by our accountants at ihorizon. When working with the accountants you will need to provide information about transactions in order to assist in reconcilliations.
+Bookkeeping is the activity or occupation of keeping records of the financial affairs of a business. Our bookkeeping is kept up to date in Xero, the majority of it has been done by our accountants at iHorizon. When working with the accountants you will need to provide information about transactions in order to assist in reconciliations. A reconciliation is when a bank transaction is matched to a corresponding bill or invoice or marked and categorised appropriately according to the accounts. If not done by accountants., reconciliations can be done by a member of the team. Xero has many guides that explain how this is done: https://help.xero.com/uk/BankAccounts_Details_Reconciliation
 
 # Expenses
 
-The expenses policy has yet to be finalised (https://github.com/dwyl/hq/issues/123), a draft can be found here:
-https://docs.google.com/document/d/1SeXnzTD4P-Ley-RfcEpM4X5aYgjB8SN9mwywtXMPi-o/edit
+The expenses policy can be found here:
+https://docs.google.com/document/d/1SeXnzTD4P-Ley-RfcEpM4X5aYgjB8SN9mwywtXMPi-o/edit. Expenses are captured in Xero according to the policy document.
 
 # Contractor Invoicing
 
-The MVP application is still being tested by @robstallion. Providing there are no issues this will become the sole method of contractors submitting invoices.
+The MVP application (https://invoice.dwyl.com) is the method of contractors submitting invoices. This is a prototype which is in temporary use whilst Time is under construction.
 
 In order to pay invoices, a company director with knowledge of the work carried out must approve them in the invoicing spreadsheet here:
 https://docs.google.com/spreadsheets/d/1RYoaLBfHFi5KH8XoKfM55VEmlkeEyn2Mws_X4ya_PiU/edit#gid=1142431849
@@ -51,7 +66,7 @@ We have yet to set annual / monthly budgets for activities (e.g. https://github.
 
 # Forecasting
 
-We have yet to develop sophisticated forecasting tools; to do our current forecasting we are using Xero and management accounts. FUTRLI is a good forecasting tool we could look into for future use.
+We have yet to develop sophisticated forecasting tools; to do our current forecasting we are using Xero and management accounts.
 
 # VAT return
 
