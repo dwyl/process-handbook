@@ -1,8 +1,8 @@
-# Writing Legal Documents
+# Legal Documents
 
 Our current list of legal documents is as follows:
 - Contractor Agreement
-  - This is the agreement we use for all of our contractors (developers).
+  - This is the agreement we use for all of our contractors (developers) on development projects.
 - Supplier Agreement
   - This is the agreement we use for all of our client projects
 - Employment Agreement
@@ -16,12 +16,12 @@ Our current list of legal documents is as follows:
 
   We've created an automated legal document creation system using the Google Store App AutoCrat to utilise Google Docs templates and Google Sheets to merge in contract data. This is beneficial for a number of reasons:
   1. It minimises errors in documents
-  2. It provides us with a list of all of our documents and the important data within them
+  2. It provides us with a list of all of our versions of that document and the important data within them
   3. It ensures the master template file is always the most up-to-date and newer versions of the documents will always be created from the continuously updated template file
 
 # Ratification
 
-Any document signed as a deed must be signed with wet ink. Otherwise we often employ the use of electronic signatures, most commonly using a Mac's inbuilt preview signature feature.
+Any document signed as a deed must be signed with more than one party, in wet ink and with a witness. Otherwise we often employ the use of electronic signatures, most commonly using a Mac's inbuilt preview signature feature.
 
 # Filing
 If you need to scan a document, [CamScanner](https://www.camscanner.com/) is a useful mobile tool to do so. All of our legal documents are currently stored in Google Drive.
