@@ -41,6 +41,10 @@ to start paying it again.
 
 7. Go back to Xero and click Options -> Email Payslips to email everyone a copy of their payslip
 
+For reference, each time a pay run is posted, Xero will automatically report to
+HMRC with a [Full Payment Submission (FPS)](https://www.gov.uk/running-payroll/reporting-to-hmrc)
+using the PAYE Real Time Information (RTI) service.
+
 # Bookkeeping
 
 Bookkeeping is the activity or occupation of keeping records of the financial affairs of a business. Our bookkeeping is kept up to date in Xero, the majority of it has been done by our accountants at iHorizon. When working with the accountants you will need to provide information about transactions in order to assist in reconciliations. A reconciliation is when a bank transaction is matched to a corresponding bill or invoice or marked and categorised appropriately according to the accounts. If not done by accountants., reconciliations can be done by a member of the team. Xero has many guides that explain how this is done: https://help.xero.com/uk/BankAccounts_Details_Reconciliation
