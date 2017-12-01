@@ -27,19 +27,24 @@ Payroll is currently processed on the last business day of the month, follow the
 
 5. Make payments of the net income amount (amount after tax) to the respective individuals with the reference "DWYL SALARY"
 
-6. Make a payment to HMRC CUMBERNAULD, where the payment
+6. In the relevant pay run in Xero, click Options > Email Payslips to email
+everyone a copy of their payslip
+
+7. Make a payment to HMRC CUMBERNAULD, where the payment
 reference is **Accounts Office Reference Number** + YY/**YY** + **MM** (17 characters),
 where YY/YY is the tax year and MM is the tax month, e.g. YY/YY = 17/18 and MM = 01.
 **The tax month starts in April, i.e. April = 01**.  
-The payment should equal the total of the following from the relevant payrun in Xero:
-Income tax, Student Loan deductions, Employee National Insurance Contribution (NIC),
-Employer NIC.  
-**NOTE:** We have an [employment allowance of £3,000 _annually_](https://www.gov.uk/claim-employment-allowance).
-This means that starting in April of _every_ year, we do not have to pay Employ***er*** NIC
-until we get to that £3,000 sum. Once our employer NIC reaches £3,000, we need
-to start paying it again.
++ To find the correct amount to pay, go to Payroll > Taxes & Filings - you'll be
+able to see here what the amount due is for the latest payrun
+  + For reference, the payment should equal the total of the following from the
+   relevant payrun in Xero: Income tax, Student Loan deductions, Employee National
+   Insurance Contribution (NIC), Employer NIC.  
+  + **NOTE:** We have an [employment allowance of £3,000 _annually_](https://www.gov.uk/claim-employment-allowance). This means that
+  starting in April of _every_ year, we do not have to pay Employ***er*** NIC
+  until we get to that £3,000 sum. Once our employer NIC reaches £3,000, we need
+  to start paying it again (but Xero will work this out for you and factor it into
+  the Amount Due).
 
-7. Go back to Xero and click Options -> Email Payslips to email everyone a copy of their payslip
 
 For reference, each time a pay run is posted, Xero will automatically report to
 HMRC with a [Full Payment Submission (FPS)](https://www.gov.uk/running-payroll/reporting-to-hmrc)
