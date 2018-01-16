@@ -12,6 +12,7 @@ Once that form is submitted, the fields are sent to a `Google Sheet` which autom
 * Add their name to the `name` question on the form (if they're not there already)
 * Ask invoicer to fill in the form at [invoice.dwyl.com](https://invoice.dwyl.com)
 * At this stage, `Autocrat` should take care of the rest as it's set up to run on form change
+  * The output will be an email with PDF invoice from `no-reply@dwyl.com` to the invoicer, copying in `finance@dwyl.com`, and sending a copy to `Xero`  
   * If nothing happens, go to the spreadsheet and trigger it manually (instructions below)
 
 ### Setting up new invoicer / amending existing details
