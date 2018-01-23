@@ -71,4 +71,4 @@ If you want to change the template or the wording of the automated email, or mak
 
 Then just go through the steps to find the bit you want to change - this part at least is easy :smile_cat:.
 
-If it's not easy, however, you can get an `Autocrat` refresher from [this comment](https://github.com/dwyl/process-handbook/issues/70#issuecomment-339266181)
+If it's not easy, however, you can get an `Autocrat` refresher from [this comment](https://github.com/dwyl/process-handbook/issues/70#issuecomment-339266181).
