@@ -14,6 +14,7 @@ Once that `Google Form` is submitted, the fields are sent to a `Google Sheet` wh
 * At this stage, `Autocrat` should take care of the rest as it's set up to run on form change
   * The output will be an email with PDF invoice from `no-reply@dwyl.com` to the invoicer, copying in `finance@dwyl.com`, and sending a copy to `Xero`  
   * If nothing happens, go to the spreadsheet and trigger it manually (instructions below)
+* PLEASE NOTE: this process is a house of cards built on a foundation of spreadsheet formulae - under no circumstances should the formulae be amended, EXCEPT as required in the Ongoing Maintenance note below
 
 ### Setting up new invoicer
 
@@ -72,3 +73,25 @@ If you want to change the template or the wording of the automated email, or mak
 Then just go through the steps to find the bit you want to change - this part at least is easy :smile_cat:.
 
 If it's not easy, however, you can get an `Autocrat` refresher from [this comment](https://github.com/dwyl/process-handbook/issues/70#issuecomment-339266181).
+
+### Ongoing maintenance
+
+(This might not make sense if you're not looking at the spreadsheet...)
+
+The whole process relies on several `vlookups` and will fail if any formulae are changed. 
+
+But it's essential that the following is done on a semi-regular basis:
+
+* Go to the second worksheet `Copy of Form Responses 1`, scroll to `Column M/N`, and scroll to the latest invoice
+* You should see the list of invoice numbers to date, with a number of rows just saying `#N/A` at the bottom
+  * The `#N/A`s are all failed `vlookup`s, because the formulae are searching for data that isn't there yet
+  * These failed rows MUST EXIST *before* the invoice form is submitted. If an invoice is submitted without an open row available, the whole house of cards comes crashing down
+* So all you need to do when we reach the end of the available rows is create more!
+  * Scroll down to the bottom of the worksheet
+  * On the bottom left, you'll see an option to add more rows. **Add 100 more rows**. 
+  * Now there are 100 blank rows at the bottom. 
+  * Go to `Col M` and scroll to the last row with a pre-filled invoice number. Drag-highlight that row from `Col M` to `Col X`
+ ![screenshot 2018-01-31 at 14 22 06](https://user-images.githubusercontent.com/11595920/35627899-40c64afe-0692-11e8-91da-bfd8e8f17b09.png)
+  * Now drag down the formulae by dragging the little blue square in the bottom right of the selected row - drag it all the way to the end of the newly-created rows
+* You could add 1000 or 100000000000000 rows at the bottom to cover us for all the invoices that will ever be created, but all the formulae are likely to slow the whole spreadsheet down
+  * Actually there's an argument for pasting in all the completed invoices as values rather than formulae, but we can do that if/when we notice the spreadsheet getting sluggish
