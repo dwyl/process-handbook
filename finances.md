@@ -23,17 +23,15 @@ Payroll is currently processed on the last business day of the month, follow the
 
 3. Post the new pay run to Xero, you'll receive a message, "*Pay run successfully processed. Payroll expense journal has been posted automatically and now includes an automatic entry for any Employment Allowance, where applicable.*"
 
-4. Log in to the Santander bank account
+4. Log in to the Santander bank account, go to `Multiple payments`, and select the existing `Payroll` template
 
-5. Make payments of the net income amount (amount after tax) to the respective individuals with the reference "DWYL SALARY"
+5. Add payments of the net income amount (amount after tax) to the respective individuals with the reference `"DWYL SALARY" + MONTH` (**NB**: references from the previous payroll will be autofilled so make sure to check this)
 
-6. In the relevant pay run in Xero, click Options > Email Payslips to email
-everyone a copy of their payslip
-
-7. Make a payment to HMRC CUMBERNAULD, where the payment
+5a. Add a payment to HMRC CUMBERNAULD, where the payment
 reference is **Accounts Office Reference Number** + YY/**YY** + **MM** (17 characters),
-where YY/YY is the tax year and MM is the tax month, e.g. YY/YY = 17/18 and MM = 01.
-**The tax month starts in April, i.e. April = 01**.  
+where YY/YY is the tax year and MM is the tax month, e.g. YY/YY = 17/18 and MM = 01, so that *March 2018* = **1218** and *April 2018* = **0119**  
+
+**The tax year starts in April, so April is the first month, i.e. April = 01**.  
 + To find the correct amount to pay, go to Payroll > Taxes & Filings - you'll be
 able to see here what the amount due is for the latest payrun
   + For reference, the payment should equal the total of the following from the
@@ -45,10 +43,14 @@ able to see here what the amount due is for the latest payrun
   to start paying it again (but Xero will work this out for you and factor it into
   the Amount Due).
 
-
 For reference, each time a pay run is posted, Xero will automatically report to
 HMRC with a [Full Payment Submission (FPS)](https://www.gov.uk/running-payroll/reporting-to-hmrc)
 using the PAYE Real Time Information (RTI) service.
+
+6. Check all the figures against the Xero pay run amounts and ensure they match before making submitting the `multiple payment` (for which you'll only need one OTP, rather than seven :smiley:)
+
+7. In the relevant pay run in Xero, click Options > Email Payslips to email
+everyone a copy of their payslip
 
 # Bookkeeping
 
