@@ -61,21 +61,21 @@ https://docs.google.com/document/d/1SeXnzTD4P-Ley-RfcEpM4X5aYgjB8SN9mwywtXMPi-o/
 
 # dwyler Invoicing
 
-`dwylers` submit invoices at (https://invoice.dwyl.com); this saves the details in the [invoicing spreadsheet](https://docs.google.com/spreadsheets/d/1RYoaLBfHFi5KH8XoKfM55VEmlkeEyn2Mws_X4ya_PiU/edit#gid=1142431849) and generates a PDF, which is saved in the `dwyl drive` and, more importantly, is sent to the Xero inbox.
+`dwylers` submit invoices at (https://invoice.dwyl.com); this saves the details in the invoicing spreadsheet (search `Invoicing Responses` in Drive) and generates a PDF, which is saved in the `dwyl drive` and, more importantly, is sent to our bookkeeping software's files inbox. (The process is outlined [here](https://github.com/dwyl/process-handbook/blob/master/incoming-invoices.md)
 
-Every Wednesday is `Finance day`, so the following needs to be done (ideally before 5pm so payments go through on the same day)
+Every week, we do a `Finance day`, so the following needs to be done (ideally before 5pm so payments go through on the same day)
 
-* Company Director to approve latest invoices in the [invoicing spreadsheet](https://docs.google.com/spreadsheets/d/1RYoaLBfHFi5KH8XoKfM55VEmlkeEyn2Mws_X4ya_PiU/edit#gid=1142431849)
+* Company Director to approve latest invoices in the invoicing spreadsheet
 * Go to Xero inbox and create bills from all `dwyler` invoices, and approve them all
 * Go to the `awaiting payment` section (Accounts > Purchases > Awaiting Payment tab)
 * Select the bills you want to pay and click the `batch payments` button
-* (Currently we're unable to export the batch and import into Santander, but will update if this is sorted) (https://github.com/dwyl/hq/issues/399)
-* **Manually** tot up how much each `dwyler` gets *in total* (as in the next steps there's only one line per person, not per bill)
-* Go to Santander, log in, go to `Multiple payments`, and create a new payment
+* (Currently we're unable to export the batch and import into our online banking system, but will update if this is sorted) (https://github.com/dwyl/hq/issues/399)
+* **Manually** add up how much each `dwyler` gets *in total* (as in the next steps there's only one line per person, not per bill)
+* Go to our online banking system, log in, go to `Multiple payments`, and create a new payment
 * Add the `dwylers` who need paying
-* Input each dwyler's total (the two unmarked input boxes are `pounds` and `pence`), and for the reference put in the number of each invoice (so the ref is of the format `DWYL123, DWYL123, DWYL125`)
-* Check that the total for the `multiple payment` on Santander is the same as the total for the `batch payment` in Xero
-* Pay using the OTP process in one go
+* Input each dwyler's total (the two unmarked input boxes are `pounds` and `pence`), and for the reference put in the number of each invoice (so the ref is of the format `DWYL123, DWYL124, DWYL125`)
+* Check that the total for the `multiple payment` is the same as the total for the `batch payment` in Xero
+* Pay using the online banking system in one go
 * Get in the habit of refreshing the bank feed in Xero then reconciling the payment immediately if possible
 * Go back to the invoicing spreadsheet and mark the invoices as `paid`
 * Send a courtesy note to people you've paid informing them that they've been paid
