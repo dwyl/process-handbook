@@ -25,6 +25,8 @@ Payroll is currently processed on the last business day of the month, follow the
 
 4. Log in to the Santander bank account, go to `Multiple payments`, and select the existing `Payroll` template
 
+4a. Check there are sufficient funds in the Santander account for the whole pay run (the `total cost` is at the top of the pay run screen in Xero)
+
 5. Add payments of the net income amount (amount after tax) to the respective individuals with the reference `"DWYL SALARY" + MONTH` (**NB**: references from the previous payroll will be autofilled so make sure to check this)
 
 5a. Add a payment to HMRC CUMBERNAULD, where the payment
