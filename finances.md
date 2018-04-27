@@ -84,6 +84,18 @@ Every week, we do a `Finance day`, so the following needs to be done (ideally be
 * Go back to the invoicing spreadsheet and mark the invoices as `paid`
 * Send a courtesy note to people you've paid informing them that they've been paid
 
+# Refunds, reversals, cancellations etc.
+
+We've created an account called `999 - Reversed/Cancelled Transactions`.
+
+This is ***ONLY*** for when £X has gone in and £X has gone out (or vice versa :wink:) - the balance of the account should ***ALWAYS*** be `0`.
+
+Items should therefore only *be coded as 999 in pairs* - so they **immediately** cancel each other out.
+
+**NB**: you shouldn't be adding *ad hoc* transactions and coding them as `999` - it's only when there's a `bank feed item` with the money going in and a `bank feed item` with the money going out.
+
+Do not use code `999` for any other reason than this. 
+
 # Grants & Tax Credits
 
 We have applied for the ZEN Grants Scheme for Cycling. This is a scheme that grants businesses up to £2k towards promoting sustainable travel.
