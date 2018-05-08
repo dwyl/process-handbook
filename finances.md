@@ -1,5 +1,21 @@
 # Finances
 
+# TOC
+
+* [What](#what)
+* [Why](#why)
+* [How](#how)
+* [Payroll](#payroll)
+* [Bookkeeping](#bookkeeping)
+* [Expenses](#expenses)
+* [dwyler Invoicing](#dwyler-invoicing)
+* [Refunds, reversals, cancellations, etc.](#refunds-reversals-cancellations-etc)
+* [Grants & Tax Credits](#grants--tax-credits)
+* [Corporation Tax Return](#corporation-tax-return)
+* [Budgeting](#budgeting)
+* [Forecasting](#forecasting)
+* [VAT Return](#vat-return)
+
 # What?
 
 A document that summarises our current financial processes and systems.
