@@ -133,4 +133,26 @@ We have yet to develop sophisticated forecasting tools; to do our current foreca
 
 # VAT return
 
-We are currently on the quarterly VAT scheme. This means we must submit a VAT return every 3 months. This requires calculating our VAT spent on purchases and VAT received from client payments and calculating our claim total and payment required to be made. Our next return is due in early September - these instructions should be updated when this takes place.
+We are VAT-registered so we need to submit a quarterly VAT return, and pay/reclaim VAT due. Fortunately Xero makes this **very easy**, as long as we've been diligent in storing invoices and receipts.
+
+* Our VAT periods are Nov-Jan, Feb-Apr (also year-end), May-Jul, Aug-Oct
+* VAT Return must be submitted **within one month and one week of the period end**
+* To prepare to run the report in Xero...
+  * Ensure you've reconciled all account transactions (including expenses) within the relevant period (or _at the very least_, make sure to do the purchases with VAT on them)
+  * (Let's assume you've been very diligent and always inputted invoices with the correct VAT amount)
+  * Ensure VAT receipts/invoices have been uploaded to Xero where possible - if the VAT man comes knocking, we'll need them 
+  * If there are any charges from before the VAT period, that's fine, they can still be submitted - just reconcile them as usual
+  * (And don't worry about `outgoing invoices` - they will all have VAT included correctly)
+* Now you can run a dummy report and sense-check it:
+  * Reports > VAT Return > `select correct quarter` > `click VAT Audit Report` - this is a breakdown of all transactions in the quarter
+  * If you like you can export the report to `Google Sheets`, but if you work within Xero, you can click through from a line in the report to the transaction in Xero, which is a great time-saver
+  * There's no real process for sense-checking - just scroll through and make sure the transactions under each category seem like they belong there. e.g. 
+    * `412 - contractors` should usually be `Zero-rated` or `No VAT`; 
+    * International purchases, domain names, SaaS charges - tend to be `Reverse charge`
+    * "Stuff" bought in the UK (everything from food to hoodies to stationery) tends to be 20% VAT
+    * Services paid for in the UK tend to be 20% VAT
+* Now you can submit the return through Xero - just hit `File VAT return` on the VAT Return page. You'll need the `Gov Gateway` account details
+* And finally, you need to pay HMRC
+  * Bank details are already stored in our Santander account, but can be found [here](https://www.gov.uk/pay-vat/bank-details)
+  * Xero will helpfully tell you how much we owe (#5 on the VAT Return report page, in bold)
+  * Pay it with our `VAT Registration Number` as the reference (search through old payments if you need to find it, it's the first nine numbers from previous payments) 
