@@ -79,6 +79,34 @@ Bookkeeping is the activity or occupation of keeping records of the financial af
 The expenses policy can be found here:
 https://docs.google.com/document/d/1SeXnzTD4P-Ley-RfcEpM4X5aYgjB8SN9mwywtXMPi-o/edit. Expenses are captured in Xero according to the policy document.
 
+## Foreign currency expenses
+
+The reasons for this ludicrous process are explained [here](https://github.com/dwyl/hq/issues/430#issuecomment-376168913). 
+
+In short, Xero doesn't accommodate foreign currency expenses so we have to put them through as `bills`
+
+* Before you start, **arrange all your receipts by date** (because Xero does currency conversions based on the date)
+* Yes, you guessed it, this means you need to **create one bill per date**
+  * Though you can get away without doing this when it won't make too much of a difference, like when you're putting in loads of `dwylsummer` receipts for small amounts from the same fortnight 
+* Using your phone's camera or the Xero app, take a photo of each receipt and name it according to the following convention:
+  * `{date}-{amount}-{description}-{client}`
+  * `account` will be e.g. `Braga` or `dwyl-summer` or `Thomas Cook`
+  * Date is important (see above)
+  * Description should be minimal - e.g. "food" 
+* Just upload the files to the `file library`, rather than attaching them to an expense claim
+![screenshot 2018-03-26 at 14 25 02](https://user-images.githubusercontent.com/11595920/37908967-8c026036-3101-11e8-91e7-e53b34e3c2bf.png)
+* Open a new bill
+  * Set the payee (the `from` field)
+  * Set the currency
+  * Set the date
+  * Set the reference as `{dwyler name}`-exp-`{YYMMDD}`
+* Now, because of your diligence in naming the receipt files, you can add them all to the bill and fill in the `amount`, the `description`, and the `client` from the filename rather than having to inspect each individual file (_very_ time-consuming in Xero)
+* All done right? :laughing: Wrong. Xero doesn't display foreign currency bills converted to our base currency, so...
+![screenshot 2018-05-08 at 14 58 18](https://user-images.githubusercontent.com/11595920/39762671-29933148-52d3-11e8-82e9-43da23267ca3.png)
+  * If it's just one bill, you can hover over the currency in Euro or Dollars and see the converted amount (screenshot above)
+  * If it's multiple bills and you don't want to add them all up manually, you need to go to the `payee`'s `contact` page and click on `View recent bills report` at the top of the page, and the `GBP` amount is in that report
+* All these steps reproduce the functionality of an expense claim, so now that you have the total amount to be paid, you can just pay it and reconcile it as usual
+
 # dwyler Invoicing
 
 `dwylers` submit invoices at (https://invoice.dwyl.com); this saves the details in the invoicing spreadsheet (search `Invoicing Responses` in Drive) and generates a PDF, which is saved in the `dwyl drive` and, more importantly, is sent to our bookkeeping software's files inbox. (The process is outlined [here](https://github.com/dwyl/process-handbook/blob/master/incoming-invoices.md)
