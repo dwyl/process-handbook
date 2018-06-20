@@ -130,6 +130,9 @@ Every week, we do a `Finance day`, so the following needs to be done (ideally be
 * Go back to the invoicing spreadsheet and mark the invoices as `paid`
 * Send a courtesy note to people you've paid informing them that they've been paid
 
+### Xero notes
+* To add a new `pay item` (e.g. if someone goes onto a new day rate), go to `Accounts > Inventory` and you'll be able to add/edit items there. Add day rates in the format `00£££ - £££ GBP Day Rate` (e.g. `00150 - 150 GBP Day Rate`)
+
 # Refunds, reversals, cancellations etc.
 
 We've created an account called `999 - Reversed/Cancelled Transactions`.
