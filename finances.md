@@ -72,6 +72,18 @@ everyone a copy of their payslip
 
 Please note: HMRC don't confirm the submission of the FPS until the 12th of the month - so don't be surprised when you get an email out of the blue saying that the submission has just been accepted
 
+### Holidays & Leave
+
+All employees have Xero logins so they can request holidays and see their remaining leave entitlement.
+
+Xero is very fiddly with holidays so you should always double-check a pay run which includes any holidays. Once a holiday has been approved and included in a `pay run`, it can't be amended.
+
+Because until 2018, holidays weren't tracked on Xero (CharlieHR), people's 2017 balance had to be added to their 2018 allowance manually as an `opening balance` (this will be written up separately as part of the `on-boarding process`). 
+
+Holidays that fall within an employee's annual allowance can be booked, approved, and included in a pay run automatically.
+
+I've added an `unpaid leave` category for holidays that exceed an employee's annual allowance - whoever approves the holiday should change the `holiday type` to "Unpaid leave" after it's approved and **before** it's included in a `pay run`. 
+
 # Bookkeeping
 
 Bookkeeping is the activity or occupation of keeping records of the financial affairs of a business. Our bookkeeping is kept up to date in Xero, the majority of it has been done by our accountants at iHorizon. When working with the accountants you will need to provide information about transactions in order to assist in reconciliations. A reconciliation is when a bank transaction is matched to a corresponding bill or invoice or marked and categorised appropriately according to the accounts. If not done by accountants., reconciliations can be done by a member of the team. Xero has many guides that explain how this is done: https://help.xero.com/uk/BankAccounts_Details_Reconciliation
