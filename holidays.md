@@ -37,3 +37,16 @@ dwyl has two systems for booking holiday - `Xero` for PAYE dwylers which links i
 * Now simply double-click on each row to open the request, and the only thing you need to do is change the dropdown from `pending approval` to `approved` (depending on your mood) and hit OK (screenshot)
 ![screenshot 2018-07-31 at 12 50 14](https://user-images.githubusercontent.com/11595920/43458042-9f27d9ca-94c0-11e8-927d-78efa08a40ac.png)
  
+ 
+## For dwylers on payroll
+
+* Log in to Xero. We manage holidays and payroll using Xero so people get their remaining holiday balance along with their payslips. All payroll dwylers have a login
+* Click on `New time off request`
+![image](https://user-images.githubusercontent.com/16775804/44776681-963bfa00-ab70-11e8-9f86-c8248d2e72a7.png)
+
+* Fill in the form with Ines as your manager, and a day as 8 hrs. (If you're taking half days, that's 4 hrs)
+![image](https://user-images.githubusercontent.com/16775804/44776826-e4e99400-ab70-11e8-9ba7-9043fc359800.png)
+
+* That's it! You'll see the screen below, and you'll be notified when your holiday has been approved :sunglasses: :surfer: :ski:
+
+![image](https://user-images.githubusercontent.com/16775804/44776854-f9c62780-ab70-11e8-93ba-dba0cb58bfc6.png)
