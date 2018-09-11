@@ -15,6 +15,7 @@
 * [Budgeting](#budgeting)
 * [Forecasting](#forecasting)
 * [VAT Return](#vat-return)
+* [International payments](#international-payments)
 
 # What?
 
@@ -201,3 +202,22 @@ We are VAT-registered so we need to submit a quarterly VAT return, and pay/recla
   * Bank details are already stored in our Santander account, but can be found [here](https://www.gov.uk/pay-vat/bank-details)
   * Xero will helpfully tell you how much we owe (#5 on the VAT Return report page, in bold)
   * Pay it with our `VAT Registration Number` as the reference (search through old payments if you need to find it, it's the first nine numbers from previous payments) 
+
+# International Payments
+Our international payment processor is TransferWise. They are very easy to use, fast, and cheap. 
+
+* (Get login details / log in to `transferwise`)
+* Hit "Send money"
+* Enter the amount your recipient should receive on the `amount` screen
+* Select an existing payee from the list or create a new one with their...
+  * Email address
+  * Full name
+  * International IBAN number
+* Review the details (the bank name will come up based on the IBAN, so if it's a new payee just sense-check that the bank sounds right)
+* Add a reference at the bottom of the `review` screen - this is essential as we can't add a reference to the bank transfer itself
+* Now follow the instructions from transferwise:
+  * Take their final amount in ££
+  * Create a payment in our bank account (their account details will already be saved, and **the reference is always the same**)
+  * Do the transfer
+* Later (or the next day), log back into transferwise and download the receipt
+  * NB: if possible, get the transferwise receipt and an invoice from whomever you're sending money to - the transferwise receipt because it includes the transfer fee, and the invoice because that would include VAT details
