@@ -44,9 +44,13 @@ Payroll is currently processed on the last business day of the month, follow the
 
 4a. Check there are sufficient funds in the Santander account for the whole pay run (the `total cost` is at the top of the pay run screen in Xero)
 
-5. Add payments of the net income amount (amount after tax) to the respective individuals with the reference `"DWYL SALARY" + MONTH` (**NB**: references from the previous payroll will be autofilled so make sure to check this)
+4b. If there is anyone being paid via international transfer, take their total pay, go to `transferwise` and set up a payment to their account (if they're not already saved as a contact, it only takes a few seconds), mark it as `"DWYL SALARY" + MONTH`, and note down the amount (it will include a transfer fee)
 
-5a. Add a payment to HMRC CUMBERNAULD, where the payment
+5. Add payments of the net income amount (amount after tax) to the respective individuals (minus all international dwylers paid in other currencies) with the reference `"DWYL SALARY" + MONTH` (**NB**: references from the previous payroll will be autofilled so make sure to check this)
+
+5a. Add `transferwise` payments (if any) to the list, but make sure that you use tranferwise's standard reference
+
+5b. Add a payment to HMRC CUMBERNAULD, where the payment
 reference is **Accounts Office Reference Number** + YY/**YY** + **MM** (17 characters),
 where YY/YY is the tax year and MM is the tax month, e.g. YY/YY = 17/18 and MM = 01, so that *March 2018* = **1218** and *April 2018* = **0119**  
 
