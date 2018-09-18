@@ -197,7 +197,7 @@ We are VAT-registered so we need to submit a quarterly VAT return, and pay/recla
     * "Stuff" bought in the UK (everything from food to hoodies to stationery) tends to be 20% VAT
     * Services paid for in the UK tend to be 20% VAT
 * Now you can submit the return through Xero - just hit `File VAT return` on the VAT Return page. You'll need the `Gov Gateway` account details
-* And finally, you need to pay HMRC; currently this is done automatically by Direct Debit so you don't need to do anything except ensure there are sufficient funds in the bank *on the 7th of the following month* (but the manual payment details are below)
+* And finally, you need to pay HMRC; currently this is done automatically by Direct Debit so you don't need to do anything except ensure there are sufficient funds in the bank *on the 7th - 12th of the following month*, as HMRC take the money out of our account 3 business days after the payment date on the VAT return (but the manual payment details are below just in case)
   * Bank details are already stored in our Santander account, but can be found [here](https://www.gov.uk/pay-vat/bank-details)
   * Xero will helpfully tell you how much we owe (#5 on the VAT Return report page, in bold)
   * Pay it with our `VAT Registration Number` as the reference (search through old payments if you need to find it, it's the first nine numbers from previous payments) 
