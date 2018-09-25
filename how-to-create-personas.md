@@ -1,3 +1,5 @@
+## How to create user personas
+
 ### Why?
 Personas help a team connect with and better understand the end user of their product.
 This is key to the success of the product for ensuring that it is built to
@@ -15,6 +17,8 @@ use a product in a similar way. The format in which they are written can vary
 according to the needs of the project, this readme will focus on ["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
 Proto personas are ideal for projects that are short of time/ allocated resources
 but that want to get the core benefits that using personas has to offer.
+
+![image](https://user-images.githubusercontent.com/16775804/46004041-d5933300-c0a9-11e8-9c97-c7ea0ad38d9e.png)
 
 ### How?
 A persona should include:
@@ -47,5 +51,13 @@ Personas can be tailored to the unique needs and goals of your project according
 to what you see relevant. For example you might want to use a quantifiable pain
 points scale:
 
-![image](https://user-images.githubusercontent.com/194400/45924465-b7d29c00-bef8-11e8-94f6-222a66d4db02.png)
-via: https://www.uxpin.com/studio/blog/ux-designers-5-minute-guide-lean-personas
+![image](https://user-images.githubusercontent.com/194400/45924741-3f230e00-beff-11e8-8d6d-c97f5ca8a11f.png)
+via: https://www.wordstream.com/blog/ws/2018/02/28/pain-points
+
+### Examples
+
+![image](https://user-images.githubusercontent.com/16775804/46004238-49354000-c0aa-11e8-801b-858d137f6b1b.png)
+
+![image](https://user-images.githubusercontent.com/16775804/46004426-cb256900-c0aa-11e8-8faa-31878125a4d4.png)
+
+![image](https://user-images.githubusercontent.com/16775804/46004730-7c2c0380-c0ab-11e8-96b1-267bdc416001.png)
