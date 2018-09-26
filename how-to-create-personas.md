@@ -3,7 +3,7 @@
 ### Why?
 Personas help a team connect with and better understand the end user of their product.
 This is key to the success of the product for ensuring that it is built to
-address the users needs' as opposed to fulfilling the subjective vision of the
+address the user's needs as opposed to fulfilling the subjective vision of the
 creators or the convenience of the team building it. They help to focus a build
 by providing a precise definition of a user, as opposed to a nebulous "person on
 the site/app". Personas remind the team of the *motives* and reasons *why* users
@@ -15,10 +15,14 @@ the end product. Not convinced how the _why_ makes a difference, see https://www
 A persona is a fictional character created to represent a user type that might
 use a product in a similar way. The format in which they are written can vary
 according to the needs of the project, this readme will focus on ["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
-Proto personas are ideal for projects that are short of time/ allocated resources
+Proto personas are ideal for projects that are short of time / allocated resources
 but that want to get the core benefits that using personas has to offer.
 
-![image](https://user-images.githubusercontent.com/16775804/46004041-d5933300-c0a9-11e8-9c97-c7ea0ad38d9e.png)
+Here's an example of a persona for a site (CS) that helps people find non / low
+alcohol drinks options and the venues that serve them. So the context of the
+persona is around her background with alcohol and her balance of drinking:
+
+![Persona, Nisha the Consumer](https://user-images.githubusercontent.com/16775804/46004041-d5933300-c0a9-11e8-9c97-c7ea0ad38d9e.png "Persona, Nisha the Consumer")
 
 ### How?
 A persona should include:
@@ -56,8 +60,12 @@ via: https://www.wordstream.com/blog/ws/2018/02/28/pain-points
 
 ### Examples
 
-![image](https://user-images.githubusercontent.com/16775804/46004238-49354000-c0aa-11e8-801b-858d137f6b1b.png)
+Here are some more examples of personas from the project to help people find
+low or no alcohol drinks and the venues that serve them. These personas are for
+the drinks brands, venues and the staff from the organisation behind the site.
+They consider their involvement and presence on the site and how it can benefit
+them:
 
-![image](https://user-images.githubusercontent.com/16775804/46004426-cb256900-c0aa-11e8-8faa-31878125a4d4.png)
-
-![image](https://user-images.githubusercontent.com/16775804/46004730-7c2c0380-c0ab-11e8-96b1-267bdc416001.png)
+![Persona, Bradley the Brand Manager](https://user-images.githubusercontent.com/16775804/46004238-49354000-c0aa-11e8-801b-858d137f6b1b.png "Persona, Bradley the Brand Manager")
+![Persona, Vicky the Venue Manager](https://user-images.githubusercontent.com/16775804/46004426-cb256900-c0aa-11e8-8faa-31878125a4d4.png "Persona, Vicky the Venue Manager")
+![Persona, Jussi from Club Soda](https://user-images.githubusercontent.com/16775804/46004730-7c2c0380-c0ab-11e8-96b1-267bdc416001.png "Persona, Jussi from Club Soda")
