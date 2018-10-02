@@ -129,9 +129,7 @@ Clients are invoiced per project, per sprint. (i.e. a client with three differen
 * In the week that the relevant sprint finishes, create a `draft` bill in Xero
 * Set the personnel involved, days worked, and rates along with any modifications (it's usually easier to just duplicate the last bill the client was sent, but beware changes in e.g. people's `day rate`)
 * Any subscriptions we pay for on behalf of the client (e.g. hosting, CI) can be added to the bill now - if there are any, an option to add billable expenses to the invoice will appear, and Xero takes care of this automagically
-* `References` vary depending on the client
-  * City - put a short descriptor (e.g. the project name or a piece of functionality like `in-app messaging`) plus the `PO` as a reference. Don't send it without the `PO`
-  * Everyone else (at the moment) - put the project name along with sprint no and dates: `MyApp Sprint 123: 20th June - 4th July`
+* `References` vary depending on the client based on whether their accounts team requires a PO number. The general format is `MyClient MyProject Sprint XXX SprintStart - SprintEnd [PO YYY]`
 * Leave the project in `drafts`. The `Approver` will then know it's ready to review
 * Once the `Approver` has reviewed, she hits `Submit for approval` to signal to `Ops` that it's been approved
 * `Ops` then gives it a final check, and updates the `Date` to today's date (from his point of view at the time), and updates the `Due Date` to 30 days from the `Date`
