@@ -117,6 +117,7 @@ Expenses incurred while on company business or directly on behalf of the company
   * Hit the photo icon to take a photo of the receipt
   * Enter amount, date, location, and select "I want to be repaid" under "How did you pay"
   * Submit the claim, and it will be reviewed, approved (or queried!), and settled at the next bank run
+* If you're a freelance dwyler, just take a photo of the receipt and email the attachment to finance@dwyl.com
 
 ## Foreign currency expenses
 
