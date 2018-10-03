@@ -8,6 +8,7 @@
 * [Payroll](#payroll)
 * [Bookkeeping](#bookkeeping)
 * [Expenses](#expenses)
+* [Invoicing Clients](#invoicing-clients)
 * [dwyler Invoicing](#dwyler-invoicing)
 * [Refunds, reversals, cancellations, etc.](#refunds-reversals-cancellations-etc)
 * [Grants & Tax Credits](#grants--tax-credits)
@@ -125,6 +126,23 @@ In short, Xero doesn't accommodate foreign currency expenses so we have to put t
   * If it's just one bill, you can hover over the currency in Euro or Dollars and see the converted amount (screenshot above)
   * If it's multiple bills and you don't want to add them all up manually, you need to go to the `payee`'s `contact` page and click on `View recent bills report` at the top of the page, and the `GBP` amount is in that report
 * All these steps reproduce the functionality of an expense claim, so now that you have the total amount to be paid, you can just pay it and reconcile it as usual
+
+# Invoicing clients
+
+Clients are invoiced per project, per sprint. (i.e. a client with three different apps which run for three sprints each will receive nine invoices.)
+
+* In the week that the relevant sprint finishes, create a `draft` bill in Xero
+* Set the personnel involved, days worked, and rates along with any modifications (it's usually easier to just duplicate the last bill the client was sent, but beware changes in e.g. people's `day rate`)
+* Any subscriptions we pay for on behalf of the client (e.g. hosting, CI) can be added to the bill now - if there are any, an option to add billable expenses to the invoice will appear, and Xero takes care of this automagically
+* `References` vary depending on the client based on whether their accounts team requires a PO number. The general format is `MyClient MyProject Sprint XXX SprintStart - SprintEnd [PO YYY]`
+* Leave the project in `drafts`. The `Approver` will then know it's ready to review
+* Once the `Approver` has reviewed, she hits `Submit for approval` to signal to `Ops` that it's been approved
+* `Ops` then gives it a final check, and updates the `Date` to today's date (from his point of view at the time), and updates the `Due Date` to 30 days from the `Date`
+* Just double check that you've got the dates right, because otherwise the client will receive a demand for payment with less than 30 days' notice. V important. Now the invoice can be formally approved, and will appear in the `awaiting payment` tab.
+* Now the invoice is ready to be emailed via Xero - just find the invoice and hit the `email` button.
+  * If you need to add any notes to the email, you can do so before sending (e.g. "please note the new day rates as discussed")
+  * Same with attachments (e.g. copies of Purchase Orders)
+
 
 # dwyler Invoicing
 
