@@ -61,7 +61,7 @@ able to see here what the amount due is for the latest payrun
   + For reference, the payment should equal the total of the following from the
    relevant payrun in Xero: Income tax, Student Loan deductions, Employee National
    Insurance Contribution (NIC), Employer NIC.  
-  + **NOTE:** We have an [employment allowance of £3,000 _annually_](https://www.gov.uk/claim-employment-allowance). This means that
+  + **NOTE:** We have an [employment allowance of £3,000_annually_](https://www.gov.uk/claim-employment-allowance). This means that
   starting in April of _every_ year, we do not have to pay Employ***er*** NIC
   until we get to that £3,000 sum. Once our employer NIC reaches £3,000, we need
   to start paying it again (but Xero will work this out for you and factor it into
@@ -96,8 +96,28 @@ Bookkeeping is the activity or occupation of keeping records of the financial af
 
 # Expenses
 
-The expenses policy can be found here:
-https://docs.google.com/document/d/1SeXnzTD4P-Ley-RfcEpM4X5aYgjB8SN9mwywtXMPi-o/edit. Expenses are captured in Xero according to the policy document.
+## UK Expenses
+
+Expenses incurred while on company business or directly on behalf of the company will be repaid to you as long as you submit receipts from any purchases (preferably very soon after the purchases).
+
+* Generally, you should be getting permission before you spend - don't spend money without clearing it first
+* "What can I expense?"
+  * Business travel (but not your commuting costs) and subsistence (e.g. if working non-standard hours or travelling)
+  * Spending on behalf of the company (e.g. coffee for a client; SAAS you've put on your own credit card)
+* "What *can't* I expense?"
+  * Anything not dwyl-related
+  * Commuting costs, lunch, or any other day-to-day spending
+* **Always get a VAT receipt** - we can't repay you without a receipt, and we can't reclaim VAT without a specific VAT receipt.
+  * VAT receipts will have the vendor's VAT registration number on them and any VAT charged should be clearly marked
+  * If in doubt, specifically ask for a VAT receipt
+  * If this is not possible, just get a regular receipt
+  * If the purchase is online, you may need to go to your `account` or `billing` page to download a PDF receipt
+* If you're a PAYE dwyler, you'll have a Xero account. In which case the easiest thing to do is download the Xero app (*not* Xero expenses), and submit the receipt through the app:
+  * Hit the :heavy_plus_sign: at the top right and select "receipt"
+  * Hit the photo icon to take a photo of the receipt
+  * Enter amount, date, location, and select "I want to be repaid" under "How did you pay"
+  * Submit the claim, and it will be reviewed, approved (or queried!), and settled at the next bank run
+* If you're a freelance dwyler, just take a photo of the receipt and email the attachment to finance@dwyl.com
 
 ## Foreign currency expenses
 
