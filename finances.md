@@ -61,9 +61,9 @@ able to see here what the amount due is for the latest payrun
   + For reference, the payment should equal the total of the following from the
    relevant payrun in Xero: Income tax, Student Loan deductions, Employee National
    Insurance Contribution (NIC), Employer NIC.  
-  + **NOTE:** We have an [employment allowance of £3,000_annually_](https://www.gov.uk/claim-employment-allowance). This means that
+  + **NOTE:** We have an [employment allowance of £3,000 _annually_](https://www.gov.uk/claim-employment-allowance). This means that
   starting in April of _every_ year, we do not have to pay Employ***er*** NIC
-  until we get to that £3,000 sum. Once our employer NIC reaches £3,000, we need
+  until we get to that £3,000 sum (Xero spreads this out over the first two or three months of the year). Once our employer NIC reaches £3,000, we need
   to start paying it again (but Xero will work this out for you and factor it into
   the Amount Due).
 
