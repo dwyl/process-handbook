@@ -17,6 +17,7 @@
 * [Forecasting](#forecasting)
 * [VAT Return](#vat-return)
 * [International payments](#international-payments)
+* [Reconciling Xero](#reconciling-xero)
 
 # What?
 
@@ -263,3 +264,40 @@ Our international payment processor is TransferWise. They are very easy to use, 
   * Do the transfer
 * Later (or the next day), log back into transferwise and download the receipt
   * NB: if possible, get the transferwise receipt and an invoice from whomever you're sending money to - the transferwise receipt because it includes the transfer fee, and the invoice because that would include VAT details
+
+# Reconciling Xero
+
+Transactions coming into or out of our two bank accounts need to be "reconciled". This means matching the transaction to a bill/invoice, categorising it to the correct `account` (e.g. Office supplies, sales, travel), marking the tax paid (if any) so that we can reclaim VAT in our quarterly return, and uploading any documentation to Xero (eg. VAT receipts, without which you aren't allowed to reclaim).
+
+NB: before reconcilation is attempted, make sure the bank feeds have been updated recently [@rub1e - add link to process for this once it's written up]
+
+## Santander account
+
+The vast majority of our transactions are done through the Santander account. With Amazon purchases, web hosting subscriptions, and all the other day-to-day spending we do which we need to categorise, add tax, and reconcile, this account can get disorganised pretty quickly.
+
+Ideally reconciliations should be undertaken regularly (weekly?) so they don't pile up and you're left looking for an invoice from 6 months ago.
+
+* If a bill/invoice is received in advance, forward/upload it to Xero and create a draft bill
+  * Best practice to add the creation date of the bill and the due date of the payment (we don't currently use this feature, but the reason for this is so we can see our upcoming liabilities and know how much cash to have at hand)
+  * Search for the seller name (or add a new seller name)
+  * Add the invoice reference
+  * Add the items from the invoice line by line
+  * Categorise each item to the correct account (e.g. office supplies, sales, travel) [@rub1e - this is probably due a section to itself?]
+  * Apply the correct VAT rate. Xero will guess this automatically but gets it wrong. In a perfect world, we'd have a VAT receipt with the rate and amount clearly marked. But more often we'll have to figure it out ourselves [@rub1e - this is 100% going to need its own section]
+  * Attach any documentation
+  * Assign it to a client if it's a billable expense
+* If a bill isn't received in advance (e.g. for an Amazon purchase), collect any documentation and proceed to the next step
+* On the Xero dashboard (or in the `bank accounts` section), you'll see a button saying "Reconcile 123 items" under the Santander account. Click it and you're taken to the reconciliation page
+* On the left is the feed straight from the Santander account - basically a list of individual bank transactions; on the right is where you match the transaction to a bill, invoice, etc.
+* Xero will try to match transactions to existing invoices for you automatically. This is useful, but do make sure to double-check as a matter of course - you might well have two open invoices for the same amount (in which case Xero usually says "other possible matches found). If the transactions match, just hit OK - the transaction will disappear as it's now reconciled
+* If Xero hasn't found a match but you think there is an existing invoice for the transaction, search for it yourself in the `match` tab on the right hand side. 
+  * By default, only invoices/bills in GBP are displayed, so untick that box if you're looking for a foreign currency invoice
+* If multiple invoices are settled with a single bank transaction, you can just tick them all in the `match` tab and Xero will show the running total - so you can't reconcile it until the total from the invoices matches the total spent. 
+* If multiple transactions are meant to settle a single invoice (part-payments), use the `split` function - this deducts the money spent from the invoice and recalculates the remainder on the invoice (screenshot)
+![screenshot 2018-10-10 at 12 45 11](https://user-images.githubusercontent.com/11595920/46734227-8133aa00-cc8a-11e8-8713-ffbb1cd39f96.png)
+* If there is nothing to match the transaction to, you'll have to either create a `bill`, or create a `spend money` transaction from the reconciliation page.
+  * To create a bill just follow the process above
+  * But a `spend money` transaction turns out to be much more efficient, admin-wise (only for money *already* spent). These are like ad hoc invoices - they allow you to add all the info (tax, account, documentation etc.), but without going through the process of creating a full invoice and getting it approved. 
+* Use `spend money` only when the money has already been spent, for things like:
+  * Insurance payments - we don't get invoices in advance and we can't reclaim VAT on insurance
+  * Amazon purchases - download the invoice (if any) from Amazon and add it to the transaction. If any of the items have different VAT rates on them, then split out each item in the order and do individual tax rates for each. If all items are on the same rate, just do the whole transaction as one item (saves **a lot** of time)
