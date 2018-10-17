@@ -4,7 +4,7 @@ Generally we pay accountants to file our annual company accounts and calculate t
 
 With FocusHub, however, they are simple enough for us to file ourselves - which is why it's worth capturing the process here.
 
-### Before you start
+## Before you start
 
 * Identify the period you're filing for
 * Filter whatever accounting platform (Xero, FreeAgent) we're using to only include the period you're filing for
@@ -12,8 +12,9 @@ With FocusHub, however, they are simple enough for us to file ourselves - which 
   * In Xero this is easily done by looking at `account transactions` - the column on the right tells you whether something is reconcoled or not
   * In FreeAgent it's slightly trickier - you need to make sure to check each transaction category in the dropdown (screenshot) as FreeAgent has a habit of "hiding" things
 ![screenshot 2018-10-16 at 15 44 12](https://user-images.githubusercontent.com/11595920/47025046-bc3a4f80-d15a-11e8-9155-41a17f58e272.png)
+* Make sure you have all the info you need in advance - HMRC logged me out three times while I was looking for something - very frustrating
 
-### HMRC
+## HMRC
 
 (This process is written with FocusHub in mind)
 
@@ -40,12 +41,64 @@ With FocusHub, however, they are simple enough for us to file ourselves - which 
 * `What type of accounts have you prepared?` - "Microentity Accounts"
 * Now you're ready to... *begin* the process...
 
-### Return
+## Return
+
+### Profit & Loss
 
 Here comes the Maths bit - concentrate...
 
-Start with running a Profit & Loss report fixed to the dates of the filing period. (`Reports > P&L`)
+Be aware that HMRC only accepts £ pounds not pence - always round down income and round up spending.
+
+Start with running Profit & Loss reports fixed to the dates of the current filing period AND the last filing period. (`Reports > P&L`)
 
 * "No - I haven't prepared a directors' report"
-* Turnover - Also called sales, revenue or income. The total amount this period from selling goods or services, not including VAT.
+* Turnover - `Also called sales, revenue or income. The total amount this period from selling goods or services, not including VAT.`
   * On FreeAgent this is just called `Turnover` at the top of the report 
+* Other income - `Any other income not included in turnover.`
+  * For Focus Hub this only includes a couple of minimal interest payments
+* Cost of raw materials and consumables - `The costs of buying or producing the goods or services sold, for example, materials used to make products.`
+  * n/a
+* Staff costs - `Salaries or wages paid by the company for work done this period, including employers' National Insurance and the cost of a payroll service.`
+  * For FocusHub, n/a
+* Depreciation - `The amount the company wrote off assets this period to reflect the fall in their value over the period.`
+  * For FocusHub, n/a
+* Other charges - `Any other spending for the period, not including fixed (physical) assets.`
+  * For FocusHub, this is basically all of our spending. Called Administrative Expenses in FreeAgent
+* Tax on Profit - `Work out Corporation Tax due on company profits using the latest rates. Company profits = turnover plus other income, minus all outgoings.`
+  * This is nought if we've made a loss, otherwise profits are taxed at 19%
+* Profit (or loss) - `Calculation: Turnover plus other income, minus all outgoings, minus tax.`
+  * This is automatically calculated from what you've entered
+
+----
+
+* File profit and loss to Companies House? `If you choose to file your profit and loss account to Companies House, it will be publicly available in the official government register of UK companies.`
+  * Select "No" - as a microentity company, there's no need for us to submit this information. This is referred to as "filleting" our accounts and seems to be the preferred process for small companies, as long as all shareholders have agreed
+
+
+### Balance sheet
+
+(Again, the answers here are based on FocusHub)
+
+* Called up share capital not paid - `The total amount owed to your company by investors who haven't paid in full for their shares in your business.`
+  * Mercifully, nought
+* Total fixed assets - `The total value of the company's physical (for example, machinery, office equipment or buildings) and non-physical (for example, patents, trademarks, licences, goodwill) assets, taking account of depreciation.`
+  * Again, mercifully nought
+* Total current assets - `Value of any cash, or assets that can be converted into cash within one year, held by the company at the end of the period. For example, unsold goods. Include amounts owed (debtors) here.`
+  * This is called "Current Assets" in FreeAgent
+* Prepayments and accrued income - `Prepayments: The amount you paid for goods and services that you hadn't received at the end of the period, for example, advance rent payments. Accrued income: The amount you've earned (excluding from debtors) but haven't received, for example, interest earned on a bond to be paid in the future.`
+  * As above
+* Creditors - amounts falling due within one year - `Debts you expect to settle within a year, for example, unpaid supplier invoices, bank loans or overdrafts.`
+  * As above
+* Creditors - amounts falling due within one year - `Debts you expect to settle after more than one year, for example, bank loans with instalments due after more than a year.`
+  * This is `Current liabilities` in FreeAgent
+* Provision for liabilities - `An amount set aside to cover future costs, for example, for tax, costs of restructuring or providing pensions.`
+  * Nought
+* Accruals and deferred income - `Accruals: Expenses that are not yet paid for, for example, electricity already used but to be paid in the future. Deferred income: The amount you were paid for goods and services that you hadn't provided at the end of the period, for example, a client deposit paid before work starts.`
+  * Nought
+* Capital and reserves - `The current amount the owners have invested in the company, or the amount owed to the owner, plus any surplus funds. This must match the 'total net assets or liabilities' figure.`
+  * Just enter the same figures as the boxes above - they have to match
+
+----
+
+* Now just keep hitting `continue` and ignore request for footnotes etc. until you get to the "Approve Accounts" section
+* At this point, if it's been fiddly getting through all of this, you might want to put it to one side so you can check over the figures at a later date
