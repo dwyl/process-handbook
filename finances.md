@@ -301,3 +301,13 @@ Ideally reconciliations should be undertaken regularly (weekly?) so they don't p
 * Use `spend money` only when the money has already been spent, for things like:
   * Insurance payments - we don't get invoices in advance and we can't reclaim VAT on insurance
   * Amazon purchases - download the invoice (if any) from Amazon and add it to the transaction. If any of the items have different VAT rates on them, then split out each item in the order and do individual tax rates for each. If all items are on the same rate, just do the whole transaction as one item (saves **a lot** of time)
+  
+### Multiple payments
+
+Xero doesn't do BACS so we can't easily export a batch payment from Xero and load it into Santander. Instead, we use Santander's `Multiple payments` facility for Wages and freelancer invoices, so we don't have to waste time with putting each one through as its own transaction.
+
+The problem is that the bank feed only displays `Multiple Payment` and doesn't give the references. Usually it's pretty obvious (just from amounts and dates) which invoices a transaction covers, but sometimes it's not obvious, and you can't tell what reconciles with what. In which case...
+
+* Log in to Santander
+* Go to the relevant account, `Payments & Transfers > Multiple payments (left sidebar) > Search Multiple Payments > Select bank account`
+* Then right-click on the names under `To Account/Payee` and open in a new tab to see the full breakdown
