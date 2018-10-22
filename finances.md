@@ -47,6 +47,8 @@ Payroll is currently processed on the last business day of the month, follow the
 
 4b. If there is anyone being paid via international transfer, take their total pay, go to `transferwise` and set up a payment to their account (if they're not already saved as a contact, it only takes a few seconds), mark it as `"DWYL SALARY" + MONTH`, and note down the amount (it will include a transfer fee)
 
+4c. NB: don't include payments to freelancers in the same transaction as wages (as this makes it tricky further down the line when trying to reconcile payments against invoices). If you're paying freelancers at the same time, do it in a separate transaction.
+
 5. Add payments of the net income amount (amount after tax) to the respective individuals (minus all international dwylers paid in other currencies) with the reference `"DWYL SALARY" + MONTH` (**NB**: references from the previous payroll will be autofilled so make sure to check this)
 
 5a. Add `transferwise` payments (if any) to the list, but make sure that you use tranferwise's standard reference
