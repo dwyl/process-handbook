@@ -63,7 +63,7 @@ Start with running Profit & Loss reports fixed to the dates of the current filin
 * Depreciation - `The amount the company wrote off assets this period to reflect the fall in their value over the period.`
   * For FocusHub, n/a
 * Other charges - `Any other spending for the period, not including fixed (physical) assets.`
-  * For FocusHub, this is basically all of our spending. Called Administrative Expenses in FreeAgent
+  * For FocusHub, this is nought, which is common for "services" companies
 * Tax on Profit - `Work out Corporation Tax due on company profits using the latest rates. Company profits = turnover plus other income, minus all outgoings.`
   * This is nought if we've made a loss, otherwise profits are taxed at 19%
 * Profit (or loss) - `Calculation: Turnover plus other income, minus all outgoings, minus tax.`
@@ -100,5 +100,37 @@ Start with running Profit & Loss reports fixed to the dates of the current filin
 
 ----
 
-* Now just keep hitting `continue` and ignore request for footnotes etc. until you get to the "Approve Accounts" section
-* At this point, if it's been fiddly getting through all of this, you might want to put it to one side so you can check over the figures at a later date
+* Now just keep hitting `continue` and ignore request for footnotes etc. until you get to the "Approve Accounts" section, then approve the accounts and you can start on the `Computations` section
+
+----
+
+### Computations
+
+NB: there are *loads* of fields which I'm not going to cover because they are obviously not relevant (e.g.  Donations, Vehicle expenses)
+
+* Trading account details
+  * Turnover/sales - prepopulated
+  * Cost of sales - `Cost of sales is the direct cost attributable to the production of goods or sale of services supplied by your company. This value includes the cost of materials and direct labour costs, but excludes distribution and sales force costs.`
+    * Called "cost of sales" in FreeAgent
+  * Gross Profit/loss - auto-calculated
+* Property costs
+  * Heating, Light, Power - you have to add this up manually from the `Office Costs` report (click through from P&L)
+  * Maintenance - weekly cleaner's costs (again, add this up from `Office Costs`)
+  * Rent & Rates - add up rent and rates displayed on P&L report
+* General administrative expenses
+  * Bad Debts - displayed on P&L report 
+  * Bank, Credit card charges - displayed on P&L report
+  * Insurance - displayed on P&L report
+* Income from property - nought
+* Trading losses - "yes" for *this period only*
+* Charitable donations, grassroot sports donations - since we've not made any profit, you can just say "no" to all of these.
+* Close company - yes, FH is a close company
+* Loans - no loans made at all, just hit No
+* Tax avoidance - we're not required to do this
+* About your return
+  * Are you owed a repayment for this period? - No
+  * Are you owed a repayment for an earlier period? - No
+  * Are any of your figures estimated? - No
+  * Did you receive any franked investment income? - No
+* Tax already paid - nought
+* Repayments - moot as there are no repayments to be had. Pick whichever you like. Then enter our bank details in the next section (again, moot)
