@@ -5,7 +5,8 @@ Xero has loads of helpful reports that work pretty much out of the box.
 These are some we've found useful 
 
 * [Finding old rates](#finding-old-rates)
-* [Payroll taxes](#payroll-taxes)
+* [Payroll Breakdown Report](#payroll-breakdown-report)
+* [Pension Contributions Report](#pension-contributions-report)
 
 ## Finding old rates
 
@@ -43,3 +44,14 @@ In order to fill in staff details on the R&D tax credits spreadsheet, you need a
   * Employee Tax
   * Net Pay
   * Employer Tax
+* Repeat for each employee
+
+## Pension contributions report
+
+In order to fill in staff details on the R&D tax credits spreadsheet, you need a breakdown of how much was paid *per employee* in `Pension contributions`.
+
+* Go to Xero > Reports > Payroll > Pension Contribution Report
+* Under `Employees` select "Individual"
+* Under date range select your required date range (likely to be last financial year)
+* Hit update
+* Repeat for each employee
