@@ -9,10 +9,19 @@ With FocusHub, however, they are simple enough for us to file ourselves - which 
 * Identify the period you're filing for
 * Filter whatever accounting platform (Xero, FreeAgent) we're using to only include the period you're filing for
 * Ensure all transactions during that period (money in or out) have been reconciled, categorised to the correct account (e.g. office supplies, travel), and with the right VAT rate
-  * In Xero this is easily done by looking at `account transactions` - the column on the right tells you whether something is reconcoled or not
+  * In Xero this is easily done by looking at `account transactions` - the column on the right tells you whether something is reconciled or not
   * In FreeAgent it's slightly trickier - you need to make sure to check each transaction category in the dropdown (screenshot) as FreeAgent has a habit of "hiding" things
 ![screenshot 2018-10-16 at 15 44 12](https://user-images.githubusercontent.com/11595920/47025046-bc3a4f80-d15a-11e8-9155-41a17f58e272.png)
 * Make sure you have all the info you need in advance - HMRC logged me out three times while I was looking for something - very frustrating
+  * P&L / Balance sheet reports
+  * Company Reg no (on Companies House page)
+  * Authentication code (in One-Pass)
+  * 
+
+* PLEASE NOTE: **"Figures should be rounded to whole numbers. Round down income and round up spending."** (This pretty essential information is displayed once at the start of the process, and never again.)
+
+* PLEASE BE AWARE: the HMRC system is fiddly and annoying. You are likely to make mistakes like putting the right figure in the wrong box. This is fine - you can go back and edit them as long as you've haven't submitted the final accounts (to be clear, even if you've "approved" the accounts, you can still edit them and approve them again). Just don't be surprised if you try to go back to page 15 but it instead takes you back to page 5 and makes you click through 10 pages to get to where you want to be - this happens a lot.
+  * Basically, edit as much as you like, but only `submit` when you're 100% sure
 
 ## HMRC
 
@@ -134,3 +143,7 @@ NB: there are *loads* of fields which I'm not going to cover because they are ob
   * Did you receive any franked investment income? - No
 * Tax already paid - nought
 * Repayments - moot as there are no repayments to be had. Pick whichever you like. Then enter our bank details in the next section (again, moot)
+
+----
+
+* At this stage, it's just a matter of checking over all of your figures in the various `summary` sections and completing declarations like "The board has approved these accounts"
