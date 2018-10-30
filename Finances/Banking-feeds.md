@@ -1,6 +1,6 @@
 # Banking Feeds
 
-Xero includes the ability to have bank feeds which feed transactions into  the
+Xero includes the ability to have bank feeds which feed transactions into the
 application and can be automatically updated.
 
 Some banks however, do not provide this facility.
