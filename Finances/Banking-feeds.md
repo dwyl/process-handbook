@@ -33,7 +33,7 @@ Xero will not be able to read the export just as it is so we need to update the 
 2. Delete all of the rows apart from the field titles row and the transactions rows.
   + Note that if there are a lot of transactions, you may end up with a row that
    says `Page 1 of 1` _in between_ the transaction rows
-3. Manually merge the `Bank Reference` and `Customer Reference` columns together so that the column you end up with contains both the client name and the invoice reference if one was given:
+3. Manually merge (copy & paste) the `Bank Reference` and `Customer Reference` columns together so that the column you end up with contains both the client name and the invoice reference if one was given:
 
 ##### Before:
 ![image](https://user-images.githubusercontent.com/4185328/46742426-e8f3f000-cc9e-11e8-98cb-3b2265f35693.png)
