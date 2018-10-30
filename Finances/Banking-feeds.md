@@ -5,6 +5,10 @@ application and can be automatically updated.
 
 Some banks however, do not provide this facility.
 
+## Updating Santander feed into Xero
+
+This *can* be automatically updated. Just requires a user account with permission, and can easily be done from your main Xero Dashboard, or by clicking into the Bank Account. 
+
 ## Updating Co-operative Bank feed into Xero
 
 ### 1. Get export from Co-operative Bank
