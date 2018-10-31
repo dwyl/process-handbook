@@ -1,8 +1,27 @@
 # Holidays
 
+## Policy
+
+dwyl asks dwylers to adhere to the conditions below when booking holiday. 
+
+This is so we have adequate notice in order to ensure projects aren't affected. 
+
+**dwylers on PAYE** have a set number of paid holiday days to take in a year, according to their contracts.
+
+**Freelance dwylers** can take as much unpaid holiday as they like, as long as the conditions below are followed.
+
+### Conditions
+
+* To provide 10 working days of notice prior to taking up to 5 working days off
+* To provide 15 working days of notice prior to taking more than 5 working days off
+
+If you know your holiday will fall in the middle of a busy period, we'd really appreciate as much notice as possible :blush:
+
+## Process
+
 dwyl has two systems for booking holiday - `Xero` for PAYE dwylers which links into payroll, and `Hr.my` for freelance dwylers (because it's open-source and free)
 
-## For freelancers
+### For freelancers
 
 * Get login details for [Hr.my](https://hr.my) from your friendly `Ops` representative (@rub1e or someone similar)
 * Log in
@@ -21,7 +40,7 @@ dwyl has two systems for booking holiday - `Xero` for PAYE dwylers which links i
 
 * Your holiday request has been submitted! If you're feeling super-helpful, give @rub1e or @iteles a nudge on gitter just so it's on our radar immediately.
 
-## For admins
+### For admins
 
 * Note that your login is an employ**er** account, so log in accordingly (screenshot)
 ![screenshot 2018-07-31 at 12 33 36](https://user-images.githubusercontent.com/11595920/43457293-4e613d6c-94be-11e8-93cf-f8432e2694e9.png)
@@ -38,7 +57,7 @@ dwyl has two systems for booking holiday - `Xero` for PAYE dwylers which links i
 ![screenshot 2018-07-31 at 12 50 14](https://user-images.githubusercontent.com/11595920/43458042-9f27d9ca-94c0-11e8-927d-78efa08a40ac.png)
  
  
-## For dwylers on payroll
+### For dwylers on payroll
 
 * Log in to Xero. We manage holidays and payroll using Xero so people get their remaining holiday balance along with their payslips. All payroll dwylers have a login
 * Click on `New time off request`
