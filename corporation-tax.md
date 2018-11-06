@@ -8,7 +8,9 @@ With FocusHub, however, they are simple enough for us to file ourselves - which 
 
 ## DISCLAIMER
 
-This documentation is written *entirely* with FocusHub in mind. **Use it only as a guide**, and make sure you are reading every question fully, and answering truthfully and accurately for *your* business.
+**This process is for filing your company tax return with UK HMRC online. It is correct _only_ at the time of writing (November 2018). This is not legal or financial advice. You are entirely responsible for your HMRC filings.**
+
+This documentation is written *entirely* with FocusHub (a **micro-entity** company) in mind. **Use it only as a guide**, and make sure you are reading every question fully, and answering truthfully and accurately for *your* business.
 
 Please also note that your accounting software might use different terminology (e.g. `sales` vs `revenue` vs `turnover`)
 
@@ -154,3 +156,8 @@ NB: there are *loads* of fields which I'm not going to cover because they aren't
 ----
 
 * At this stage, it's just a matter of checking over all of your figures in the various `summary` sections and completing declarations like "The board has approved these accounts"
+
+## DISCLAIMER II
+
+**Again, this process is for filing your company tax return with UK HMRC online. It is correct _only_ at the time of writing (November 2018). This is not legal or financial advice. You are entirely responsible for your HMRC filings.**
+
