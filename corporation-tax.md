@@ -1,8 +1,16 @@
 # Corporation Tax
 
-Generally we pay accountants to file our annual company accounts and calculate the Corporation Tax for us.
+Generally we pay accountants to file our annual company accounts and calculate the Corporation Tax for us. If you have anything even slightly complicated, anything from fixed assets to losses brought forward from another period to R&D tax relief and beyond, _it might well make sense for your business to hire an accountant_: a couple of hundred pounds is very well worth it for **peace of mind**!
+
+(That said, if you're short of cash or just like being in total control of your accounts, there's nothing to stop you doing the whole thing yourself.)
 
 With FocusHub, however, they are simple enough for us to file ourselves - which is why it's worth capturing the process here.
+
+## DISCLAIMER
+
+This documentation is written *entirely* with FocusHub in mind. **Use it only as a guide**, and make sure you are reading every question fully, and answering truthfully and accurately for *your* business.
+
+Please also note that your accounting software might use different terminology (e.g. `sales` vs `revenue` vs `turnover`)
 
 ## Before you start
 
@@ -15,8 +23,7 @@ With FocusHub, however, they are simple enough for us to file ourselves - which 
 * Make sure you have all the info you need in advance - HMRC logged me out three times while I was looking for something - very frustrating
   * P&L / Balance sheet reports
   * Company Reg no (on Companies House page)
-  * Authentication code (in One-Pass)
-  * 
+  * Authentication code (sent to you by post from Companies House)
 
 * PLEASE NOTE: **"Figures should be rounded to whole numbers. Round down income and round up spending."** (This pretty essential information is displayed once at the start of the process, and never again.)
 
@@ -25,10 +32,10 @@ With FocusHub, however, they are simple enough for us to file ourselves - which 
 
 ## HMRC
 
-(This process is written with FocusHub in mind)
+(This process is written with FocusHub in mind. Please see disclaimer above and make sure you're answering correctly for your own business)
 
 * Log in to the relevant HMRC account. The details are in the usual spreadsheet.
-  * NB: 2FA is enabled; the dwyl accounts have @iteles mobile registered, and the FocusHub accounts have @rub1e mobile registered. So best to check the relevant person is available to send you the security code
+  * NB: 2FA is enabled; check with @iteles for account holders 
 * Hit `Complete corporation tax return` and press `continue` until you see a green button that says `Create New Submission`
 * "No - I don't want to amend an existing Company Tax Return"
 * "No - my accounts haven't been audited"
@@ -115,7 +122,7 @@ Start with running Profit & Loss reports fixed to the dates of the current filin
 
 ### Computations
 
-NB: there are *loads* of fields which I'm not going to cover because they are obviously not relevant (e.g.  Donations, Vehicle expenses)
+NB: there are *loads* of fields which I'm not going to cover because they aren't relevant to the FocusHub business and the accounts we have filed (e.g.  Donations, Vehicle expenses).
 
 * Trading account details
   * Turnover/sales - prepopulated
@@ -142,7 +149,7 @@ NB: there are *loads* of fields which I'm not going to cover because they are ob
   * Are any of your figures estimated? - No
   * Did you receive any franked investment income? - No
 * Tax already paid - nought
-* Repayments - moot as there are no repayments to be had. Pick whichever you like. Then enter our bank details in the next section (again, moot)
+* Repayments - if there are repayments to be had, decide where you'd like them to go. Even if you know you're not getting repayments, you still have to go through this part. So just pick whichever you like; then enter our bank details in the next section
 
 ----
 
