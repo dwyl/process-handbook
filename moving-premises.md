@@ -18,6 +18,8 @@ NB: when we left FocusHub we moved into Space4, which is a serviced co-working o
 * Change address on HMRC & Companies House
   * NB: HMRC has several addresses that need to be changed individually; they're all on the same page, but they're easy to miss
 * Change address on dwyl Google Admin Account
+* Change address on Xero (`Xero > Settings > General Settings > Organisation Details`)
+* Change address on invoicing template (in the invoicing folder. The template is used by a spreadsheet so don't touch anything other than the address)
 * Change address on Google search (I just searched for dwyl and hit "edit your information" on the right hand side)
 * If rent is paid through `direct debit`, cancel the instruction
 * If we have a cleaner, inform them sooner rather than later; also worth checking if they can do a deep clean after we've moved our stuff out
