@@ -192,6 +192,22 @@ Every week, we do a `Finance day`, so the following needs to be done (ideally be
 
 # Refunds, reversals, cancellations etc.
 
+## Credit notes
+
+Credit notes can be raised very easily in Xero (they're like a reverse invoice, a promise to pay someone). This would happen if a client overpays on an invoice, or mistakenly settles a voided invoice, for example.
+
+* Go to `Business > Invoices` and click the <kbd>New Credit Note</kbd> button
+* Fill in the info as if it's a normal invoice
+  * If the credit is to reverse a payment we've received, make sure the tax rate is the same as the original payment. (i.e. if our client has overpaid £100 + VAT, the credit note should be for £100 + VAT)
+* (As a courtesy, you might want to send the PDF of the Credit Note to the supplier/client; on the other hand, this might also cause confusion, if the client think they'll apply the credit themselves)
+* The easiest way of dealing with the credit is to apply it to the next invoice you raise for that contact - when you create the invoice, Xero automatically suggests that you apply the credit
+* If this isn't possible, you'll have to transfer the credit manually (as a normal bank transfer)
+  * In which case, you'll need to create a `receive money` transaction to reconcile the original overpayment
+  * And, in the Credit Note itself, at the bottom fill in the fields for "Make a Cash Refund"
+  * Now go to the reconciliation page and you can reconcile the manual money transfer to the Credit Note
+
+## Straight reversals
+
 We've created an account called `999 - Reversed/Cancelled Transactions`.
 
 This is ***ONLY*** for when £X has gone in and £X has gone out (or vice versa :wink:) - the balance of the account should ***ALWAYS*** be `0`.
