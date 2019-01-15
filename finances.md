@@ -82,7 +82,7 @@ Please note: HMRC don't confirm the submission of the FPS until the 12th of the 
 
 ### Holidays & Leave
 
-Everyone who's a part of the dwyl PAYE payroll has a Xero login so they can request holidays and see their remaining leave entitlement.
+Everyone who's a part of the dwyl PAYE payroll has a Xero login so they can request holidays and see their remaining leave entitlement. dwylers may additionally take _unpaid_ leave by arrangement.
 
 Xero is very fiddly with holidays so you should always double-check a pay run which includes any holidays. Once a holiday has been approved and included in a `pay run`, it can't be amended.
 
@@ -90,7 +90,7 @@ Because until 2018, holidays weren't tracked on Xero (CharlieHR), people's 2017 
 
 Holidays that fall within someone's annual allowance can be booked, approved, and included in a pay run automatically.
 
-I've also added an `unpaid leave` category for holidays that exceed someone's annual allowance
+I've also added an `unpaid leave` category for holidays that exceed someone's annual allowance. In the holidays booking process, we ask that dwylers try to keep on top of things and split requests into `holiday` and `unpaid leave` if they go over their allowance. If they follow this, the third step below won't be necessary, but `approvers` should always double-check that no one is left with a negative leave balance.
 
 Whoever approves the holiday should:
 
