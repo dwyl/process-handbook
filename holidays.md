@@ -6,7 +6,7 @@ dwyl asks dwylers to adhere to the conditions below when booking holiday.
 
 This is so we have adequate notice in order to ensure projects aren't affected. 
 
-**dwylers on PAYE** have a set number of paid holiday days to take in a year, according to their contracts.
+**dwylers on PAYE** have a set number of paid holiday days to take in a year, according to their contracts. They can also take unpaid leave, by arrangement.
 
 **Freelance dwylers** can take as many (unpaid) breaks from projects as they like, as long as the conditions below are followed.
 
@@ -59,13 +59,20 @@ dwyl has two systems for booking holiday - `Xero` for PAYE dwylers which links i
  
 ### For dwylers on payroll
 
-* Log in to Xero. We manage holidays and payroll using Xero so people get their remaining holiday balance along with their payslips. All payroll dwylers have a login
+We manage holidays and payroll using Xero so people get their remaining holiday balance along with their payslips. All payroll dwylers have a login. 
+
+As above, PAYE dwylers have a set number of annual leave days which they can supplement by arranging unpaid leave on top of that. 
+
+**We ask that dwylers try to keep on top of their holiday allowances (your balance is available in Xero and on your payslip) and book the right holiday type, splitting requests into two if necessary.**
+
+For example, if you want to book five days off but you only have two days of your allocation remaining, you should book two days of `holiday` and three days of `unpaid leave`
+
+* Log in to Xero. 
 * Click on `New time off request`
 ![image](https://user-images.githubusercontent.com/16775804/44776681-963bfa00-ab70-11e8-9f86-c8248d2e72a7.png)
-
+* Select "Holiday" or "Unpaid leave" from the dropdown
 * Fill in the form with Ines as your manager, and a day as 8 hrs. (If you're taking half days, that's 4 hrs)
 ![image](https://user-images.githubusercontent.com/16775804/44776826-e4e99400-ab70-11e8-9ba7-9043fc359800.png)
-
 * That's it! You'll see the screen below, and you'll be notified when your holiday has been approved :sunglasses: :surfer: :ski:
 
 ![image](https://user-images.githubusercontent.com/16775804/44776854-f9c62780-ab70-11e8-93ba-dba0cb58bfc6.png)
