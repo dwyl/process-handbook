@@ -1,4 +1,4 @@
-# Corporation Tax
+# Filing your own accounts
 
 Generally we pay accountants to file our annual company accounts and calculate the Corporation Tax for us. If you have anything even slightly complicated, anything from fixed assets to losses brought forward from another period to R&D tax relief and beyond, _it might well make sense for your business to hire an accountant_: a couple of hundred pounds is very well worth it for **peace of mind**!
 
