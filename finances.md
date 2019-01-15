@@ -82,7 +82,7 @@ Please note: HMRC don't confirm the submission of the FPS until the 12th of the 
 
 ### Holidays & Leave
 
-Everyone who's a part of the dwyl PAYE payroll has a Xero login so they can request holidays and see their remaining leave entitlement.
+Everyone who's a part of the dwyl PAYE payroll has a Xero login so they can request holidays and see their remaining leave entitlement. dwylers may additionally take _unpaid_ leave by arrangement.
 
 Xero is very fiddly with holidays so you should always double-check a pay run which includes any holidays. Once a holiday has been approved and included in a `pay run`, it can't be amended.
 
@@ -90,7 +90,18 @@ Because until 2018, holidays weren't tracked on Xero (CharlieHR), people's 2017 
 
 Holidays that fall within someone's annual allowance can be booked, approved, and included in a pay run automatically.
 
-I've added an `unpaid leave` category for holidays that exceed someone's annual allowance - whoever approves the holiday should change the `holiday type` to "Unpaid leave" after it's approved and **before** it's included in a `pay run`. 
+I've also added an `unpaid leave` category for holidays that exceed someone's annual allowance. In the holidays booking process, we ask that dwylers try to keep on top of things and split requests into `holiday` and `unpaid leave` if they go over their allowance. If they follow this, the third step below won't be necessary, but `approvers` should always double-check that no one is left with a negative leave balance.
+
+Whoever approves the holiday should:
+
+* Check whether the holiday would take the dwyler over their annual allowance (i.e. would make their holiday balance negative)
+* If not, just approve the holiday
+* If so, you need to split the request into two: 
+  * Reduce the requested hours to use up the remaining balance (so if they've asked for 10 days but only have 7 remaining, set the request to 7 days and deal with the overage in the next step)
+  * Open a new holiday "request", set the holiday type to `unpaid leave`, and set the amount as the overage from the previous step (3 days, in the example above)
+  * Now approve both requests; and if you want to check it's worked, just process the pay run and you'll see both the paid and unpaid holiday split out at the top of the dwyler's payslip
+* If you're editing leave requests, make sure to do so **before** they're included in a `pay run` (as you can't easily amend them once they've been in a pay run) 
+* NB: if a holiday crosses two pay periods, Xero splits out how many hours are being assigned to each pay run. This is a very small point, but might be relevant if a holiday spans December and January
 
 # Bookkeeping
 
