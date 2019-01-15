@@ -8,7 +8,7 @@ This is so we have adequate notice in order to ensure projects aren't affected.
 
 **dwylers on PAYE** have a set number of paid holiday days to take in a year, according to their contracts.
 
-**Freelance dwylers** can take as much unpaid holiday as they like, as long as the conditions below are followed.
+**Freelance dwylers** can take as many (unpaid) breaks from projects as they like, as long as the conditions below are followed.
 
 ### Conditions
 
