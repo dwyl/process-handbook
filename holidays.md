@@ -6,7 +6,7 @@ dwyl asks dwylers to adhere to the conditions below when booking holiday.
 
 This is so we have adequate notice in order to ensure projects aren't affected. 
 
-**dwylers on PAYE** have a set number of paid holiday days to take in a year, according to their contracts. They can also take unpaid leave, by arrangement.
+**dwylers on payroll** have a set number of paid holiday days to take in a year, according to their contracts. They can also take unpaid leave, by arrangement.
 
 **Freelance dwylers** can take as many (unpaid) breaks from projects as they like, as long as the conditions below are followed.
 
@@ -19,7 +19,7 @@ If you know your holiday will fall in the middle of a busy period, we'd really a
 
 ## Process
 
-dwyl has two systems for booking holiday - `Xero` for PAYE dwylers which links into payroll, and `Hr.my` for freelance dwylers (because it's open-source and free)
+dwyl has two systems for booking holiday - `Xero` for payroll dwylers which links into payroll, and `Hr.my` for freelance dwylers (because it's open-source and free)
 
 ### For freelancers
 
@@ -61,7 +61,7 @@ dwyl has two systems for booking holiday - `Xero` for PAYE dwylers which links i
 
 We manage holidays and payroll using Xero so people get their remaining holiday balance along with their payslips. All payroll dwylers have a login. 
 
-As above, PAYE dwylers have a set number of annual leave days which they can supplement by arranging unpaid leave on top of that. 
+As above, payroll dwylers have a set number of annual leave days which they can supplement by arranging unpaid leave on top of that. 
 
 **We ask that dwylers try to keep on top of their holiday allowances (your balance is available in Xero and on your payslip) and book the right holiday type, splitting requests into two if necessary.**
 
