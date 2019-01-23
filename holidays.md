@@ -71,7 +71,7 @@ For example, if you want to book five days off but you only have two days of you
 * Click on `New time off request`
 ![image](https://user-images.githubusercontent.com/16775804/44776681-963bfa00-ab70-11e8-9f86-c8248d2e72a7.png)
 * Select "Holiday" or "Unpaid leave" from the dropdown
-* Fill in the form with Ines as your manager, and a day as 8 hrs. (If you're taking half days, that's 4 hrs)
+* Fill in the form by selecting your manager, and adding 8 hrs per day of holiday. (If you're taking half days, that's 4 hrs)
 ![image](https://user-images.githubusercontent.com/16775804/44776826-e4e99400-ab70-11e8-9ba7-9043fc359800.png)
 * That's it! You'll see the screen below, and you'll be notified when your holiday has been approved :sunglasses: :surfer: :ski:
 
