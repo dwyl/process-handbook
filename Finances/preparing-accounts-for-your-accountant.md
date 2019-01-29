@@ -52,7 +52,7 @@ You should start this process _at least_ two months before the end of the year.
 * [ ] Run payroll (you'll be doing this anyway as it's the last day of the month)
 * [ ] If you like, you can make a manual payment to our pension provider as well
 
-If you've ticked all of this off, you're in a really good place. Even better, the final accounts don't need to be filed with HMRC until the end of January (so with the accountants mid-January)!
+If you've ticked all of this off, you're in a really good place. Even better, the final accounts don't need to be filed with HMRC until nine months after the end of your Financial Year!
 
 ## 4. Reconciling transactions on Xero checklist
 
@@ -66,7 +66,9 @@ Yes, you have time, but don't slack now! You can get started on reconciling tran
 
 ## 5. Accountants
 
-If you've completed the checklist above, your part is almost done. The next step is to send the accountants our bank statements and give them access to Xero - and then be on hand to answer any queries they might have.
+If you've completed the checklist above, your part is almost done. 
+
+The next step is to send the accountants our bank statements and give them access to Xero - and then be on hand to answer any queries they might have.
 
 * [ ] Export bank statements up to 30th April of the financial year
 * [ ] (As a `user admin`) Go to `Xero > Organisation settings > Users` and check if your accountant is already set up. 
