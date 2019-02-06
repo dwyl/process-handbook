@@ -23,7 +23,9 @@ This is NOT financial advice: you are responsible for ensuring your submissions 
 
 ## Process
 
-Outline: our R&D consultant sends us template spreadsheets which we fill in with the relevant R&D projects we've worked on,
+### Outline
+
+Our R&D consultant sends us template spreadsheets which we fill in with the relevant R&D projects we've worked on,
 along with how much staff time and freelancer costs were expended.
 
 We then send this information along with our annual accounts and Corporation Tax computations to our consultants, and they process the claim for tax relief.
@@ -55,7 +57,7 @@ You will need...
   * `Xero > Reports > Payroll > Payroll Activity Summary` -  then select the financial period you need (likely to be "last financial year")
   and select each employee from the dropdown
 ![screenshot 2019-02-05 at 14 44 54](https://user-images.githubusercontent.com/11595920/52280854-b4462b80-2954-11e9-9dcc-8629eb48388d.png)
-* A spreadsheet with your **freelancer costs** for the relevant financial year (preferably filterable by person and project)
+* A spreadsheet or report with your **freelancer costs** for the relevant financial year (preferably filterable by person and project)
 * A calendar or similar account of how many days each member of staff on payroll worked on each project
 * The template spreadsheets from your consultant. Ours sent two:
   * Project details
@@ -99,7 +101,7 @@ Our template is split between "Staffing costs" (i.e. workers on payroll) and "Ex
 * First, get down all the projects you listed out in the other spreadsheet 
   * For payroll staff, our template has one block per project, broken down by month:
 ![screenshot 2019-02-05 at 15 22 28](https://user-images.githubusercontent.com/11595920/52283149-e1490d00-2959-11e9-83cd-cca501b2c7b8.png)
-  * For freelancers it's just a straigtforward list with the person's start and end dates, no granular breakdown of time spent
+  * For freelancers it's just a straightforward list with the person's start and end dates, no granular breakdown of time spent
 * Input payroll staff's details:
   * Name
   * Start / end date at the company (only if they fall within this financial year, i.e. if the employee left or joined in this period)
@@ -114,13 +116,13 @@ and input how much time each employee spent on each relevant project, each month
   You'll need to use your best judgment as to how much time to add on if someone was e.g. doing project management, admin, etc. that wasn't explicitly captured
   * You _can_ also go through client invoices to sense-check - but bear in mind that extra work is often done on top of what's directly charge to the client
   * It can also be useful to look through a github user/repo's commit history, to see who's put time down to that project and when
-    * User: https://github.com/**{INSERT USERNAME}**?tab=overview&from=2017-06-01&to=2017-06-30
+    * User: https://github.com/**{INSERT_USERNAME}**?tab=overview&from=2017-06-01&to=2017-06-30
   * Finally, you should write some simple spreadsheet formulae to sum each employee's monthly totals, to check that someone's not working more days than there are in the month
     * Each month has about 21 working days, so use this as a guide
-    * (If people have worked over weekends, this should be captured, but won't affect the results, as we don't pay overtime)
+    * If people have worked over weekends, this should be captured (but won't affect the results, as we don't pay overtime)
 * Next, you'll do the same thing for freelancers (this is where that filterable spreadsheet from above comes in handy :wink:)
   * List each project and its freelance personnel 
-  * Since you only need their start and end dates, just find their first and last invoice for each project
+  * You only need their start and end dates, so just find their first and last invoice for each project
   * Now input the sum total of all of their invoices for each project 
   * Since this is a **cost** collection excercise, your freelancer invoices are an account of your costs - no sense-checking needed here! 
   
