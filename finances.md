@@ -78,6 +78,12 @@ using the PAYE Real Time Information (RTI) service.
 7. In the relevant pay run in Xero, click Options > Email Payslips to email
 everyone a copy of their payslip
 
+8. Now you can upload Pensions data to the Pensions Provider (ours is The People's Pension). 
+It's not the end of the world if you don't do this now as our account isn't charged immediately, but Xero doesn't send reminders
+about this, so may as well do it now
+  * In Xero, go to `Payroll > Pension Filings` and download the `TPP CSV` file for the month you're filing for
+  * In TPP, go to `Submit employee data`, then upload the file, select `YYYY-MM-DD` as the CSV date format, hit "Upload only", and then submit (no need to make a payment as we're on Direct Debit) 
+
 Please note: HMRC don't confirm the submission of the FPS until the 12th of the month - so don't be surprised when you get an email out of the blue saying that the submission has just been accepted
 
 ### Holidays & Leave
