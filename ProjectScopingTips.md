@@ -50,6 +50,23 @@ You may tell the client that your call will address the following:
 #### Ask to see the Existing Codebase
 - If you are joining a project that has already begun ensure that you ask to see the existing codebase before making any promises. It is worse to promise something that you cannot later fulfil than to make the client wait a short period but for there to be no false expectations as later promises will be based on a full understanding of the situation.
 
+- Inspect the history of the project via Github or with the `git log` command.
+For example `git log` will return all the commits done on the project:
+![image](https://user-images.githubusercontent.com/6057298/53472916-eed94a80-3a60-11e9-8a8f-0e8a18ebba31.png)
+
+The following options can help to filter and read the commit history:
+  - `git log --oneline` will return a more succint view of all the commits
+![image](https://user-images.githubusercontent.com/6057298/53473266-dc134580-3a61-11e9-896b-eb4a637b98a5.png)
+
+  - `git log --oneline --graph` will display a graph to represent on which branch each commit was done
+![image](https://user-images.githubusercontent.com/6057298/53473424-41673680-3a62-11e9-8bd1-808c88d418a9.png)
+
+  - `git log --oneline --merges --first-parent master` These options will only display the merge commits into master (ie merged pull requests)
+![image](https://user-images.githubusercontent.com/6057298/53473760-2fd25e80-3a63-11e9-8751-d9f957d4b15a.png)
+
+  - `git log --oneline --merges --first-parent master | wc -l` Finally using the pipe operator with the above command and `wc -l` (count number of line)
+we get the number of pull requests merged into master
+
 #### Establish Expectations Already Set to the Client's Client
 - Have any promises/ deadlines been set? Are they on target/ have they already been met?
 
