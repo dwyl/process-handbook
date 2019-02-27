@@ -54,17 +54,17 @@ You may tell the client that your call will address the following:
 For example `git log` will return all the commits done on the project:
 ![image](https://user-images.githubusercontent.com/6057298/53472916-eed94a80-3a60-11e9-8a8f-0e8a18ebba31.png)
 
-The following options can help to filter and read the commit history:
-  - `git log --oneline` will return a more succint view of all the commits
+The following options can help to filter and read the commits history:
+  - `git log --oneline` will return a succinct view of all the commits
 ![image](https://user-images.githubusercontent.com/6057298/53473266-dc134580-3a61-11e9-896b-eb4a637b98a5.png)
 
-  - `git log --oneline --graph` will display a graph to represent on which branch each commit was done
+  - `git log --oneline --graph` will display a graph representing on which branch a commit was created
 ![image](https://user-images.githubusercontent.com/6057298/53473424-41673680-3a62-11e9-8bd1-808c88d418a9.png)
 
-  - `git log --oneline --merges --first-parent master` These options will only display the merge commits into master (ie merged pull requests)
+  - `git log --oneline --merges --first-parent master` These options will only display the merged commits into master (ie merged pull requests)
 ![image](https://user-images.githubusercontent.com/6057298/53473760-2fd25e80-3a63-11e9-8751-d9f957d4b15a.png)
 
-  - `git log --oneline --merges --first-parent master | wc -l` Finally using the pipe operator with the above command and `wc -l` (count number of line)
+  - `git log --oneline --merges --first-parent master | wc -l` Finally using the pipe command with the above history log and `wc -l` (count number of line)
 we get the number of pull requests merged into master
 
 #### Establish Expectations Already Set to the Client's Client
