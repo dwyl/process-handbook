@@ -77,6 +77,7 @@ The following options can help to filter and read the commits history:
   - **`git log --oneline --merges --first-parent master | wc -l`** 
   Finally using the pipe command with the above history log and `wc -l` (count number of line)
 we get the number of pull requests merged into master
+![image](https://user-images.githubusercontent.com/6057298/53481974-1f77af00-3a76-11e9-9b2b-8f04d1dca0c7.png)
 
 #### Establish Expectations Already Set to the Client's Client
 - Have any promises/ deadlines been set? Are they on target/ have they already been met?
