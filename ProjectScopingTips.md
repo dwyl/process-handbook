@@ -47,8 +47,37 @@ You may tell the client that your call will address the following:
 - Put your client at ease if they are not technical and let them know you will explain things as you go and that they are welcome to ask when unsure about any concepts.
 - Tailor your conversation according to the client's background, ensuring you explain concepts which they may not understand. This will help them feel involved and for them to follow the conversation in order to make key decisions. This will also help them understand better the logic behind creating quotes etc. so that they have a picture of the full technical requirements that go into a project and the time/skill that is required to fulfil these. Ie. this is a front-end feature, this feature is back-end.
 
-#### Ask to see the Existing Codebase
-- If you are joining a project that has already begun ensure that you ask to see the existing codebase before making any promises. It is worse to promise something that you cannot later fulfil than to make the client wait a short period but for there to be no false expectations as later promises will be based on a full understanding of the situation.
+#### Ask to see the _Existing_ Codebase
+
+- If you are joining a project that has already begun,
+ensure that you ask to see the existing codebase before making any promises. 
+It is worse to promise something that cannot later be fulfilled 
+than to make the client wait a short [due diligence](https://en.wikipedia.org/wiki/Due_diligence) period. 
+Avoid unrealistic expectations by ensuring that you have
+a full understanding of the situation.
+
+- Inspect the history of the project via Github or with the **`git log`** command. <br />
+For example **`git log`** will return all the commits on the project:
+![image](https://user-images.githubusercontent.com/6057298/53472916-eed94a80-3a60-11e9-8a8f-0e8a18ebba31.png)
+
+The following options can help to filter and read the commits history:
+  - **`git log --oneline`** 
+  will return a succinct view of all the commits
+![image](https://user-images.githubusercontent.com/6057298/53473266-dc134580-3a61-11e9-896b-eb4a637b98a5.png)
+
+  - **`git log --oneline --graph`** 
+  will display a graph representing which branch a commit was made
+![image](https://user-images.githubusercontent.com/6057298/53473424-41673680-3a62-11e9-8bd1-808c88d418a9.png)
+
+  - **`git log --oneline --merges --first-parent master`** 
+  will only display the merged commits into master <br />
+  (_i.e. merged pull requests_)
+![image](https://user-images.githubusercontent.com/6057298/53473760-2fd25e80-3a63-11e9-8751-d9f957d4b15a.png)
+
+  - **`git log --oneline --merges --first-parent master | wc -l`** 
+  Finally using the pipe command with the above history log and `wc -l` (count number of line)
+we get the number of pull requests merged into master
+![image](https://user-images.githubusercontent.com/6057298/53481974-1f77af00-3a76-11e9-9b2b-8f04d1dca0c7.png)
 
 #### Establish Expectations Already Set to the Client's Client
 - Have any promises/ deadlines been set? Are they on target/ have they already been met?
