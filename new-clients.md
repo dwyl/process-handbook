@@ -27,7 +27,8 @@ This is how we set new clients up on all of our various systems.
   * Create project repo
     * Initialise with `readme`
     * Call it something _sensible_
-    * Copy across our labels
+    * Copy across our labels using [labelsync](https://label-sync.herokuapp.com/) as per https://github.com/dwyl/labels
   * Give permission to all team members who'll be working on the project
+    * Either at the `org` level, if we have access to that, or at the repo level if that's all we have access to
 * [ ] Set up gitter
   * Decide whether this will be a `dwyl` channel or coming from the client repo
