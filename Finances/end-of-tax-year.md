@@ -35,7 +35,7 @@ and that there are no random transactions in the wrong place (e.g. put reconcile
   * Check the `Net Pay` amount in _Gross to Net_ matches `Wages Payable` in _Account transactions_
   * Congratulations! You've just completed all the early checks - now you can process payroll as usual
   
-### After running the years finall payroll...
+### After running the year's final payroll...
 * [ ] If anyone's tax codes need to change, HMRC will have sent you a formal letter explaining this - look out for form P9T/P9X. Add the new code to Xero
   * `Xero > Payroll > Employees > Select employee > Taxes`
   * Here you can see old tax codes and add new ones. 
