@@ -17,7 +17,7 @@ But good news: if you use Xero or a similar accounting system, this is all done 
 * [ ] Run the last payroll of the tax year a couple of weeks early. This is so you can check for any discrepancies _before_ submitting 
 documents to HMRC (you can amend things afterwards, but obviously it's much trickier to do this after submission)
 * [ ] Ensure all payroll payments have been [properly reconciled](https://github.com/dwyl/hq/issues/449) [link to process doc TBC]
-* [ ] Now check the numbers - ensure that the total paid to employees and the total paid to HMRC matches the amount leaving your bank account,
+* [ ] Now check the numbers - ensure that the total paid to employees plus the total paid to HMRC matches the amount leaving your bank account,
 and that there are no random transactions in the wrong place (e.g. put reconciled to wrong account)
   * Run _gross to net_ payroll report `(reports > all reports > payroll > gross to net)`.
   Select all employees and use the custom date range and change for the tax year e.g. 06/04/17 to 5/04/18
@@ -33,6 +33,9 @@ and that there are no random transactions in the wrong place (e.g. put reconcile
   * Check `NIC Payable` in _Account Transactions_ and `P32` matches the sum of the NIC columns (`EE NIC` & `ER NIC`) in `Gross to net`
   * Check the `Grand Total` from the _P32 Summary_ (very bottom right) matches the sum of `PAYE total` and `NIC Payable` (from the previous two steps)
   * Check the `Net Pay` amount in _Gross to Net_ matches `Wages Payable` in _Account transactions_
+  * Congratulations! You've just completed all the early checks - now you can process payroll as usual
+  
+### After running the years finall payroll...
 * [ ] If anyone's tax codes need to change, HMRC will have sent you a formal letter explaining this - look out for form P9T/P9X. Add the new code to Xero
   * `Xero > Payroll > Employees > Select employee > Taxes`
   * Here you can see old tax codes and add new ones. 
