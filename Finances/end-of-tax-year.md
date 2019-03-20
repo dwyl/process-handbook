@@ -22,7 +22,7 @@ and that there are no random transactions in the wrong place (e.g. put reconcile
   * Run _gross to net_ payroll report `(reports > all reports > payroll > gross to net)`.
   Select all employees and use the custom date range and change for the tax year e.g. 06/04/17 to 5/04/18
   * Run _account transactions_ accounting report `(reports > all reports > accounting > account transactions)`.
-  Select accounts 814, 825, 826, 947, 477, 479
+  Select accounts 814, 825, 826, 947, 477, 479, 482
   * Run _P32_ report: `Xero > Reports > Payroll > P32 Employer Record`
   * Check that `Gross Earnings` from _Gross to Net_ matches the sum of `Direct Wages` and `Salaries` in _Account Transactions_
   * Check that the sum of `Employer pension` and `Employee pension` in _Gross to Net_ matches the `Pensions payable` amount in _Account transactions_ 
