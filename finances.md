@@ -55,7 +55,7 @@ Payroll is currently processed on the last business day of the month, follow the
 
 5b. Add a payment to HMRC CUMBERNAULD, where the payment
 reference is **Accounts Office Reference Number** + YY/**YY** + **MM** (17 characters),
-where YY/YY is the tax year and MM is the tax month, e.g. YY/YY = 17/18 and MM = 01, so that *March 2018* = **1218** and *April 2018* = **0119**  
+where YY/YY is the tax year and MM is the tax month, e.g. YY/YY = 17/18 and MM = 01, so that *March 2018* = **1812** and *April 2018* = **1901**  
 
 **The tax year starts in April, so April is the first month, i.e. April = 01**.  
 + To find the correct amount to pay, go to Payroll > Taxes & Filings - you'll be
