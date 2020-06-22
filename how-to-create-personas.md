@@ -3,14 +3,14 @@
 ### Why?
 
 Personas help us picture 
-and empathise with the _people_ using our product.
+and _empathise_ with the _people_ using our product.
 This is key to the success of the product 
 for ensuring that it is built to
 address the person's needs 
 as opposed to fulfilling the subjective vision 
 of the creators or the convenience of the team building it. 
-They help to focus a build
-by providing a precise definition of a user, 
+Personas provide a precise definition 
+of the _person_ using the product, 
 rather than a nebulous "user on the site/app". 
 Personas remind the team of the *motives* and reasons *why* 
 people _need_ it to offer the functionality that is being built. 
@@ -22,8 +22,10 @@ https://youtu.be/1ytFB8TrkTo
 
 ### What?
 
-A persona is a fictional character created to represent a user type that might
-use a product in a similar way. The format in which they are written can vary
+A persona is _usually_<sup>1</sup> a fictional character 
+created to represent the type of person 
+that is using the product in a particular way. 
+The format in which they are written can vary
 according to the needs of the project, this readme will focus on 
 ["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
 Proto personas are ideal for projects that are short of time / allocated resources
@@ -72,12 +74,33 @@ via: https://www.wordstream.com/blog/ws/2018/02/28/pain-points
 
 ### Examples
 
-Here are some more examples of personas from the project to help people find
-low or no alcohol drinks and the venues that serve them. These personas are for
-the drinks brands, venues and the staff from the organisation behind the site.
-They consider their involvement and presence on the site and how it can benefit
-them:
+Here are some more examples of personas 
+from the project to help people find low or no alcohol drinks 
+and the venues that serve them. 
+These personas are for the drinks brands, 
+venue managers and the staff from the organisation behind the site.
+They consider their involvement and presence on the site 
+and how it can benefit them:
 
 ![Persona, Bradley the Brand Manager](https://user-images.githubusercontent.com/16775804/46004238-49354000-c0aa-11e8-801b-858d137f6b1b.png "Persona, Bradley the Brand Manager")
 ![Persona, Vicky the Venue Manager](https://user-images.githubusercontent.com/16775804/46004426-cb256900-c0aa-11e8-8faa-31878125a4d4.png "Persona, Vicky the Venue Manager")
 ![Persona, Jussi from Club Soda](https://user-images.githubusercontent.com/16775804/46004730-7c2c0380-c0ab-11e8-96b1-267bdc416001.png "Persona, Jussi from Club Soda")
+
+
+## Notes
+
+<sup>1</sup>Personas are _usually_ fictional representations
+of a typical person using a product. 
+This is to avoid subject of the persona feeling like self-concious.
+However in the case where you are building a feature 
+for a very specific person 
+(_e.g. your "boss" if you're building a specific feature of an internal tool like a sales dashboard_)
+the persona is very clearly a person we _know_
+and can describe them precisely to help the team focus.
+That is the case of this last persona ("Jussi")
+who is a an _actual_ person we all know and love.
+Having a well defined persona 
+for the _real_ person using the product
+can be _even more_ useful than a fictional one.
+We just need to be careful to only use people
+who have given their consent to be personafied. 
