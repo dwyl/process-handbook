@@ -1,6 +1,7 @@
 ## How to create user personas
 
 ### Why?
+
 Personas help a team connect with and better understand the end user of their product.
 This is key to the success of the product for ensuring that it is built to
 address the user's needs as opposed to fulfilling the subjective vision of the
@@ -9,12 +10,15 @@ by providing a precise definition of a user, as opposed to a nebulous "person on
 the site/app". Personas remind the team of the *motives* and reasons *why* users
 want it to offer the functionality that is being built. Keeping these reasons at
 the forefront of the teams mind can have significant impacts on the delivery of
-the end product. Not convinced how the _why_ makes a difference, see https://www.youtube.com/watch?v=sfzpNVDzre0
+the end product. Not convinced how the _why_ makes a difference, 
+see https://www.youtube.com/watch?v=sfzpNVDzre0
 
 ### What?
+
 A persona is a fictional character created to represent a user type that might
 use a product in a similar way. The format in which they are written can vary
-according to the needs of the project, this readme will focus on ["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
+according to the needs of the project, this readme will focus on 
+["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
 Proto personas are ideal for projects that are short of time / allocated resources
 but that want to get the core benefits that using personas has to offer.
 
@@ -25,6 +29,7 @@ persona is around her background with alcohol and her balance of drinking:
 ![Persona, Nisha the Consumer](https://user-images.githubusercontent.com/16775804/46004041-d5933300-c0a9-11e8-9c97-c7ea0ad38d9e.png "Persona, Nisha the Consumer")
 
 ### How?
+
 A persona should include:
 
 - Name, Category & Photo — names that are an alliteration with the group that
@@ -55,7 +60,7 @@ Personas can be tailored to the unique needs and goals of your project according
 to what you see relevant. For example you might want to use a quantifiable pain
 points scale:
 
-![image](https://user-images.githubusercontent.com/194400/45924741-3f230e00-beff-11e8-8d6d-c97f5ca8a11f.png)
+![levels-of-pain](https://user-images.githubusercontent.com/194400/45924741-3f230e00-beff-11e8-8d6d-c97f5ca8a11f.png)
 via: https://www.wordstream.com/blog/ws/2018/02/28/pain-points
 
 ### Examples
