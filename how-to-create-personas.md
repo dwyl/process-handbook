@@ -1,6 +1,16 @@
-## How to create user personas
+<div align="center">
 
-### Why?
+# How to create user personas
+
+Help your team stay focussed 
+on building _exactly_ what 
+the people using your product _really_ want.
+
+</div>
+
+<br />
+
+## Why?
 
 Personas help us picture and _empathise_ with 
 the _people_ using our product.
@@ -20,24 +30,38 @@ Not convinced how the _why_ makes a difference,
 see: "**Know Your _Why_**" (Michael Jr): 
 https://youtu.be/1ytFB8TrkTo
 
-### What?
+## What?
 
 A persona is _usually_<sup>1</sup> a fictional character 
 created to represent the type of person 
 that is using the product in a particular way. 
 The format in which they are written can vary
-according to the needs of the project, this readme will focus on 
+according to the needs of the project.
+This tutorial will focus on 
 ["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
-Proto personas are ideal for projects that are short of time / allocated resources
-but that want to get the core benefits that using personas has to offer.
+Proto personas are ideal for projects 
+that are short on time / allocated resources
+but that want to get the core benefits 
+that using personas has to offer.
 
-Here's an example of a persona for a site (CS) that helps people find non / low
-alcohol drinks options and the venues that serve them. So the context of the
-persona is around her background with alcohol and her balance of drinking:
+Here's an example of a persona for a site (CS) 
+that helps people find non / low alcohol drinks options 
+and the venues that serve them. 
+So the context of the persona is around her background with alcohol and her balance of drinking:
 
 ![Persona, Nisha the Consumer](https://user-images.githubusercontent.com/16775804/46004041-d5933300-c0a9-11e8-9c97-c7ea0ad38d9e.png "Persona, Nisha the Consumer")
 
-### How?
+## Who?
+
+_Anyone_ on the team can create personas;
+it's not exclusive to the Product Owner or UX Designer.
+In fact if you have _any_ role in a small team,
+taking the _initiative_ to create personas
+is a great way of showing leadership.
+
+
+
+## How?
 
 A persona should include:
 
