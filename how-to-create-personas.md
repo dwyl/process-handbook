@@ -2,11 +2,11 @@
 
 ### Why?
 
-Personas help us picture 
-and _empathise_ with the _people_ using our product.
+Personas help us picture and _empathise_ with 
+the _people_ using our product.
 This is key to the success of the product 
-for ensuring that it is built to
-address the person's needs 
+for ensuring that it is built 
+to address the person's needs 
 as opposed to fulfilling the subjective vision 
 of the creators or the convenience of the team building it. 
 Personas provide a precise definition 
@@ -80,7 +80,11 @@ and the venues that serve them.
 These personas are for the drinks brands, 
 venue managers and the staff from the organisation behind the site.
 They consider their involvement and presence on the site 
-and how it can benefit them:
+and how it can benefit them.
+The first two personas are fictional representations 
+of the two types of people using the App,
+whereas the last persona (Jussi)
+is a _real_ person who is one of the admins of the App:
 
 ![Persona, Bradley the Brand Manager](https://user-images.githubusercontent.com/16775804/46004238-49354000-c0aa-11e8-801b-858d137f6b1b.png "Persona, Bradley the Brand Manager")
 ![Persona, Vicky the Venue Manager](https://user-images.githubusercontent.com/16775804/46004426-cb256900-c0aa-11e8-8faa-31878125a4d4.png "Persona, Vicky the Venue Manager")
