@@ -2,16 +2,23 @@
 
 ### Why?
 
-Personas help a team connect with and better understand the end user of their product.
-This is key to the success of the product for ensuring that it is built to
-address the user's needs as opposed to fulfilling the subjective vision of the
-creators or the convenience of the team building it. They help to focus a build
-by providing a precise definition of a user, as opposed to a nebulous "person on
-the site/app". Personas remind the team of the *motives* and reasons *why* users
-want it to offer the functionality that is being built. Keeping these reasons at
-the forefront of the teams mind can have significant impacts on the delivery of
-the end product. Not convinced how the _why_ makes a difference, 
-see https://www.youtube.com/watch?v=sfzpNVDzre0
+Personas help us picture 
+and empathise with the _people_ using our product.
+This is key to the success of the product 
+for ensuring that it is built to
+address the person's needs 
+as opposed to fulfilling the subjective vision 
+of the creators or the convenience of the team building it. 
+They help to focus a build
+by providing a precise definition of a user, 
+rather than a nebulous "user on the site/app". 
+Personas remind the team of the *motives* and reasons *why* 
+people _need_ it to offer the functionality that is being built. 
+Keeping these reasons at the forefront of the teams mind 
+can have significant impacts on the delivery of the end product. 
+Not convinced how the _why_ makes a difference, 
+see: "**Know Your _Why_**" (Michael Jr): 
+https://youtu.be/1ytFB8TrkTo
 
 ### What?
 
