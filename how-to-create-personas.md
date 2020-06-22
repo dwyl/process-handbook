@@ -44,7 +44,8 @@ that are short on time / allocated resources
 but that want to get the core benefits 
 that using personas has to offer.
 
-Here's an example of a persona for a site (CS) 
+Here's an example of a persona for a site 
+([ClubSoda](https://github.com/club-soda/club-soda-guide)) 
 that helps people find non / low alcohol drinks options 
 and the venues that serve them. 
 So the context of the persona is around her background with alcohol and her balance of drinking:
@@ -53,26 +54,39 @@ So the context of the persona is around her background with alcohol and her bala
 
 ## Who?
 
-_Anyone_ on the team can create personas;
-it's not exclusive to the Product Owner or UX Designer.
+_Anyone_ can create personas;
+it's not exclusive to the "Product Manager/Owner" or "UX Designer".
 In fact if you have _any_ role in a small team,
 taking the _initiative_ to create personas
 is a great way of showing leadership.
-
-
+Even _solo_ entrepreneurs building products (Websites/Apps/Games/etc.)
+can benefit _immensely_ from having personas.
+They are a way of _focussing_ our attention 
+on the _human being_ whose problem we are solving
+and not getting distracted 
+building shiny features nobody _asked_ for!
+We print them out 
+and stick them on our walls
+as a _constant_ reminder.
+As you will see from our template + instructions below,
+it's incredibly easy to create a persona in less than 5 minutes.
+There's really no excuse _not_ to do it. 
 
 ## How?
 
 A persona should include:
 
-- Name, Category & Photo — names that are an alliteration with the group that
-they represent are useful e.g. "Sophie, the Student". Accompany this with a photo
-or illustration of them.
-- Age
-- Job Title / Company
-- Background - given that personas represent a user type, think about what core
-background characteristics or attributes might be typical for this kind of
-persona. You may be able to recognise these user types from user research
+- Name, Category & Photo — names that are an alliteration 
+with the group that they represent are useful 
+e.g. "Sophie, the Student". 
+Accompany this with a photo or illustration of them.
+- Age (_don't be afraid to be specific_)
+- Job Title + Organisation/Company (_if applicable_)
+- Background - given that personas represent 
+a type of person using the product, 
+think about what core background characteristics 
+or attributes might be typical for this kind of persona. 
+You may be able to recognise these types from UX research
 interviews you've conducted.
 - Why do they need your product? — What problems can your product solve for them?
 Why would using your product benefit them?
@@ -113,6 +127,23 @@ is a _real_ person who is one of the admins of the App:
 ![Persona, Bradley the Brand Manager](https://user-images.githubusercontent.com/16775804/46004238-49354000-c0aa-11e8-801b-858d137f6b1b.png "Persona, Bradley the Brand Manager")
 ![Persona, Vicky the Venue Manager](https://user-images.githubusercontent.com/16775804/46004426-cb256900-c0aa-11e8-8faa-31878125a4d4.png "Persona, Vicky the Venue Manager")
 ![Persona, Jussi from Club Soda](https://user-images.githubusercontent.com/16775804/46004730-7c2c0380-c0ab-11e8-96b1-267bdc416001.png "Persona, Jussi from Club Soda")
+
+
+## Make Your Own _Instructions_ 
+
+### 1. Photos / Images
+
+You don't _need_ to have a picture for your persona,
+but it definitely helps to _personify_ them 
+and it doesn't have to take more than a couple of minutes
+to get or _make_ one.
+
+If you don't _aready_ have great drawing skills 
+(_or the time/patience to learn_),
+then Bitmoji 
+[bitmoji.com](https://www.bitmoji.com)
+is a great 
+
 
 
 ## Notes
