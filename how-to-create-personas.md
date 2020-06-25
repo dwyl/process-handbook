@@ -40,7 +40,7 @@ according to the needs of the project.
 This tutorial will focus on 
 ["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
 Proto personas are ideal for projects 
-that are short on time / allocated resources
+that are short on time / resources
 but that want to get the core benefits 
 that using personas has to offer.
 
@@ -142,9 +142,15 @@ If you don't _aready_ have great drawing skills
 (_or the time/patience to learn_),
 then Bitmoji 
 [bitmoji.com](https://www.bitmoji.com)
-is a great 
+is a great way to create a _personalised_
+character.
+
+![bitmoji](https://user-images.githubusercontent.com/194400/85795717-a901c480-b730-11ea-912d-ec07fbcbcaa1.png)
 
 
+
+
+<br />
 
 ## Notes
 
@@ -153,13 +159,15 @@ of a typical person using a product.
 This is to avoid subject of the persona feeling like self-concious.
 However in the case where you are building a feature 
 for a very specific person 
-(_e.g. your "boss" if you're building a specific feature of an internal tool like a sales dashboard_)
+(_e.g. your "boss" if you're building a specific feature 
+of an internal tool like a sales dashboard_)
 the persona is very clearly a person we _know_
 and can describe them precisely to help the team focus.
-That is the case of this last persona ("Jussi")
-who is a an _actual_ person we all know and love.
+That is the case of this last persona 
+([Jussi](https://github.com/jussi-club-soda))
+who is a an _real_ person we all know and love.
 Having a well defined persona 
 for the _real_ person using the product
 can be _even more_ useful than a fictional one.
 We just need to be careful to only use people
-who have given their consent to be personafied. 
+who have given their consent to be personified. 
