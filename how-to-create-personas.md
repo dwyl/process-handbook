@@ -1,6 +1,6 @@
 <div align="center">
 
-# How to Create Personas for Human Centered Design
+# How to Create Personas
 
 Help your team stay focussed 
 on building _exactly_ what 
@@ -14,19 +14,16 @@ the **people** using your product _really_ want.
 
 Personas help us picture and _empathise_ with 
 the _people_ using our product.
-This is key to the success of the product 
-for ensuring that it is built 
-to address the person's needs 
-as opposed to fulfilling the subjective vision 
-of the creators or the convenience of the team building it. 
-Personas provide a precise definition 
+Personas provide a clear definition 
 of the _person_ using the product, 
-rather than a nebulous "user on the site/app". 
-Personas remind the team of the *motives* and reasons *why* 
-people _need_ it to offer the functionality that is being built. 
-Keeping these reasons at the forefront of the teams mind 
-can have significant impacts on the delivery of the end product. 
-Not convinced how the _why_ makes a difference, 
+rather than a nebulous "user". 
+Personas remind the team of the
+*motives*, *pain points* and reasons *why* 
+people _need_ a particular feature that is being built. 
+Keeping these reasons at the forefront of the teams' mind 
+can significanty impact the delivery of the product. 
+
+> Not convinced the _why_ makes a difference? 
 see: "**Know Your _Why_**" (Michael Jr): 
 https://youtu.be/1ytFB8TrkTo
 
@@ -130,11 +127,18 @@ is a _real_ person who is one of the admins of the App:
 
 These personas and illustrations were created by
 [Cleo](https://github.com/Cleop)
-our multi-talented Developer and scrum master.
+multi-talented Developer and scrum master. <br />
+If you lack the drawing skills
+or just want an _easy_ way to create your own personas,
+you're in luck!
 
 
 ## _Instructions_ to Make Your Own!
 
+Once you have the _data_ (_facts + pain points_) you need 
+to create your persona,
+it will take you _less_ than 5 minutes 
+to create one using our template.
 
 
 ### 1. Photos / Images
@@ -153,7 +157,7 @@ to create a _personalised_ avatar.
 
 ![bitmoji](https://user-images.githubusercontent.com/194400/85795717-a901c480-b730-11ea-912d-ec07fbcbcaa1.png)
 
-The best way to use Bitmoji is to download the App
+The best way to use Bitmoji is to **`download`** the App
 from the Apple App Store or Google Play store
 and create the avatar on your phone.
 There is also a Chrome extension 
@@ -170,13 +174,13 @@ There is zero marginal cost to the creators of the App.
 [**Snap Inc.**](https://en.wikipedia.org/wiki/Snap_Inc.) 
 makers of 
 [Snapchat](https://en.wikipedia.org/wiki/Snapchat) 
-the App that systematically sucks the attention
+the App that sucks the attention
 of America's teenagers ... 🙄 <br />
 But you _anyone_ can _use_ Bitmoji to create 
-personalised avatars and then ***`delete`*** the App
+personalised avatars and then **`delete`** the App
 without giving _any_ personal information to Snap. 
 Simply _ignore_ their request to "start by taking a selfie",
-or uploading a photo of yourself. 
+or "upload a photo of yourself". 
 Just create your emoji based on the desired _attributes_
 and then download the resulting "bitmoji"
 along with any variations you want.
@@ -188,7 +192,7 @@ along with any variations you want.
 
 <sup>1</sup>Personas are _usually_ fictional representations
 of a typical person using a product. 
-This is to avoid subject of the persona feeling like self-concious.
+This is to avoid subject of the persona feeling self-concious.
 However in the case where you are building a feature 
 for a very specific person 
 (_e.g. your "boss" if you're building a specific feature 
@@ -197,7 +201,7 @@ the persona is very clearly a person we _know_
 and can describe them precisely to help the team focus.
 That is the case of this last persona 
 ([Jussi](https://github.com/jussi-club-soda))
-who is a an _real_ person we all know and love.
+who is a _real_ person we know and love.
 Having a well defined persona 
 for the _real_ person using the product
 can be _even more_ useful than a fictional one.
