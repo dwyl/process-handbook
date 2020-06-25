@@ -2,9 +2,15 @@
 
 # How to Create Personas
 
-Help your team stay focussed 
-on building _exactly_ what 
-the **people** using your product _really_ want.
+Personas guide us to build _exactly_ what 
+the **people** using your product _really_ want. <br />
+They help avoid building an infinte feature list
+for no specific person
+where useability
+is an afterthought: <br />
+
+[![dilbert](https://user-images.githubusercontent.com/194400/85832475-1260f200-b788-11ea-865c-059f525c4304.png)](https://dilbert.com/strip/2001-04-14 "Dilbert User Features")
+
 
 </div>
 
@@ -19,7 +25,7 @@ of the _person_ using the product,
 rather than a nebulous "user". 
 Personas remind the team of the
 *motives*, *pain points* and reasons *why* 
-people _need_ a particular feature that is being built. 
+people _need_ a particular feature. 
 Keeping these reasons at the forefront of the teams' mind 
 can significanty impact the delivery of the product. 
 
@@ -38,14 +44,16 @@ This tutorial will focus on
 ["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
 Proto personas are ideal for projects 
 that are short on time / resources
-but that want to get the core benefits 
-that using personas has to offer.
+but still want the core benefits 
+that using personas offers.
 
 Here's an example of a persona for a site 
 ([ClubSoda](https://github.com/club-soda/club-soda-guide)) 
 that helps people find non / low alcohol drinks options 
 and the venues that serve them. 
-So the context of the persona is around her background with alcohol and her balance of drinking:
+The context of the persona 
+is around her background with alcohol 
+and her balance of drinking:
 
 ![Persona, Nisha the Consumer](https://user-images.githubusercontent.com/16775804/46004041-d5933300-c0a9-11e8-9c97-c7ea0ad38d9e.png "Persona, Nisha the Consumer")
 
