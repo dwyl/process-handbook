@@ -1,10 +1,10 @@
 <div align="center">
 
-# How to create user personas
+# How to Create Personas for Human Centered Design
 
 Help your team stay focussed 
 on building _exactly_ what 
-the people using your product _really_ want.
+the **people** using your product _really_ want.
 
 </div>
 
@@ -128,8 +128,14 @@ is a _real_ person who is one of the admins of the App:
 ![Persona, Vicky the Venue Manager](https://user-images.githubusercontent.com/16775804/46004426-cb256900-c0aa-11e8-8faa-31878125a4d4.png "Persona, Vicky the Venue Manager")
 ![Persona, Jussi from Club Soda](https://user-images.githubusercontent.com/16775804/46004730-7c2c0380-c0ab-11e8-96b1-267bdc416001.png "Persona, Jussi from Club Soda")
 
+These personas and illustrations were created by
+[Cleo](https://github.com/Cleop)
+our multi-talented Developer and scrum master.
 
-## Make Your Own _Instructions_ 
+
+## _Instructions_ to Make Your Own!
+
+
 
 ### 1. Photos / Images
 
@@ -142,12 +148,38 @@ If you don't _aready_ have great drawing skills
 (_or the time/patience to learn_),
 then Bitmoji 
 [bitmoji.com](https://www.bitmoji.com)
-is a great way to create a _personalised_
-character.
+is a great (***FREE***) way 
+to create a _personalised_ avatar.
 
 ![bitmoji](https://user-images.githubusercontent.com/194400/85795717-a901c480-b730-11ea-912d-ec07fbcbcaa1.png)
 
+The best way to use Bitmoji is to download the App
+from the Apple App Store or Google Play store
+and create the avatar on your phone.
+There is also a Chrome extension 
+if you prefer _not_ to download any apps.
+Bare in mind that we are security/privacy concious
+@dwyl and wouldn't recommend any app 
+that we haven't checked, downloaded and used ourselves.
+You can deniy all permissions on the App and it still works fine.
+It won't have access to any of your personal data,
+and you can **`delete`** it as soon as you've finished using it.
+There is zero marginal cost to the creators of the App.
 
+> **Note**: Yes, bitmoji is owned by 
+[**Snap Inc.**](https://en.wikipedia.org/wiki/Snap_Inc.) 
+makers of 
+[Snapchat](https://en.wikipedia.org/wiki/Snapchat) 
+the App that systematically sucks the attention
+of America's teenagers ... 🙄 <br />
+But you _anyone_ can _use_ Bitmoji to create 
+personalised avatars and then ***`delete`*** the App
+without giving _any_ personal information to Snap. 
+Simply _ignore_ their request to "start by taking a selfie",
+or uploading a photo of yourself. 
+Just create your emoji based on the desired _attributes_
+and then download the resulting "bitmoji"
+along with any variations you want.
 
 
 <br />
