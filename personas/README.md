@@ -138,7 +138,8 @@ This is a great way of giving specific context
 for the purpose behind a particular feature.
 
 Personas are also beneficial
-for introducing new team members or stakeholders.
+for introducing new team members or stakeholders
+to your product and its key audience.
 
 Personas can be tailored to the unique needs and goals
 of your project according to what you consider relevant.
