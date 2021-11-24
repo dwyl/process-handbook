@@ -13,7 +13,7 @@ the services we have successfully used in the past below.
 
 ## Sender in Portugal
 
-### Recipient in Portugal (Domestic)
+### Recipient in Portugal (Domestic)
 So far, we have only used the Portuguese national mail service,
 [CTT](https://www.ctt.pt/) to deliver documents and items domestically.
 
@@ -32,9 +32,6 @@ international deliveries and there were multiple weight limitations
 
 We found a couple of others, but they were almost impossible to book online.
 
-_Note: We have not used [EuroSender](https://www.eurosender.com/) yet, but
-intend to investigate this option when we next require courier services_.
-
 #### DHL
 We have only chosen to use **DHL Express** to date because we have needed to
 send documents during [the coronavirus pandemic](https://covid19.who.int/)
@@ -50,6 +47,18 @@ https://mydhl.express.dhl/pt/pt/shipment.html#/rate-and-quote
 And follow the booking instructions - you will be able to book collection dates
 and time windows as part of the process.
 The process is simple and reliable.
+
+#### EuroSender
+We have since used [EuroSender](https://www.eurosender.com/) with success and has
+much cheaper to send documents using this option than DHL.
+However, it is _not_ very cheap for sending _parcels_ to the _UK_.
+
+#### Sending parcels to the UK
+We were in a situation where we needed to send a small parcel to the UK (not
+documents) and found the cheapest/most adequate to our needs services through
+https://www.parcelhero.com/
+or 
+https://www.packlink.com/
 
 ## Sender in the UK
 
