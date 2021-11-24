@@ -14,6 +14,7 @@ the services we have successfully used in the past below.
 ## Sender in Portugal
 
 ### Recipient in Portugal (Domestic)
+
 So far, we have only used the Portuguese national mail service,
 [CTT](https://www.ctt.pt/) to deliver documents and items domestically.
 
@@ -49,11 +50,13 @@ and time windows as part of the process.
 The process is simple and reliable.
 
 #### EuroSender
+
 We have since used [EuroSender](https://www.eurosender.com/) with success and has
 much cheaper to send documents using this option than DHL.
 However, it is _not_ very cheap for sending _parcels_ to the _UK_.
 
 #### Sending parcels to the UK
+
 We were in a situation where we needed to send a small parcel to the UK (not
 documents) and found the cheapest/most adequate to our needs services through
 https://www.parcelhero.com/
