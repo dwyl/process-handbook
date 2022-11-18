@@ -41,7 +41,7 @@ that is using the product in a particular way.
 The format in which they are written can vary
 according to the needs of the project.
 This tutorial will focus on
-["proto personas"](http://uxmag.com/articles/using-proto-personas-for-executive-alignment).
+["proto personas"](https://uxmag.com/articles/using-proto-personas-for-executive-alignment).
 Proto personas are ideal for projects
 that are short on time / resources
 but still want the core benefits
@@ -222,7 +222,7 @@ and edit the persona template text.
 
 Once you have edited the data in the persona template,
 take a screenshot
-(see [take-a-screenshot.org](http://www.take-a-screenshot.org)
+(see [take-a-screenshot.org](https://www.take-a-screenshot.org)
 if you don't know _how_)
 and upload it to GitHub
 where you can share it with your team.
