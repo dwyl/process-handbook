@@ -3,7 +3,7 @@
 > The sprint is a **five-day process** for *answering critical business questions through design, prototyping, and testing ideas* with customers.  
 Developed at Google Ventures (GV), it’s a “greatest hits” of **business strategy, innovation, behavior science, design thinking**, and more—packaged into a battle-tested process that any team can use.  
 
-_Source: [Google Ventures](http://www.gv.com/sprint/)_
+_Source: [Google Ventures](https://www.gv.com/sprint/)_
 
 With a few projects using this methodology coming up in 2018, here's a brief summary of the process, some bullets for use in proposals etc., and some general resources / further reading. (https://github.com/dwyl/process-handbook/issues/80)
 
@@ -25,7 +25,7 @@ Here is an image that we liked which neatly illustrates the process:
 
 ## Process in more detail 
 
-(While reading this, do bear in mind that dwyl would tweak the process below based on the nature of the client/objective/timings/etc. - this is the canonical process as described at [Google Ventures](http://www.gv.com/sprint/))
+(While reading this, do bear in mind that dwyl would tweak the process below based on the nature of the client/objective/timings/etc. - this is the canonical process as described at [Google Ventures](https://www.gv.com/sprint/))
 
 ### Before the workshop
 
