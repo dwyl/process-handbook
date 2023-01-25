@@ -301,3 +301,8 @@ for the _real_ person using the product
 can be _even more_ useful than a fictional one.
 We just need to be careful to only use people
 who have given their consent to be personified.
+
+
+## Additional Personas for @dwyl App
+
+<img width="1504" alt="Inês Busy Working Mum" src="https://user-images.githubusercontent.com/194400/214538321-b80e762e-e6f7-4507-bf52-b52500d8d874.png">
